@@ -9,9 +9,10 @@ This is your documentation site. Here you can find all the information you need 
 
 ## Getting Started
 
-1. [Installation Guide](installation.md)
-2. [Basic Usage](usage.md)
-3. [API Reference](api.md)
+1. [Introductie](introductie.md) - Een overzicht van de documentatie
+2. [Installation Guide](installation.md)
+3. [Basic Usage](usage.md)
+4. [API Reference](api.md)
 
 ## Contributing
 
