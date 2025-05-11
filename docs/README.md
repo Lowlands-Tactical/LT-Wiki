@@ -1,6 +1,6 @@
-# Documentation Site
+# Lowlands Tactical Wiki
 
-This is a documentation site built with GitHub Pages and Jekyll.
+This is the documentation site for Lowlands Tactical, built with Jekyll and Just the Docs theme.
 
 ## Local Development
 
@@ -41,10 +41,7 @@ This site is automatically deployed to GitHub Pages when changes are pushed to t
 
 ## Contributing
 
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
+Please see our [Contributing Guide](contributing.md) for more information on how to contribute to this documentation.
 
 ## License
 
