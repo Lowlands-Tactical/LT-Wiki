@@ -1,24 +1,23 @@
 ---
 layout: home
-title: Home
-nav_order: 1
----
 
-# Welcome to Lowlands Tactical Wiki
+hero:
+  name: "LT Wiki"
+  text: "Arma 3 Unit Documentation"
+  tagline: Comprehensive documentation for our Arma 3 unit operations, training, and procedures
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /guide/getting-started
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/yourusername/lt-wiki
 
-This is the official documentation site for Lowlands Tactical. Here you can find all the information you need about our project.
-
-## Getting Started
-
-1. [Introductie](introductie.md) - Een overzicht van de documentatie
-2. [Installation Guide](installation.md)
-3. [Basic Usage](usage.md)
-4. [API Reference](api.md)
-
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](contributing.md) for more information.
-
-## Support
-
-If you need help, please check our [FAQ](faq.md) or [open an issue](https://github.com/Lowlands-Tactical/LT-Wiki/issues). 
+features:
+  - title: Unit Guide
+    details: Learn about our unit structure, rules, and how to get started with our operations.
+  - title: Mission Documentation
+    details: Detailed information about mission types, planning, and execution procedures.
+  - title: Training Materials
+    details: Access training materials for basic, advanced, and specialized unit roles.
+--- 
