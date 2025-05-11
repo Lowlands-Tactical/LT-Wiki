@@ -12,7 +12,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "@types/node": "^22.15.17",
-    "vitepress": "^1.0.0-rc.40"
+    "@types/node": "^20.11.24",
+    "vitepress": "^1.0.0-rc.44"
   }
 }
