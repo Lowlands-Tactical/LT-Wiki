@@ -1,10 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
-title: My Documentation
-description: A comprehensive documentation site
+title: Lowlands Tactical Wiki
+description: Lowlands Tactical Documentation
 color_scheme: dark
 aux_links:
   "GitHub Repository":
-    - "https://github.com/yourusername/your-repo"
+    - "https://github.com/Lowlands-Tactical/LT-Wiki"
 aux_links_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top"

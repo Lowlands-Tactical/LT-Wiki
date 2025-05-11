@@ -4,9 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to the Documentation
+# Welcome to Lowlands Tactical Wiki
 
-This is your documentation site. Here you can find all the information you need about our project.
+This is the official documentation site for Lowlands Tactical. Here you can find all the information you need about our project.
 
 ## Getting Started
 
@@ -21,4 +21,4 @@ We welcome contributions! Please see our [Contributing Guide](contributing.md) f
 
 ## Support
 
-If you need help, please check our [FAQ](faq.md) or [open an issue](https://github.com/yourusername/your-repo/issues). 
+If you need help, please check our [FAQ](faq.md) or [open an issue](https://github.com/Lowlands-Tactical/LT-Wiki/issues). 
