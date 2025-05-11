@@ -20,4 +20,12 @@ search:
 show_downloads: true
 just_the_docs:
   custom_css:
-    - assets/css/custom.css 
+    - assets/css/custom.css
+    - body,
+      body .site-header,
+      body .site-footer,
+      body .site-nav,
+      body .main-content {
+        background-color: var(--color-background-primary) !important;
+        color: var(--color-text-primary) !important;
+      } 
