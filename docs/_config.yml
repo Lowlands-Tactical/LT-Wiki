@@ -1,6 +1,6 @@
+remote_theme: pmarsceill/just-the-docs
 title: My Documentation
 description: A comprehensive documentation site
-theme: just-the-docs
 color_scheme: dark
 aux_links:
   "GitHub Repository":

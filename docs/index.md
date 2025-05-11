@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Welcome to the Documentation
+title: Home
+nav_order: 1
 ---
 
 # Welcome to the Documentation
