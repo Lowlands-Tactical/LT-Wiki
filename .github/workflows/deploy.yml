@@ -39,11 +39,12 @@ jobs:
       - name: Build with VitePress
         run: |
           npx vitepress build docs
+          ls -la dist/
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist
+          path: dist
 
   deploy:
     environment:
