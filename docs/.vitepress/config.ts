@@ -5,7 +5,7 @@ const isDev = process.env.NODE_ENV === 'development'
 
 export default defineConfig({
   title: "LT Wiki",
-  description: "Documentation for Arma 3 Unit",
+  description: "Lowlands Tactical Kennisbank",
   // Only use base URL in production
   base: isDev ? '/' : '/LT-Wiki/',
   themeConfig: {
@@ -132,12 +132,12 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/lt-wiki' },
-      { icon: 'discord', link: 'https://discord.gg/your-discord' }
+      { icon: 'github', link: 'https://github.com/Lowlands-Tactical' },
+      { icon: 'discord', link: 'https://discord.gg/WU9CydUm5G' }
     ],
     footer: {
       message: "Website mogelijk gemaakt door VitePress",
-      copyright: "Copyright © 2024-present Lowlands Tactical"
+      copyright: "Copyright © 2025 Lowlands Tactical"
     },
     outline: {
       label: 'Op deze pagina'

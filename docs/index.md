@@ -10,8 +10,8 @@ hero:
       text: Modset Installeren
       link: /algemene-informatie/modset-installeren
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/yourusername/lt-wiki
+      text: Bijdrage leveren
+      link: https://github.com/Lowlands-Tactical/LT-Wiki
 features:
   - title: Titel
     details: Tekst
