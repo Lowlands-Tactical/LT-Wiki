@@ -1,0 +1,79 @@
+/* Lowlands Tactical Custom Dark Theme */
+
+:root {
+  --color-background-primary: #18191b;
+  --color-background-secondary: #232427;
+  --color-accent: #ffb347;
+  --color-text-primary: #fff;
+  --color-text-secondary: #d1d1d1;
+}
+
+body, .site-header, .site-footer, .site-nav, .main-content {
+  background-color: var(--color-background-primary) !important;
+  color: var(--color-text-primary) !important;
+}
+
+a, .btn, .site-button {
+  background-color: var(--color-accent) !important;
+  color: #18191b !important;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+a:hover, .btn:hover, .site-button:hover {
+  background-color: #ffa500 !important;
+  color: #18191b !important;
+}
+
+.card, .event, .media, .callout {
+  background-color: var(--color-background-secondary) !important;
+  color: var(--color-text-primary) !important;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  padding: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-text-primary) !important;
+  font-weight: 800;
+}
+
+hr {
+  border-color: var(--color-background-secondary);
+}
+
+/* Optional: Style for section headings */
+.section-title {
+  color: var(--color-accent);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+/* Optional: Style for event date cards */
+.event-date {
+  background: var(--color-background-secondary);
+  color: var(--color-accent);
+  font-weight: bold;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  display: inline-block;
+  margin-right: 1em;
+}
+
+/* Optional: Media grid */
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+}
+
+.media-grid img {
+  width: 100%;
+  border-radius: 6px;
+  filter: grayscale(80%);
+} 

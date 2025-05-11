@@ -17,4 +17,7 @@ search:
   tokenizer_separator: /[\s/]+/
   rel_url: true
   suggest: true
-show_downloads: true 
+show_downloads: true
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css 
