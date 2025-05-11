@@ -1,49 +1,147 @@
 import { defineConfig } from 'vitepress'
 
+// Check if we're in development mode
+const isDev = process.env.NODE_ENV === 'development'
+
 export default defineConfig({
   title: "LT Wiki",
   description: "Documentation for Arma 3 Unit",
+  // Only use base URL in production
+  base: isDev ? '/' : '/LT-Wiki/',
   themeConfig: {
+    logo: {
+      light: '/logo-light.png',
+      dark: '/logo-dark.png',
+      alt: 'LT Wiki'
+    },
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: 'Zoeken...',
+            buttonAriaLabel: 'Zoeken'
+          },
+          modal: {
+            noResultsText: 'Geen resultaten gevonden voor',
+            resetButtonTitle: 'Zoekopdracht wissen',
+            footer: {
+              selectText: 'om te selecteren',
+              navigateText: 'om te navigeren',
+              closeText: 'om te sluiten'
+            }
+          }
+        }
+      }
+    },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Missions', link: '/missions/' },
-      { text: 'Training', link: '/training/' }
+      { text: "Home", link: "/" },
+      {
+        text: "Algemene Informatie",
+        items: [
+          { text: "Over Lowlands Tactical", link: "/algemene-informatie/over-lowlands-tactical" },
+          { text: "Modset Installeren", link: "/algemene-informatie/modset-installeren" },
+          { text: "Instellingen", link: "/algemene-informatie/instellingen" },
+          { text: "Troubleshooting", link: "/algemene-informatie/troubleshooting" },
+          { text: "Mediabeleid", link: "/algemene-informatie/mediabeleid" }
+        ]
+      },
+      {
+        text: "Tactische Syllabus",
+        items: [
+          { text: "Situational Awareness", link: "/tactische-syllabus/situational-awareness" },
+          { text: "Doelidentificatie", link: "/tactische-syllabus/doelidentificatie" },
+          { text: "Zelfhulp- en Kameradenhulp", link: "/tactische-syllabus/zelfhulp-kameradenhulp" },
+          { text: "Communicatie", link: "/tactische-syllabus/communicatie" },
+          { text: "Verplaatsing in groep", link: "/tactische-syllabus/verplaatsing-in-groep" },
+          { text: "Het contact", link: "/tactische-syllabus/het-contact" },
+          { text: "De Reorganisatie", link: "/tactische-syllabus/reorganisatie" },
+          { text: "Anti-Tankdrill", link: "/tactische-syllabus/anti-tankdrill" },
+          { text: "Optreden in verstedelijkt gebied", link: "/tactische-syllabus/verstedelijkt-gebied" },
+          { text: "Voertuigdrills", link: "/tactische-syllabus/voertuigdrills" }
+        ]
+      },
+      {
+        text: "Specialisaties",
+        items: [
+          { text: "Combat Life Saver", link: "/specialisaties/combat-life-saver" },
+          { text: "Lichte Antitank", link: "/specialisaties/lichte-antitank" },
+          { text: "J-TAC", link: "/specialisaties/j-tac" },
+          { text: "Engineer", link: "/specialisaties/engineer" },
+          { text: "Marksman", link: "/specialisaties/marksman" },
+          { text: "Vuurteamleider", link: "/specialisaties/vuurteamleider" },
+          { text: "Groepscommandant", link: "/specialisaties/groepscommandant" }
+        ]
+      },
+      {
+        text: "Missiemakers",
+        items: [
+          { text: "Template H3", link: "/missiemakers/template-h3" },
+          { text: "Scenario Eisen", link: "/missiemakers/scenario-eisen" },
+          { text: "Tips en Tricks", link: "/missiemakers/tips-en-tricks" }
+        ]
+      }
     ],
     sidebar: {
-      '/guide/': [
+      '/': [
         {
-          text: 'Guide',
+          text: 'Algemene Informatie',
           items: [
-            { text: 'Getting Started', link: '/guide/getting-started' },
-            { text: 'Unit Structure', link: '/guide/unit-structure' },
-            { text: 'Rules & Regulations', link: '/guide/rules' }
+            { text: "Over Lowlands Tactical", link: "/algemene-informatie/over-lowlands-tactical" },
+            { text: "Modset Installeren", link: "/algemene-informatie/modset-installeren" },
+            { text: "Instellingen", link: "/algemene-informatie/instellingen" },
+            { text: "Troubleshooting", link: "/algemene-informatie/troubleshooting" },
+            { text: "Mediabeleid", link: "/algemene-informatie/mediabeleid" }
           ]
-        }
-      ],
-      '/missions/': [
+        },
         {
-          text: 'Missions',
+          text: 'Tactische Syllabus',
           items: [
-            { text: 'Mission Types', link: '/missions/types' },
-            { text: 'Mission Planning', link: '/missions/planning' },
-            { text: 'Mission Execution', link: '/missions/execution' }
+            { text: "Situational Awareness", link: "/tactische-syllabus/situational-awareness" },
+            { text: "Doelidentificatie", link: "/tactische-syllabus/doelidentificatie" },
+            { text: "Zelfhulp- en Kameradenhulp", link: "/tactische-syllabus/zelfhulp-kameradenhulp" },
+            { text: "Communicatie", link: "/tactische-syllabus/communicatie" },
+            { text: "Verplaatsing in groep", link: "/tactische-syllabus/verplaatsing-in-groep" },
+            { text: "Het contact", link: "/tactische-syllabus/het-contact" },
+            { text: "De Reorganisatie", link: "/tactische-syllabus/reorganisatie" },
+            { text: "Anti-Tankdrill", link: "/tactische-syllabus/anti-tankdrill" },
+            { text: "Optreden in verstedelijkt gebied", link: "/tactische-syllabus/verstedelijkt-gebied" },
+            { text: "Voertuigdrills", link: "/tactische-syllabus/voertuigdrills" }
           ]
-        }
-      ],
-      '/training/': [
+        },
         {
-          text: 'Training',
+          text: 'Specialisaties',
           items: [
-            { text: 'Basic Training', link: '/training/basic' },
-            { text: 'Advanced Training', link: '/training/advanced' },
-            { text: 'Specialized Training', link: '/training/specialized' }
+            { text: "Combat Life Saver", link: "/specialisaties/combat-life-saver" },
+            { text: "Lichte Antitank", link: "/specialisaties/lichte-antitank" },
+            { text: "J-TAC", link: "/specialisaties/j-tac" },
+            { text: "Engineer", link: "/specialisaties/engineer" },
+            { text: "Marksman", link: "/specialisaties/marksman" },
+            { text: "Vuurteamleider", link: "/specialisaties/vuurteamleider" },
+            { text: "Groepscommandant", link: "/specialisaties/groepscommandant" }
+          ]
+        },
+        {
+          text: 'Missiemakers',
+          items: [
+            { text: "Template H3", link: "/missiemakers/template-h3" },
+            { text: "Scenario Eisen", link: "/missiemakers/scenario-eisen" },
+            { text: "Tips en Tricks", link: "/missiemakers/tips-en-tricks" }
           ]
         }
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yourusername/lt-wiki' }
-    ]
-  }
+      { icon: 'github', link: 'https://github.com/yourusername/lt-wiki' },
+      { icon: 'discord', link: 'https://discord.gg/your-discord' }
+    ],
+    footer: {
+      message: "Website mogelijk gemaakt door VitePress",
+      copyright: "Copyright © 2024-present Lowlands Tactical"
+    },
+    outline: {
+      label: 'Op deze pagina'
+    }
+  },
+  outDir: '../dist'
 }) 

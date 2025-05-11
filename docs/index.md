@@ -1,23 +1,22 @@
 ---
 layout: home
-
+title: Home
 hero:
-  name: "LT Wiki"
-  text: "Arma 3 Unit Documentation"
-  tagline: Comprehensive documentation for our Arma 3 unit operations, training, and procedures
+  name: "Lowlands Tactical"
+  text: "Kennisbank"
+  tagline: Deze wiki is bedoeld als beginpunt voor aspiranten en naslagwerk voor huidige leden. Alle informatie die je nodig hebt om op vrijdag met Lowlands Tactical mee te spelen kan je hier terug vinden.
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/getting-started
+      text: Modset Installeren
+      link: /algemene-informatie/modset-installeren
     - theme: alt
       text: View on GitHub
       link: https://github.com/yourusername/lt-wiki
-
 features:
-  - title: Unit Guide
-    details: Learn about our unit structure, rules, and how to get started with our operations.
-  - title: Mission Documentation
-    details: Detailed information about mission types, planning, and execution procedures.
-  - title: Training Materials
-    details: Access training materials for basic, advanced, and specialized unit roles.
+  - title: Titel
+    details: Tekst
+  - title: Titel
+    details: Tekst
+  - title: Titel
+    details: Tekst
 --- 
