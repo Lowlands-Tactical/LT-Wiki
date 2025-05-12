@@ -3,99 +3,84 @@ layout: doc
 title: Zelfhulp- en Kameradenhulp
 ---
 
-# Zelfhulp- en Kameradenhulp
+# Basis EHBO
 
-Zelfhulp- en Kameradenhulp zijn essentiële vaardigheden voor elke militair. Deze procedures zorgen ervoor dat gewonden snel en effectief geholpen kunnen worden, zelfs onder vijandelijk vuur.
+In deze gids leer je over de basisbeginselen van het bieden van EHBO. We verwachten van alle spelers dat zij bekend zijn met simpele levensreddende handelingen. Zo kunnen ze zichzelf en anderen tijdelijk stabiliseren, tot de Medic dit later kan overnemen. 
 
-## Basis Principes
+> ⚠️ Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
 
-### 1. Zelfhulp
-- Eerste hulp aan jezelf
-- Basis wondverzorging
-- Pijnbestrijding
-- Mobiliteit behouden
+## Jouw rol als vuurteamlid
 
-### 2. Kameradenhulp
-- Veilige benadering
-- Snelle triage
-- Effectieve behandeling
-- Evacuatie coördinatie
+Tijdens vuurgevechten kun je gewond raken. Toch is het overwicht houden in een vuurgevecht belangrijker dan direct starten met medische handelingen. Als meerdere mensen stoppen met schieten zal de vijand het vuurgevecht winnen. Dit kan juist leiden tot meerdere gewonden of een squad wipe.  
+Laat de vuurteamleider (VTL) weten dat je gewond bent en blijf vuur uitbrengen. Als er voldoende vuur uitgebracht wordt, kun je jezelf tijdelijk stabiliseren. Wanneer je kan starten met medische handelingen, zorg dan voor een beschutte plek. Een grote steen, dikke boomstronk, stenen muur, etc. kunnen voldoende bescherming bieden. Houd er rekening mee dat de vijand door o.a. houten muren kan schieten.
 
-### 3. Team Coördinatie
-- Communicatie
-- Dekking verzorgen
-- Verplaatsing
-- Medische ondersteuning
+Gebruik het terrein en zorg voor een veilige werkplek:  
+<p align="center">
+    <img src="/ehbo/ehbo1.jpg" alt="Afbeelding" />
+</p>  
 
-## Praktische Procedures
+Stabiliseer jezelf eerst, voordat je direct een Medic om hulp roept. Met veel wonden kun je, na een 'quick fix', prima doorvechten. Als een teamlid neer is, geef dit dan door aan de VTL en Medic.
 
-### Zelfhulp
-1. **Situatie Beoordeling**
-   - Controleer verwondingen
-   - Evalueer mobiliteit
-   - Bepaal volgende actie
-   - Communiceer status
+## Stabiliseren
 
-2. **Basis Behandeling**
-   - Stop bloedingen
-   - Verbind wonden
-   - Stabiliseer breuken
-   - Pijnbestrijding
+Het uitvoeren van medische handelingen doe je in het Medical Menu. Open deze met `H` of via ACE-interact. Wanneer je close range naar een speler kijkt en op `H` drukt, krijg je het Medical Menu van diegene.
 
-### Kameradenhulp
-1. **Benadering**
-   - Veilige route
-   - Dekking gebruiken
-   - Team coördinatie
-   - Situatie beoordeling
+**Self interact:**
+<p align="center">
+    <img src="/ehbo/ehbo2.jpg" alt="Afbeelding" />
+</p>  
 
-2. **Behandeling**
-   - Triage uitvoeren
-   - Levensreddende handelingen
-   - Wondverzorging
-   - Stabilisatie
+**Medical Menu:**  
+<p align="center">
+    <img src="/ehbo/ehbo3.png" alt="Afbeelding" />
+</p>    
 
-## Uitrusting
+- Links bovenin onder **EXAMINE & TREATMENT** kun je langs de verschillende medische handelingen klikken.  
+- In het midden zie je de status van de gewonde. Je kan op alle lichaamsdelen drukken. Om het geselecteerde lichaamsdeel staat nu een witte rand. Gekleurde lichaamsdelen zijn gewond (licht geel → donkerrood).  
+- Rechts bovenin zie je het **OVERVIEW**. Hier zie je per lichaamsdeel welke verwondingen er zijn en of deze nog open of dicht zijn.
 
-### Persoonlijke Medische Kit
-- Verbanden
-- Tourniquet
-- Pijnstillers
-- Desinfectiemiddel
+## Basis EHBO gear
 
-### Team Medische Kit
-- Geavanceerde verbanden
-- Infuus sets
-- Medicatie
-- Splints
+Elke infanterist draagt een beperkt aantal medische spullen op het lichaam of in het vest. Een Medic draagt veel meer supplies dan een voetsoldaat en beschikt daarnaast ook over Medic-specifieke gear.  
 
-## Training
+<p align="center">
+    <img src="/ehbo/ehbo4.png" alt="Afbeelding" />
+</p>   
 
-1. **Basis Training**
-   - Eerste hulp procedures
-   - Verbandtechnieken
-   - Triage systemen
-   - Communicatie
+- **Bandage (Basic)**: Plaatsen op een lichaamsdeel met een wond.  
+- **Bandage (Elastic)**: Plaatsen op een lichaamsdeel met een wond. *Vaak het meest effectief!*  
+- **Bandage (QuikClot)**: Plaatsen op een lichaamsdeel met een wond.  
+- **Splint**: Gebruik op een lichaamsdeel met een breuk.  
+- **Tourniquet (CAT)**: Gebruik op arm/been om het bloeden tijdelijk te stoppen.  
+- **Painkillers**: Gebruik op hoofd om pijn te bestrijden.  
 
-2. **Geavanceerde Training**
-   - Trauma zorg
-   - Team coördinatie
-   - Scenario's
-   - Evaluaties
+## Stappenplan stabiliseren:
+1. Maak wonden op **borst en hoofd** dicht met Elastic Bandage / Field Dressing / QuikClot.  
+2. Plaats een Tourniquet op gewonde armen of benen.  
+3. Plaats een splint op gebroken benen (met gebroken arm kun je doorvechten).  
 
-## Best Practices
+## Groene smoke
 
-- Blijf kalm onder druk
-- Volg procedures strikt
-- Communiceer duidelijk
-- Prioriteer veiligheid
-- Train regelmatig
+Groene smoke geeft een medische noodsituatie aan. Gebruiksvoorbeelden:  
+- Vuurteamlid markeert locatie van een gewonde voor de Medic.  
+- Medic geeft aan dat iemand neer is.  
+- Medic markeert noodhospitaal.  
+- Hoog in de lucht gooien om noodsituatie voor ander team te markeren.  
 
-## Evaluatiecriteria
+## Gewonden slepen of dragen
 
-Je wordt beoordeeld op:
-- Snelheid van handelen
-- Nauwkeurigheid
-- Team coördinatie
-- Communicatie
-- Veiligheid 
+Verplaats gewonden alleen als dit veilig kan via:  
+1. ACE-interact → `Drag` of `Carry`.  
+2. Of druk `H` bij de gewonde → selecteer `Drag/Carry` in het Medical Menu.  
+
+<p align="center">
+    <img src="/ehbo/ehbo5.png" alt="Afbeelding" />
+</p>   
+
+## Gewonde of dood (respawn)
+
+- Druk op het hoofd van een speler → selecteer `Response` in het Medical Menu om status te checken.  
+- Dode spelers: krijgen zwart triagelabel of bodybag. Ragdoll = dood.  
+<p align="center">
+    <img src="/ehbo/ehbo6.png" alt="Afbeelding" />
+</p>   
