@@ -59,6 +59,7 @@ export default defineConfig({
           { text: "Anti-Tankdrill", link: "/tactische-syllabus/anti-tankdrill" },
           { text: "Optreden in verstedelijkt gebied", link: "/tactische-syllabus/verstedelijkt-gebied" },
           { text: "Voertuigdrills", link: "/tactische-syllabus/voertuigdrills" }
+          { text: "Navigeren", link: "/tactische-syllabus/navigeren" }
         ]
       },
       {
@@ -107,6 +108,7 @@ export default defineConfig({
             { text: "Anti-Tankdrill", link: "/tactische-syllabus/anti-tankdrill" },
             { text: "Optreden in verstedelijkt gebied", link: "/tactische-syllabus/verstedelijkt-gebied" },
             { text: "Voertuigdrills", link: "/tactische-syllabus/voertuigdrills" }
+            { text: "Navigeren", link: "/tactische-syllabus/navigeren" }
           ]
         },
         {
