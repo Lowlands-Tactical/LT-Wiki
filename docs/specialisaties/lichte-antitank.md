@@ -12,7 +12,7 @@ _Auteur: R.Hoods - Maart 2025_
 
 ---
 
-## 📘 AT Quick Guide
+## AT Quick Guide
 
 | Wapen         | Type             | Herlaadbaar | Beste tegen                | Backblast |
 |---------------|------------------|-------------|----------------------------|-----------|
@@ -21,7 +21,7 @@ _Auteur: R.Hoods - Maart 2025_
 | Panzerfaust 3 | LAT (wegwerp)    | ❌           | Medium voertuigen          | ⚠️ Licht |
 | Javelin/Titan | Geavanceerd (HAT)| ✅           | Zware voertuigen (2km)     | ⚠️ Laag  |
 
-## 🔧 Standaard Schietprocedures
+## Standaard Schietprocedures
 
 ### LAT-procedure (bijv. RPG, M136)
 ```text
@@ -44,17 +44,12 @@ _Auteur: R.Hoods - Maart 2025_
 7. VUUR!
 ```
 
----
-
 ## Theorie
-
 ### Doel van de AT-specialist
 
 - Neutraliseert zware voertuigdreiging
 - Kan ook worden ingezet tegen lichte voertuigen, infanterie of structuren
 - Heeft kennis van munitietypen, voertuigen en richttechnieken
-
----
 
 ## Soorten AT-wapens
 
@@ -66,10 +61,7 @@ _Auteur: R.Hoods - Maart 2025_
 
 > **Backblast is gevaarlijk!** Voorkom dat teamgenoten of muren achter je staan. Niet vuren in gebouwen!
 
----
-
 ## Schiettechnieken
-
 ### Range instellen
 
 - Gebruik `Page Up` / `Page Down` om afstand handmatig in te stellen
@@ -79,8 +71,6 @@ _Auteur: R.Hoods - Maart 2025_
 
 - Gebruik richtkijker (bijv. bij Panzerfaust: strepen = afstand)
 - Locken bij Javelin vereist Thermal Mode (druk 2x `N`)
-
----
 
 ## Munitietypen
 
@@ -92,10 +82,7 @@ _Auteur: R.Hoods - Maart 2025_
 | AP    | Zware pantservoertuigen |
 | AA    | Luchtdoelen |
 
----
-
 ## Wapensystemen
-
 ### NLAW (Fire and Forget)
 
 - Automatisch rangen via `T`
@@ -122,8 +109,6 @@ _Auteur: R.Hoods - Maart 2025_
 - Tot 2km effectief, zeer geschikt voor zware voertuigen
 - Laag risico op backblast
 
----
-
 ## Voertuigdreigingen
 
 | Voertuig           | Dreiging   | Actie           |
@@ -134,8 +119,6 @@ _Auteur: R.Hoods - Maart 2025_
 | APC / IFV           | Hoog       | **Gebruik AT!** |
 | AA-voertuigen       | Hoog       | **Gebruik AT!** |
 | Tanks               | Zeer hoog  | **Gebruik AT!** |
-
----
 
 ## Checklist Voor Missies
 
@@ -148,15 +131,11 @@ _Auteur: R.Hoods - Maart 2025_
 - [ ] Communicatie geoefend met VTL
 ```
 
----
-
 ## Fout & Herstel
 
-- ❌ **Misgeschoten?** Herlaad en meld aan VTL
-- ❌ **Geen lock?** Check Thermal Mode
-- ❌ **Backblast teamlid geraakt?** Medisch handelen & evaluatie
-
----
+- **Misgeschoten?** Herlaad en meld aan VTL
+- **Geen lock?** Check Thermal Mode
+- **Backblast teamlid geraakt?** Medisch handelen & evaluatie
 
 ## Tips uit de praktijk
 
@@ -164,7 +143,3 @@ _Auteur: R.Hoods - Maart 2025_
 - Gebruik dekking en bereid je voor op fallback
 - Wissel je locatie na een schot
 - Wacht op commando van VTL voor vuur – of meld zelfstandig als je een dreiging spot
-
----
-
-Laatste update: Maart 2025
