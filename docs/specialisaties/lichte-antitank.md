@@ -5,12 +5,9 @@ title: Lichte Antitank
 
 
 # LowTac Training – Anti Tank
-
 _Auteur: R.Hoods - Maart 2025_
 
 > ⚠️ Deze handleiding is verplicht voor spelers die de AT-rol willen vervullen binnen LowTac-operaties.
-
----
 
 ## AT Quick Guide
 
