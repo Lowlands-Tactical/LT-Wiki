@@ -3,104 +3,168 @@ layout: doc
 title: Lichte Antitank
 ---
 
-# Lichte Antitank
 
-De Lichte Antitank specialist is verantwoordelijk voor het bestrijden van gepantserde doelen met draagbare wapensystemen. Deze rol vereist specialistische kennis en training.
+# LowTac Training – Anti Tank
 
-## Verantwoordelijkheden
+_Auteur: R.Hoods - Maart 2025_
 
-### 1. Wapensystemen
-- Beheersen van verschillende AT wapens
-- Onderhoud en inspectie
-- Munitie beheer
-- Veiligheid procedures
+> ⚠️ Deze handleiding is verplicht voor spelers die de AT-rol willen vervullen binnen LowTac-operaties.
 
-### 2. Tactische Inzet
-- Positie selectie
-- Schootsveld analyse
-- Team coördinatie
-- Terrein gebruik
+---
 
-### 3. Training
-- Teamleden trainen
-- Procedures bijhouden
-- Nieuwe technieken leren
-- Kennis delen
+## 📘 AT Quick Guide
 
-## Vereiste Vaardigheden
+| Wapen         | Type             | Herlaadbaar | Beste tegen                | Backblast |
+|---------------|------------------|-------------|----------------------------|-----------|
+| NLAW          | Fire and Forget  | ❌           | Lichte voertuigen          | ✅        |
+| RPG-7 / M136  | LAT              | ✅           | Infanterie, lichte voertuigen | ✅     |
+| Panzerfaust 3 | LAT (wegwerp)    | ❌           | Medium voertuigen          | ⚠️ Licht |
+| Javelin/Titan | Geavanceerd (HAT)| ✅           | Zware voertuigen (2km)     | ⚠️ Laag  |
 
-### Technische Kennis
-- Wapensystemen
-- Munitie types
-- Onderhoud procedures
-- Veiligheid protocollen
+## 🔧 Standaard Schietprocedures
 
-### Tactische Vaardigheden
-- Terrein analyse
-- Positie selectie
-- Team coördinatie
-- Situational awareness
+### LAT-procedure (bijv. RPG, M136)
+```text
+1. VTL: "AT gereedmaken!"
+2. AT'er: "AT gereed"
+3. Richt op doel
+4. AT'er: "Clear backblast!"
+5. VTL: "Backblast clear"
+6. VUUR!
+```
 
-### Praktische Vaardigheden
-- Wapen hantering
-- Schiettechnieken
-- Onderhoud
-- Probleemoplossing
+### HAT-procedure (bijv. Javelin)
+```text
+1. VTL: "AT gereedmaken!"
+2. AT'er: "AT gereed"
+3. Switch naar FLTR, zoom/fire mode aanpassen
+4. Lock target met TAB
+5. AT'er: "Clear backblast!"
+6. VTL: "Backblast clear"
+7. VUUR!
+```
+
+---
+
+## Theorie
+
+### Doel van de AT-specialist
+
+- Neutraliseert zware voertuigdreiging
+- Kan ook worden ingezet tegen lichte voertuigen, infanterie of structuren
+- Heeft kennis van munitietypen, voertuigen en richttechnieken
+
+---
+
+## Soorten AT-wapens
+
+| Type            | Beschrijving |
+|-----------------|--------------|
+| Fire and Forget | Eénmalig gebruik, automatisch richtend (bijv. NLAW) |
+| Herlaadbaar     | Meerdere schoten, beperkte scopes (bijv. RPG) |
+| Geavanceerd     | Meerdere vuurmodi, vision modes, lock systems (bijv. Javelin) |
+
+> **Backblast is gevaarlijk!** Voorkom dat teamgenoten of muren achter je staan. Niet vuren in gebouwen!
+
+---
+
+## Schiettechnieken
+
+### Range instellen
+
+- Gebruik `Page Up` / `Page Down` om afstand handmatig in te stellen
+- Sommige wapens zoals de NLAW kunnen automatisch rangen met `T`
+
+### Mikken
+
+- Gebruik richtkijker (bijv. bij Panzerfaust: strepen = afstand)
+- Locken bij Javelin vereist Thermal Mode (druk 2x `N`)
+
+---
+
+## Munitietypen
+
+| Type  | Gebruik |
+|-------|---------|
+| HE    | Infanterie |
+| HEAT  | Lichte/medium voertuigen |
+| HEDP  | Lichte voertuigen |
+| AP    | Zware pantservoertuigen |
+| AA    | Luchtdoelen |
+
+---
 
 ## Wapensystemen
 
-### 1. Draagbare Systemen
-- RPG-7
-- AT4
-- NLAW
-- Javelin
+### NLAW (Fire and Forget)
 
-### 2. Kenmerken
-- Bereik
-- Penetratie
-- Gewicht
-- Herlaadtijd
+- Automatisch rangen via `T`
+- Snel, effectief tegen lichte voertuigen
 
-## Trainingseisen
+### RPG-7 / M136 (Herlaadbaar)
 
-1. **Basis Training**
-   - Wapenkennis
-   - Veiligheid procedures
-   - Basis schiettechnieken
-   - Team coördinatie
+- Range instellen via `Page Up/Down`
+- Beperkte scopes → schat afstand met kaart/rangefinder
+- Lastig op bewegende doelen
 
-2. **Geavanceerde Training**
-   - Complexe scenario's
-   - Team tactieken
-   - Terrein gebruik
-   - Situational awareness
+### Panzerfaust 3
 
-3. **Praktijk Training**
-   - Live fire oefeningen
-   - Team scenario's
-   - Evaluaties
-   - Continue verbetering
+- Semi-wegwerp: scope herbruikbaar
+- Effectief tot 300m (bewegend) / 400m (stilstaand)
+- Richtkijker met afstandsstrepen
+- Let op: **lichte backblast**
 
-## Best Practices
+### Javelin / Titan (Geavanceerd)
 
-- Blijf up-to-date met nieuwe systemen
-- Train regelmatig
-- Onderhoud uitrusting
-- Communiceer duidelijk
-- Prioriteer veiligheid
+- Lock op doelen via `TAB` in Thermal Mode
+- Switch tussen `DIR` en `TOP` aanval met `CTRL + TAB`
+- Gebruik `N` voor visiemodes (day → night → thermal)
+- Tot 2km effectief, zeer geschikt voor zware voertuigen
+- Laag risico op backblast
 
-## Evaluatiecriteria
+---
 
-Je wordt beoordeeld op:
-- Wapenbeheersing
-- Schietnauwkeurigheid
-- Team coördinatie
-- Tactisch inzicht
-- Veiligheid
+## Voertuigdreigingen
 
-## Contact
+| Voertuig           | Dreiging   | Actie           |
+|--------------------|------------|-----------------|
+| Onbewapende Technical | Laag     | Let op uitstappers |
+| Technical (.50)     | Medium     | Gunner uitschakelen, geen AT |
+| Technical (AT/SPG)  | Hoog       | **Gebruik AT!** |
+| APC / IFV           | Hoog       | **Gebruik AT!** |
+| AA-voertuigen       | Hoog       | **Gebruik AT!** |
+| Tanks               | Zeer hoog  | **Gebruik AT!** |
 
-Voor vragen over de LAT rol:
-- Discord: #lat
-- Direct contact met LAT team
-- Training coördinatoren 
+---
+
+## Checklist Voor Missies
+
+```markdown
+- [ ] AT geladen met juiste munitie
+- [ ] Richtkijker ingesteld en getest
+- [ ] Rangefinder of kaartinfo beschikbaar
+- [ ] Lock-modus getest (indien HAT)
+- [ ] Backblast zone gecontroleerd
+- [ ] Communicatie geoefend met VTL
+```
+
+---
+
+## Fout & Herstel
+
+- ❌ **Misgeschoten?** Herlaad en meld aan VTL
+- ❌ **Geen lock?** Check Thermal Mode
+- ❌ **Backblast teamlid geraakt?** Medisch handelen & evaluatie
+
+---
+
+## Tips uit de praktijk
+
+- Mik altijd op zijkant of achterkant van voertuigen
+- Gebruik dekking en bereid je voor op fallback
+- Wissel je locatie na een schot
+- Wacht op commando van VTL voor vuur – of meld zelfstandig als je een dreiging spot
+
+---
+
+Laatste update: Maart 2025
