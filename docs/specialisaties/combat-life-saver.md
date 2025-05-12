@@ -9,7 +9,7 @@ _Auteur: R.Hoods - Juni 2024_
 
 > **Let op:** Deze gids is verplicht voor spelers die de rol van Medic willen spelen binnen LowTac. Als je deze training voltooid hebt, krijg je een trainingsvinkje in de ledenlijst en mag je het Medic-slot vervullen,
 
-## 📘 Quick Reference Guide
+## Quick Reference Guide
 
 | Vaardigheid                          | Beschrijving                                           |
 |-------------------------------------|--------------------------------------------------------|
@@ -21,7 +21,7 @@ _Auteur: R.Hoods - Juni 2024_
 | Noodhospitaal maken                 | Gebruik terrein + smoke                               |
 | Mass-casualty (Mass-cass) situatie  | Prioriteren, hulp vragen, CPR verdelen                |
 
-## 🎯 Doelstellingen na training
+## Doelstellingen na training
 
 - Begrijpt belang en kwetsbaarheid van de Medic-rol
 - Kent schijndoden/herkenning (respawn vs bewusteloos)
