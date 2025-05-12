@@ -3,89 +3,135 @@ layout: doc
 title: Combat Life Saver
 ---
 
-# Combat Life Saver
 
-De Combat Life Saver (CLS) is een gespecialiseerde rol binnen de eenheid die zich richt op het verlenen van medische zorg in gevechtssituaties. Deze specialisatie vereist zowel medische kennis als tactisch inzicht.
+# LowTac Training – Medic
+_Auteur: R.Hoods - Juni 2024_
 
-## Verantwoordelijkheden
+> **Let op:** Deze gids is verplicht voor spelers die de rol van Medic willen spelen binnen LowTac. Als je deze training voltooid hebt, krijg je een trainingsvinkje in de ledenlijst en mag je het Medic-slot vervullen,
 
-### 1. Medische Zorg
-- Eerste hulp verlenen
-- Triage uitvoeren
-- Basis levensreddende handelingen
-- Medische evacuatie coördineren
+## 📘 Quick Reference Guide
 
-### 2. Uitrusting
-- Medische kit beheren
-- Voorraad bijhouden
-- Uitrusting onderhouden
-- Noodvoorraden controleren
+| Vaardigheid                          | Beschrijving                                           |
+|-------------------------------------|--------------------------------------------------------|
+| ACE-medical menu gebruiken          | `H` of ACE-interact                                    |
+| Gewonde verplaatsen                 | `Drag` / `Carry` via ACE                              |
+| Triage toepassen                    | Via ACE-menu onderaan in het midden (`None` aanpassen)|
+| Medische status melden              | Naar VTL en gewonde (zwart scherm)                    |
+| Voorzichtigheid                     | Speel achteraan, veilig bewegen, praat zacht           |
+| Noodhospitaal maken                 | Gebruik terrein + smoke                               |
+| Mass-casualty (Mass-cass) situatie  | Prioriteren, hulp vragen, CPR verdelen                |
 
-### 3. Training
-- Teamleden trainen
-- Medische procedures bijhouden
-- Nieuwe technieken leren
-- Kennis delen
+## 🎯 Doelstellingen na training
 
-## Vereiste Vaardigheden
+- Begrijpt belang en kwetsbaarheid van de Medic-rol
+- Kent schijndoden/herkenning (respawn vs bewusteloos)
+- Voert zelfstandig medische handelingen uit
+- Gebruikt medische gear correct en efficiënt
+- Geeft duidelijke instructies aan teamleden
+- Richt veilige werkplek en noodhospitaal in
+- Herkent urgente vs minder urgente patiënten (triage)
 
-### Medische Kennis
-- Basis anatomie
-- Trauma zorg
-- Triage procedures
-- Medische terminologie
+## Basisprincipes
+### Gedrag & Bewustzijn
 
-### Tactische Vaardigheden
-- Veilige verplaatsing
-- Terrein analyse
-- Communicatie
-- Team coördinatie
+- Beweeg **achteraan het team**
+- **Start medische handelingen pas na vuurgevecht**
+- Behoud **situational awareness**
+- Werk beschut: boomstronken, stenen muren, rotsen
+- **Gebruik geen direct voice** tenzij noodzakelijk
 
-### Praktische Vaardigheden
-- Verbanden aanleggen
-- Tourniquet gebruik
-- Infuus aanleggen
-- Medicatie toedienen
+## Medische Gear – overzicht
 
-## Trainingseisen
+| Item                 | Gebruik                                             |
+|----------------------|-----------------------------------------------------|
+| **Elastic Bandage**  | Snel & effectief voor wonden                        |
+| **QuikClot / Field** | Alternatieven voor wondbehandeling                  |
+| **Tourniquet**       | Tijdelijk bloeding stoppen (arm/been)              |
+| **Splint**           | Behandeling van botbreuken                         |
+| **Surgical Kit**     | Wonden definitief sluiten                          |
+| **Blood IV (1000ml)**| Bij veel bloedverlies                              |
+| **Plasma / Saline (500ml)** | Bij licht bloedverlies                   |
+| **Epinephrine**      | Wekken bij stevige hartslag                        |
+| **Morphine / Painkillers** | Pijnstilling                               |
 
-1. **Basis Training**
-   - Medische basiskennis
-   - Eerste hulp procedures
-   - Triage systemen
-   - Communicatie protocollen
+## Medische Handelingen
 
-2. **Geavanceerde Training**
-   - Trauma zorg
-   - Gevechtsmedicijn
-   - Team leiderschap
-   - Situational awareness
+Gebruik het ACE-medical menu (`H`) om gewonden te behandelen:
 
-3. **Praktijk Training**
-   - Scenario's
-   - Team oefeningen
-   - Evaluaties
-   - Continue verbetering
+### Lichte verwonding – Stappenplan
 
-## Certificering
+1. Wonden sluiten: Elastic Bandage / QuikClot
+2. Surgical Kit gebruiken op wonden
+3. Splint toepassen op breuken
+4. Blood IV 1000ml bij veel bloedverlies
+5. 2x CPR → check pulse → herhalen tot 60+ BPM
+6. Inject Epinephrine bij hartslag
+7. Morphine / Painkillers voor pijnbestrijding
 
-Om CLS gecertificeerd te worden moet je:
-1. Basis training voltooien
-2. Praktijk examen afleggen
-3. Team evaluatie doorstaan
-4. Jaarlijkse hercertificering
+> Let op: bij *'Lost a lot of blood'* werkt Epinephrine pas na bloedtoevoer!
 
-## Best Practices
+### Zware verwonding – Stappenplan
 
-- Blijf up-to-date met medische kennis
-- Train regelmatig
-- Documenteer alle behandelingen
-- Communiceer duidelijk
-- Prioriteer veiligheid
+1. Tourniquets op alle ledematen
+2. Hoofd en borst sluiten
+3. Verwijder 1 tourniquet, geef bloed via arm (1000ml)
+4. Surgical Kit toepassen op hoofd/borst
+5. Herhaal CPR
+6. Sluit resterende wonden, breuken splinten
+7. Geef opnieuw CPR + Epinephrine
+8. Behandel pijn
 
-## Contact
+> Meerdere liters bloed kunnen nodig zijn bij zwaar bloedverlies!
 
-Voor vragen over de CLS rol:
-- Discord: #medical
-- Direct contact met medisch team
-- Training coördinatoren 
+## Noodsituaties & Mass-Cass
+### Mass-cass protocol
+
+- Roep hulp in als mogelijk
+- Richt **beschut noodhospitaal** in
+- **Markeer** locatie met smoke:
+  - Gele smoke = Medische hulp nodig
+  - Paarse smoke = Noodhospitaal
+
+### Triage toepassen
+
+| Kleur | Betekenis               |
+|-------|-------------------------|
+| 🔴 Rood   | Levensbedreigend         |
+| 🟠 Oranje | Urgent, stabiel maken    |
+| 🟢 Groen  | Lichtgewond, wachten     |
+| ⚫ Zwart  | Dood (respawn)           |
+
+Triage toepassen via ACE → `None` aanpassen onderaan.
+
+## Communicatie
+
+- **Met VTL**: aantal gewonden, status, updates
+- **Met gewonde**: vertel wat je doet ("je krijgt bloed", "bijna klaar")
+- **Met team**: geef instructies bij ondersteuning
+
+Voorbeelden:
+
+```text
+- "Speler, plaats tourniquets op beide benen"
+- "Speler, geef 2x CPR"
+- "Speler, stitch het rechterbeen"
+```
+
+## Resupply
+
+- Controleer je gear regelmatig
+- Vraag resupply aan bij 1/3 verbruik
+- Bloedtekort = reden voor aparte aanvulling
+
+## 🪖 Respawn Herkennen
+
+- Open medical menu → Klik op hoofd → Druk op 'Response'
+- Indien dood: zwart triagelabel + eventueel bodybag
+- Ragdoll = dood
+
+## 🟢 Groene Smoke
+
+Gebruik groene rookgranaat om medische situaties aan te geven:
+- Locatie van gewonde door vuurteamlid
+- Medic markeert locatie of noodhospitaal
+- Team markeert medische situatie voor ander team
