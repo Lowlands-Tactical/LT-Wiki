@@ -54,7 +54,7 @@ Elke infanterist draagt een beperkt aantal medische spullen op het lichaam of in
 - **Tourniquet (CAT)**: Gebruik op arm/been om het bloeden tijdelijk te stoppen.  
 - **Painkillers**: Gebruik op hoofd om pijn te bestrijden.  
 
-## Stappenplan stabiliseren:
+## Stappenplan stabiliseren
 1. Maak wonden op **borst en hoofd** dicht met Elastic Bandage / Field Dressing / QuikClot.  
 2. Plaats een Tourniquet op gewonde armen of benen.  
 3. Plaats een splint op gebroken benen (met gebroken arm kun je doorvechten).  
