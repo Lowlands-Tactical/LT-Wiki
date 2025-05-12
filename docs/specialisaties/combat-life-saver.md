@@ -123,13 +123,13 @@ Voorbeelden:
 - Vraag resupply aan bij 1/3 verbruik
 - Bloedtekort = reden voor aparte aanvulling
 
-## 🪖 Respawn Herkennen
+## Respawn Herkennen
 
 - Open medical menu → Klik op hoofd → Druk op 'Response'
 - Indien dood: zwart triagelabel + eventueel bodybag
 - Ragdoll = dood
 
-## 🟢 Groene Smoke
+## Groene Smoke
 
 Gebruik groene rookgranaat om medische situaties aan te geven:
 - Locatie van gewonde door vuurteamlid
