@@ -89,7 +89,7 @@ export default defineConfig({
           text: '1. Algemene Informatie',
           items: [
             { text: "1.1. Introductie", link: "/1_algemene_informatie/1_1_introductie" },
-            { text: "Modset Installeren", link: "/algemene-informatie/modset-installeren" },
+            { text: "1.2 Modset Installeren", link: "/1_algemene_informatie/1_2_modset_installeren" },
             { text: "Instellingen", link: "/algemene-informatie/instellingen" },
             { text: "Troubleshooting", link: "/algemene-informatie/troubleshooting" },
             { text: "Mediabeleid", link: "/algemene-informatie/mediabeleid" }
