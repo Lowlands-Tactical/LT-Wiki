@@ -37,9 +37,9 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       {
-        text: "Algemene Informatie",
+        text: "1. Algemene Informatie",
         items: [
-          { text: "Over Lowlands Tactical", link: "/algemene-informatie/over-lowlands-tactical" },
+          { text: "1.1. Introductie", link: "/1_algemene_informatie/1_1_introductie" },
           { text: "Modset Installeren", link: "/algemene-informatie/modset-installeren" },
           { text: "Instellingen", link: "/algemene-informatie/instellingen" },
           { text: "Troubleshooting", link: "/algemene-informatie/troubleshooting" },
@@ -86,9 +86,9 @@ export default defineConfig({
     sidebar: {
       '/': [
         {
-          text: 'Algemene Informatie',
+          text: '1. Algemene Informatie',
           items: [
-            { text: "Over Lowlands Tactical", link: "/algemene-informatie/over-lowlands-tactical" },
+            { text: "1.1. Introductie", link: "/1_algemene_informatie/1_1_introductie" },
             { text: "Modset Installeren", link: "/algemene-informatie/modset-installeren" },
             { text: "Instellingen", link: "/algemene-informatie/instellingen" },
             { text: "Troubleshooting", link: "/algemene-informatie/troubleshooting" },
