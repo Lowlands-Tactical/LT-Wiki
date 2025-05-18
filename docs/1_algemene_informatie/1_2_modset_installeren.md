@@ -38,8 +38,9 @@ Voor je begint:
 - Bij eerste opstart: wijs de juiste `arma3.exe` of `arma3_x64.exe` aan.
 - Vermijd `arma3battleye`, `arma3launcher`, of `arma3server`.
 
-📷 _Afbeelding: Begroetingsscherm Arma3Sync_
-
+<p align="center">
+  <img src="/1/1_2/img1.jpg" alt="Afbeelding" />
+</p>
 
 ### Controleer installatielocatie
 - Ga naar **Addons Options**.
