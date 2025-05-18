@@ -46,7 +46,9 @@ Voor je begint:
 - Ga naar **Addons Options**.
 - Controleer of het pad naar je Arma 3-installatie klopt.
 
-📷 _Afbeelding: Addons Options tab_
+<p align="center">
+  <img src="/1/1_2/img2.jpg" alt="Afbeelding" />
+</p>
 
 ### Launcher-opties configureren
 Ga naar het tabblad **Launcher Options** en vink deze aan:
@@ -57,7 +59,9 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 | No Splash Screen   | Slaat splash screens over                             |
 | Default World Empty| Geen map in hoofdmenu → snellere laadtijd             |
 
-📷 _Afbeelding: Launcher Options_
+<p align="center">
+  <img src="/1/1_2/img3.jpg" alt="Afbeelding" />
+</p>
 
 ## 1.2.4. Modset downloaden via Repository
 
