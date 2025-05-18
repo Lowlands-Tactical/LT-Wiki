@@ -74,25 +74,33 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 
 4. Klik op **Import**, dan **OK**.
 
-📷 _Afbeeldingen: Add repository_
+<p align="center">
+  <img src="/1/1_2/img4.jpg" alt="Afbeelding" />
+</p>
 
 ### Verbind met de repository
 - Klik op **Connect to Repository**.
 
-📷 _Afbeelding: Repositories met rode cirkel_
+<p align="center">
+  <img src="/1/1_2/img5.jpg" alt="Afbeelding" />
+</p>
 
 ### Verhoog je downloadsnelheid
 - Klik op de grote settingsknop.
 - Zet **Maximum number of connections** op **10**.
 
-📷 _Afbeelding: Settings venster_
+<p align="center">
+  <img src="/1/1_2/img6.jpg" alt="Afbeelding" />
+</p>
 
 ### Mods verifiëren en downloaden
 1. Klik op de groene **V** om bestaande mods te controleren.
 2. Klik op **Select All**.
 3. Start de download.
 
-📷 _Afbeelding: Verifiëren en downloaden_
+<p align="center">
+  <img src="/1/1_2/img7.jpg" alt="Afbeelding" />
+</p>
 
 > ☕ Tijd voor koffie! Dit kan een tijd duren.
 
@@ -103,7 +111,9 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 2. Klik op de blauwe plus onder **Modsets**.
 3. Kies **Lowlands Tactical - Moderne**, klik op **OK**.
 
-📷 _Afbeelding: Add Group_
+<p align="center">
+  <img src="/1/1_2/img8.jpg" alt="Afbeelding" />
+</p>
 
 ### Standaardmenu herstellen
 - Bij het opstarten kan het hoofdmenu in DLC-stijl staan.
@@ -123,7 +133,9 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 | Password            | TacLow                 |
 | Join with Modset    | ❌ Laat leeg            |
 
-📷 _Afbeelding: Server toevoegen_
+<p align="center">
+  <img src="/1/1_2/img9.jpg" alt="Afbeelding" />
+</p>
 
 4. Ga terug naar **Addons** en selecteer de modset onderaan om alles in één keer te laden.
 
@@ -131,7 +143,9 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 
 Zorg dat bij het opstarten van Arma 3 de juiste opties zijn aangevinkt.
 
-📷 _Afbeelding: Klaar om te joinen_
+<p align="center">
+  <img src="/1/1_2/img10.jpg" alt="Afbeelding" />
+</p>
 
 ## 1.2.8. Thema-repositories (zoals Vietnam)
 
@@ -144,7 +158,9 @@ Gebruik deze URL bij *Public auto-config url*:
 `https://arma3sync.lowtac.nl/a3s-Repos/Vietnam/autoconfig`
 
 
-📷 _Afbeelding: Vietnam repo_
+<p align="center">
+  <img src="/1/1_2/img11.jpg" alt="Afbeelding" />
+</p>
 
 ## 1.2.7 Samenvatting
 
