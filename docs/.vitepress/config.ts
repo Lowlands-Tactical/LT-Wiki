@@ -49,7 +49,7 @@ export default defineConfig({
       {
         text: "2. Tactische Syllabus",
         items: [
-          { text: "Individuele Vaardigheden", link: "/2_tactische_syllabus/2_1_individuele_vaardigheden" },
+          { text: "2.1. Individuele Vaardigheden", link: "/2_tactische_syllabus/2_1_individuele_vaardigheden" },
           { text: "Doelidentificatie", link: "/tactische-syllabus/doelidentificatie" },
           { text: "Zelfhulp- en Kameradenhulp", link: "/tactische-syllabus/zelfhulp-kameradenhulp" },
           { text: "Communicatie", link: "/tactische-syllabus/communicatie" },
@@ -98,7 +98,7 @@ export default defineConfig({
         {
           text: '2. Tactische Syllabus',
           items: [
-            { text: "Individuele Vaardigheden", link: "/2_tactische_syllabus/2_1_individuele_vaardigheden" },
+            { text: "2.1. Individuele Vaardigheden", link: "/2_tactische_syllabus/2_1_individuele_vaardigheden" },
             { text: "Doelidentificatie", link: "/tactische-syllabus/doelidentificatie" },
             { text: "Zelfhulp- en Kameradenhulp", link: "/tactische-syllabus/zelfhulp-kameradenhulp" },
             { text: "Communicatie", link: "/tactische-syllabus/communicatie" },
