@@ -26,7 +26,7 @@ Deze pagina geeft een compleet overzicht van alle gebruikte keybinds.
 
 | Functie                         | Actie                                          |
 |--------------------------------|------------------------------------------------|
-| Medisch menu openen            | Via ACE Interact of Self-Interact             |
+| Medisch menu openen            | H / Self-Interact             |
 
 ## 1.3.4. ACE Throw (Granaten)
 
@@ -40,7 +40,7 @@ Deze pagina geeft een compleet overzicht van alle gebruikte keybinds.
 
 | Functie                 | Standaardtoets | Instellocatie                            |
 |------------------------|----------------|------------------------------------------|
-| Klimmen / springen     | V              | Configure > Controls > Custom Controls > User Action 1 |
+| Klimmen / springen     | Shift + V      | Configure > Controls > Custom Controls > User Action 1 |
 
 ## 1.3.6. Pointen (wijzen)
 
