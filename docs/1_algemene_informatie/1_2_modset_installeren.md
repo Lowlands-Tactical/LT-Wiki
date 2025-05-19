@@ -162,7 +162,7 @@ Gebruik deze URL bij *Public auto-config url*:
   <img src="/1/1_2/img11.jpg" alt="Afbeelding" />
 </p>
 
-## 1.2.7 Samenvatting
+## 1.2.7. Samenvatting
 
 | Stap           | Actie                                     |
 |----------------|--------------------------------------------|
