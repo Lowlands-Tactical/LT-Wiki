@@ -39,7 +39,7 @@ Voor je begint:
 - Vermijd `arma3battleye`, `arma3launcher`, of `arma3server`.
 
 <p align="center">
-  <img src="/1/1_2/img1.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img1.jpg" alt="Afbeelding" />
 </p>
 
 ### Controleer installatielocatie
@@ -47,7 +47,7 @@ Voor je begint:
 - Controleer of het pad naar je Arma 3-installatie klopt.
 
 <p align="center">
-  <img src="/1/1_2/img2.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img2.jpg" alt="Afbeelding" />
 </p>
 
 ### Launcher-opties configureren
@@ -60,7 +60,7 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 | Default World Empty| Geen map in hoofdmenu → snellere laadtijd             |
 
 <p align="center">
-  <img src="/1/1_2/img3.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img3.jpg" alt="Afbeelding" />
 </p>
 
 ## 1.2.4. Modset downloaden via Repository
@@ -75,14 +75,14 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 4. Klik op **Import**, dan **OK**.
 
 <p align="center">
-  <img src="/1/1_2/img4.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img4.jpg" alt="Afbeelding" />
 </p>
 
 ### Verbind met de repository
 - Klik op **Connect to Repository**.
 
 <p align="center">
-  <img src="/1/1_2/img5.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img5.jpg" alt="Afbeelding" />
 </p>
 
 ### Verhoog je downloadsnelheid
@@ -90,7 +90,7 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 - Zet **Maximum number of connections** op **10**.
 
 <p align="center">
-  <img src="/1/1_2/img6.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img6.jpg" alt="Afbeelding" />
 </p>
 
 ### Mods verifiëren en downloaden
@@ -99,7 +99,7 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 3. Start de download.
 
 <p align="center">
-  <img src="/1/1_2/img7.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img7.jpg" alt="Afbeelding" />
 </p>
 
 > ☕ Tijd voor koffie! Dit kan een tijd duren.
@@ -112,7 +112,7 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 3. Kies **Lowlands Tactical - Moderne**, klik op **OK**.
 
 <p align="center">
-  <img src="/1/1_2/img8.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img8.jpg" alt="Afbeelding" />
 </p>
 
 ### Standaardmenu herstellen
@@ -134,7 +134,7 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 | Join with Modset    | ❌ Laat leeg            |
 
 <p align="center">
-  <img src="/1/1_2/img9.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img9.jpg" alt="Afbeelding" />
 </p>
 
 4. Ga terug naar **Addons** en selecteer de modset onderaan om alles in één keer te laden.
@@ -144,7 +144,7 @@ Ga naar het tabblad **Launcher Options** en vink deze aan:
 Zorg dat bij het opstarten van Arma 3 de juiste opties zijn aangevinkt.
 
 <p align="center">
-  <img src="/1/1_2/img10.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img10.jpg" alt="Afbeelding" />
 </p>
 
 ## 1.2.8. Thema-repositories (zoals Vietnam)
@@ -159,7 +159,7 @@ Gebruik deze URL bij *Public auto-config url*:
 
 
 <p align="center">
-  <img src="/1/1_2/img11.jpg" alt="Afbeelding" />
+  <img src="/1_algemene_informatie/1_2_modset_installeren/img11.jpg" alt="Afbeelding" />
 </p>
 
 ## 1.2.7. Samenvatting

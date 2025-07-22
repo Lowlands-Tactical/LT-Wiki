@@ -8,15 +8,15 @@ hero:
   actions:
     - theme: brand
       text: Modset Installeren
-      link: /algemene-informatie/modset-installeren
+      link: /1_algemene_informatie/1_2_modset_installeren
     - theme: alt
       text: Bijdrage leveren
       link: https://github.com/Lowlands-Tactical/LT-Wiki
 features:
-  - title: Titel
-    details: Tekst
-  - title: Titel
-    details: Tekst
-  - title: Titel
-    details: Tekst
+  - title: Snel Starten
+    details: Alles wat je nodig hebt om direct aan de slag te gaan met Lowlands Tactical, van installatie tot eerste missie.
+  - title: Tactische Kennis
+    details: Leer de basisvaardigheden, teamrollen en voertuigen kennen om effectief samen te werken tijdens operaties.
+  - title: Voor en Door Leden
+    details: Deze wiki is continu in ontwikkeling dankzij bijdragen van leden. Deel je kennis en help het team groeien!
 --- 
