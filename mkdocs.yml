@@ -100,12 +100,12 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/your-unit-invite
+      link: https://discord.gg/WU9CydUm5G
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/your-unit-channel
+      link: https://www.youtube.com/channel/UCptY-I7KVhC1eyxGAswhFNg
     - icon: fontawesome/brands/bluesky
-      link: https://youtube.com/your-unit-channel
+      link: https://bsky.app/profile/lowlandstactical.bsky.social
     - icon: fontawesome/brands/github
-      link: https://youtube.com/your-unit-channel
+      link: https://github.com/Lowlands-Tactical
 
 copyright: Copyright &copy; 2025 Lowlands Tactical
