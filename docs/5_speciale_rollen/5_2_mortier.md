@@ -1,3 +1,10 @@
-# Mortier
+---
+layout: doc
+title: 5.2. Mortier
+---
+# 5.2. Mortier
+<span style="font-size:0.7em;">
+    :fontawesome-solid-user: Auteur: **N/A** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **N/A** door **N/A**
+</span>
 
-*Placeholder voor Mortier. Vul deze pagina aan met relevante informatie.* 
+!!! info "Dit artikel is nog leeg! :("

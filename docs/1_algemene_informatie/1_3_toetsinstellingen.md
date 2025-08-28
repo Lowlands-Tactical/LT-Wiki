@@ -1,13 +1,15 @@
 ---
 layout: doc
-title: Toetsinstellingen
+title: 1.3. Toetsinstellingen
 ---
-
-# 1.3. Keybinds Overzicht
+# 1.3. Toetsinstellingen
+<span style="font-size:0.7em;">
+    :fontawesome-solid-user: Auteur: **Pek** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+</span>
 
 Deze pagina geeft een compleet overzicht van alle gebruikte keybinds.
 
-## 1.3.1. ACRE2 Radio
+### ACRE2 Radio
 
 | Functie                    | Standaardtoets         | Instellocatie                                    |
 |---------------------------|------------------------|--------------------------------------------------|
@@ -15,20 +17,20 @@ Deze pagina geeft een compleet overzicht van alle gebruikte keybinds.
 | Radio 1 (short range)     | Caps Lock              | Controls > Configure Addons > ACRE2 > Radio 1   |
 | Radio 2 (long range)      | Ctrl + Caps Lock       | Controls > Configure Addons > ACRE2 > Radio 2   |
 
-## 1.3.2. ACE Interacties
+### ACE Interacties
 
 | Functie                      | Standaardtoets         | Instellocatie                             |
 |-----------------------------|------------------------|-------------------------------------------|
 | ACE Interact                | Windows                | ESC > Configure > Controls > Addons > ACE |
 | ACE Self-Interact           | Ctrl + Windows         | Idem                                     |
 
-## 1.3.3. ACE Medisch
+### ACE Medisch
 
-| Functie                         | Actie                                          |
-|--------------------------------|------------------------------------------------|
-| Medisch menu openen            | H / Self-Interact             |
+| Functie               | Standaardtoets      | Instellocatie |
+|----------------------|---------------------|---------------|
+| Medisch menu openen  | H / Self-Interact   |               |
 
-## 1.3.4. ACE Throw (Granaten)
+### ACE Throw (Granaten)
 
 | Functie                         | Standaardtoets        | Instellocatie                               |
 |--------------------------------|-----------------------|---------------------------------------------|
@@ -36,19 +38,19 @@ Deze pagina geeft een compleet overzicht van alle gebruikte keybinds.
 | Verander item (rook, granaat)  | Ctrl + G              | ESC > Configure > Addons > ACE              |
 | Oude "Throw" verwijderen       | G (verwijderen)       | Controls > Weapons > Throw                  |
 
-## 1.3.5. Enhanced Movement
+### Enhanced Movement
 
 | Functie                 | Standaardtoets | Instellocatie                            |
 |------------------------|----------------|------------------------------------------|
 | Klimmen / springen     | Shift + V      | Configure > Controls > Custom Controls > User Action 1 |
 
-## 1.3.6. Pointen (wijzen)
+### Pointen (wijzen)
 
 | Functie                 | Standaardtoets | Instellocatie           |
 |------------------------|----------------|--------------------------|
 | Richtpunt aanwijzen    | Shift + `      | ACE Common (Addons)      |
 
-## 1.3.7. Uitrusting en AT
+### Uitrusting en AT
 
 | Functie                           | Standaardtoets | Instellocatie               |
 |----------------------------------|----------------|------------------------------|

@@ -1,0 +1,109 @@
+site_name: Lowlands Tactical Kennisbank
+theme:
+  name: material
+  logo: img/lt_logo.png
+  favicon: img/favicon.ico
+  language: nl
+  features:
+    - content.code.annotate
+    - content.tooltips
+    - navigation.top
+    - navigation.collapse
+    - navigation.instant
+    - content.tabs.link
+    - search.highlight
+    - icons
+    - search.suggest
+    - search.share
+    - navigation.footer
+  palette:
+    scheme: slate
+    primary: black
+    accent: orange
+
+nav:
+  - Home: index.md
+  - 1. Algemene Informatie:
+    - 1.1. Introductie: 1_algemene_informatie/1_1_introductie.md
+    - 1.2. Modset Installeren: 1_algemene_informatie/1_2_modset_installeren.md
+    - 1.3. Toetsinstellingen: 1_algemene_informatie/1_3_toetsinstellingen.md
+    - 1.4. Troubleshooting: 1_algemene_informatie/1_4_troubleshooting.md
+    - 1.5. Mediabeleid: 1_algemene_informatie/1_5_mediabeleid.md
+  - 2. Basisvaardigheden:
+    - 2.1. Basis EHBO: 2_basisvaardigheden/2_1_basis_ehbo.md
+    - 2.2. Navigeren: 2_basisvaardigheden/2_2_navigeren.md
+    - 2.3. RAD: 2_basisvaardigheden/2_3_richting_afstand_doel.md
+    - 2.4. Reageren op Contact: 2_basisvaardigheden/2_4_reageren_op_contact.md
+    - 2.5. Situational Awareness: 2_basisvaardigheden/2_5_situational_awareness.md
+    - 2.6. Optreden Verstedelijkt Gebied: 2_basisvaardigheden/2_6_optreden_verstedelijkt_gebied.md
+    - 2.7. Communicatie: 2_basisvaardigheden/2_7_communicatie.md
+  - 3. Vuurteam Rollen:
+    - 3.1. Grenadier: 3_vuurteam_rollen/3_1_grenadier.md
+    - 3.2. Anti Tank: 3_vuurteam_rollen/3_2_anti_tank.md
+    - 3.3. Medic: 3_vuurteam_rollen/3_3_medic.md
+    - 3.4. Engineer: 3_vuurteam_rollen/3_4_engineer.md
+    - 3.5. DMR: 3_vuurteam_rollen/3_5_dmr.md
+  - 4. Voertuigen:
+    - 4.1. Voertuigen: 4_voertuigen/4_1_voertuigen.md
+    - 4.2. Fastrope: 4_voertuigen/4_2_fastrope.md
+    - 4.3. Paradrop: 4_voertuigen/4_3_paradrop.md
+    - 4.4. Heli Pilot: 4_voertuigen/4_4_heli_pilot.md
+    - 4.5. Jet Pilot: 4_voertuigen/4_5_jet_pilot.md
+  - 5. Speciale Rollen:
+    - 5.1. J-TAC: 5_speciale_rollen/5_1_j_tag.md
+    - 5.2. Mortier: 5_speciale_rollen/5_2_mortier.md
+  - 6. Leiding:
+    - 6.1. GC: 6_leiding/6_1_gc.md
+    - 6.2. VTL: 6_leiding/6_2_vtl.md
+  - 7. Missiemakers:
+    - 7.1. Scenario Eisen: 7_missiemakers/7_1_scenario_eisen.md
+    - 7.2. Template H3: 7_missiemakers/7_2_template_h3.md
+    - 7.3. Tips en Tricks: 7_missiemakers/7_3_tips_en_tricks.md
+
+extra_css:
+  - 'custom.css'
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.blocks.caption
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/your-unit-invite
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/your-unit-channel
+    - icon: fontawesome/brands/bluesky
+      link: https://youtube.com/your-unit-channel
+    - icon: fontawesome/brands/github
+      link: https://youtube.com/your-unit-channel
+
+copyright: Copyright &copy; 2025 Lowlands Tactical

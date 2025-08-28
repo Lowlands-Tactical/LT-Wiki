@@ -1,33 +1,35 @@
 ---
 layout: doc
-title: Doelidentificatie
+title: 2.3. RAD
 ---
-
-# Doelidentificatie
+# 2.3. RAD
+<span style="font-size:0.7em;">
+    :fontawesome-solid-user: Auteur: **Pek** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **26-08-2025** door **Pek**
+</span>
 
 Doelidentificatie is het vermogen om vijandelijke doelen snel en accuraat te herkennen en te classificeren. Deze vaardigheid is cruciaal voor het voorkomen van friendly fire en effectief optreden.
 
-## Basis Principes
+### Basis Principes
 
-### 1. Visuele Identificatie
+**Visuele Identificatie**
 - Herken vijandelijke uniformen
 - Identificeer wapens en uitrusting
 - Let op beweging en gedrag
 - Gebruik optische hulpmiddelen
 
-### 2. Tactische Herkenning
+**Tactische Herkenning**
 - Ken de vijandelijke ORBAT
 - Begrijp tactische patronen
 - Herken vijandelijke formaties
 - Identificeer commandostructuren
 
-### 3. Terrein Analyse
+**Terrein Analyse**
 - Begrijp het tactische voordeel
 - Identificeer waarschijnlijke posities
 - Herken natuurlijke dekking
 - Evalueer schootsvelden
 
-## Praktische Oefeningen
+### Praktische Oefeningen
 
 1. **Quick Recognition Drill**
    - Snelle identificatie van doelen
@@ -47,7 +49,7 @@ Doelidentificatie is het vermogen om vijandelijke doelen snel en accuraat te her
    - Schietbeslissingen
    - Team coördinatie
 
-## Best Practices
+### Best Practices
 
 - Blijf altijd alert
 - Gebruik alle beschikbare informatie
@@ -55,7 +57,7 @@ Doelidentificatie is het vermogen om vijandelijke doelen snel en accuraat te her
 - Twijfel = niet schieten
 - Train regelmatig
 
-## Evaluatiecriteria
+### Evaluatiecriteria
 
 Je doelidentificatie wordt beoordeeld op:
 - Snelheid van herkenning
@@ -64,7 +66,7 @@ Je doelidentificatie wordt beoordeeld op:
 - Tactisch inzicht
 - Besluitvorming
 
-## Veiligheid
+### Veiligheid
 
 Belangrijke veiligheidsregels:
 1. Positieve identificatie vereist

@@ -1,22 +1,35 @@
 ---
-layout: home
-title: Home
-hero:
-  name: "Lowlands Tactical"
-  text: "Kennisbank"
-  tagline: Deze wiki is bedoeld als beginpunt voor aspiranten en naslagwerk voor huidige leden. Alle informatie die je nodig hebt om op vrijdag met Lowlands Tactical mee te spelen kan je hier terug vinden.
-  actions:
-    - theme: brand
-      text: Modset Installeren
-      link: /1_algemene_informatie/1_2_modset_installeren
-    - theme: alt
-      text: Bijdrage leveren
-      link: https://github.com/Lowlands-Tactical/LT-Wiki
-features:
-  - title: Snel Starten
-    details: Alles wat je nodig hebt om direct aan de slag te gaan met Lowlands Tactical, van installatie tot eerste missie.
-  - title: Tactische Kennis
-    details: Leer de basisvaardigheden, teamrollen en voertuigen kennen om effectief samen te werken tijdens operaties.
-  - title: Voor en Door Leden
-    details: Deze wiki is continu in ontwikkeling dankzij bijdragen van leden. Deel je kennis en help het team groeien!
---- 
+layout: doc
+title: Homepagina
+---
+#  Welkom op de kennisbank!
+<span style="font-size:0.7em;">
+    :fontawesome-solid-user: Auteur: **Pek** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+</span>
+
+Dit is het centrale naslagwerk voor alle leden van onze community. Het is ontworpen om je te voorzien van alle benodigde informatie, van de eerste stappen tot geavanceerde tactieken. 
+
+Deze documentatie wordt regelmatig bijgewerkt. Gebruik het menu links om te navigeren of de zoekfunctie om direct te vinden wat je zoekt.
+
+# 
+
+<div class="grid cards" markdown>
+
+-   **Snel starten**
+
+    ---
+
+    Alles wat je nodig hebt om direct aan de slag te gaan met Lowlands Tactical, van installatie tot eerste missie.
+
+-   **Voor en Door Leden**
+
+    ---
+
+    Deze wiki is continu in ontwikkeling dankzij bijdragen van leden. Deel je kennis en help het team groeien!
+
+</div>
+
+
+
+
+
