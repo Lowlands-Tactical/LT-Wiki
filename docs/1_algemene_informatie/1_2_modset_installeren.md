@@ -49,7 +49,7 @@ Voor je begint:
 Ga naar het tabblad **Launcher Options** en vink deze aan:
 
 | Optie              | Effect                                                |
-|--------------------|--------------------------------------------------------|
+|--------------------|-------------------------------------------------------|
 | No Pause           | Arma blijft draaien bij Alt+Tab                       |
 | No Splash Screen   | Slaat splash screens over                             |
 | Default World Empty| Geen map in hoofdmenu → snellere laadtijd             |
