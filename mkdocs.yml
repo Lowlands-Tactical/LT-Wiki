@@ -1,4 +1,6 @@
 site_name: Lowlands Tactical Kennisbank
+site_url: https://lowlands-tactical.github.io/LT-Wiki/
+repo_url: https://github.com/Lowlands-Tactical/LT-Wiki/
 theme:
   name: material
   logo: img/lt_logo.png
