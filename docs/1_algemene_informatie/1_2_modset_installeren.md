@@ -110,13 +110,13 @@ https://arma3sync.lowtac.nl/a3s-Repos/Moderne/autoconfig
 2. Klik op het blauwe plusje (+).
 3. Vul de servergegevens in:
 
-| Veld                | Waarde                |
+| Veld                | Waarde                 |
 |---------------------|------------------------|
 | Description         | Lowlands Tactical      |
 | IP Address          | games.lowtac.nl        |
 | Port                | 2302                   |
 | Password            | TacLow                 |
-| Join with Modset    | ❌ Laat leeg            |
+| Join with Modset    | ❌ Laat leeg           |
 
 ![Afbeelding](img/1_2_modset_installeren/img9.jpg)
 
