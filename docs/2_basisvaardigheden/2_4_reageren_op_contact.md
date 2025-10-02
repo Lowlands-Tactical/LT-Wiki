@@ -48,6 +48,7 @@ Doorgaans bepalend de vuurteamleiders voor het vuurteam welk commando er geldt. 
 
 ## Reageren op contact
 Wanneer jouw team onverhoopt in contact komt, moet het team hier adequaat op reageren om het initatief van het vuurgevecht te behouden. Hierbij doorlopen we de volgende stappen:
+
 - Schiet twee keer op je doel.
 - Ga knielen/liggen of zoek 'hard cover' als deze dichtbij beschikbaar is.
 - Roep het contact uit via de RAD-prodedure (Richting - Afstand - Doel). Zo weet iedereen wat de dreiging is.
