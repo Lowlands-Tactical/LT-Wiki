@@ -12,7 +12,9 @@ In deze gids leer je over de basisbeginselen van reageren op contact, wapenveili
 
 ## Wapenveiligheid
 Een simpele skill die al snel voor lief wordt genomen is 'Wapenveiligheid'. Een misklik is zo gemaakt. Je wil voorkomen dat je lul van de week bent, doordat je met een misklik een teamgenoot neerschiet of je de vijand per ongeluk alarmeert.
+
 Er zijn een aantal simpele trucjes die je kan toepassen om bovenstaande te voorkomen:
+
 - Druk 2x op control om je wapen te laten zakken tijdens overlegmomenten. Als je per ongeluk een klik zou maken, dan gaat eerst je wapen omhoog. Daarna kun je pas vuren.
 - Houd je 'triggerfinger' op je middelste muisknop als je niet actief in gevecht bent. Dit verkleint de kans op miskliks.
 - Als je om welke reden dan ook moet alt-tabben (de focus tijdelijk van Arma naar een ander programma verplaatsen), druk dan eerst op de Escape-toets of open je in-game map voordat je dat doet. Wanneer je terugkeert naar Arma, kan een muisklik namelijk worden geïnterpreteerd als een schot door Arma. Door het Esc-menu of je kaart open te hebben, voorkom je het ongewenste schot.
@@ -23,11 +25,13 @@ Tijdens de Arma 3 sessies zijn  'Rules Of Engagement' van kracht. Deze basisafsp
 Deze regels zijn altijd van kracht, tenzij anders aangegeven bij de missiebriefing of door de groepscommandant. 
 
 De richtlijnen voor de ROE zijn als volgt:
+
 - Wanneer de situatie het toelaat, vraag je altijd toestemming aan de vuurteamleider om te vuren voordat je actie onderneemt. Dit geldt in situaties waarin jij en je teamgenoten het initiatief hebben, zoals wanneer je vijanden tegenkomt die jou nog niet hebben opgemerkt. Dit stelt de leiding in staat om het vuur meer gecontroleerd te openen, wat meestal effectiever is. Vroegtijdige waarschuwing geeft teamgenoten bovendien de kans om betere posities in te nemen voordat de gevechten beginnen.
 - Je mag altijd terugvuren wanneer je wordt beschoten. **Identificeer je doelwitten** voordat je ze uitschakelt, maar aarzel niet om te vuren wanneer de vijand jou aanvalt. Controleer goed of het daadwerkelijk om een vijandelijke bedreiging gaat en voorkom burger- of teamkills. 
 - Je mag altijd handelen ter verdediging van jezelf en je teamgenoten. Als de vijand op het punt staat een bondgenoot aan te vallen, hoef je geen toestemming te vragen om te vuren. Handel direct, red je eigen leven of dat van je teamgenoot en doe daarna een contactrapport.
 
 Bij te toepassing van ROE dient er met de volgende factoren rekening gehouden te worden:
+
 - De **Afstand** van een vijandelijke eenheid tot jou kan voor grotere dreiging zorgen. Vijanden die dichtbij zijn, vormen veelal een grotere dreiging. Vijanden die dichtbij zijn en zich niet bewust zijn van jouw positie (of andere eenheden), hoeft niet direct aangevallen te worden.
 - De **Informatie** die de vijand heeft over jouw aanwezigheid of locatie kan voor dreiging zorgen. Vijanden die zich bewust zijn van jouw aanwezigheid zijn een hoge prioriteit. Zij kunnen reinforcements inroepen, wat extra dreiging veroorzaakt.
 - De **Dreiging** is bepalend voor het wel/niet direct aangrijpen van het contact. Verschillende soorten vijanden kunnen de mate van dreiging sterk beinvloeden. Wanneer vijanden met elkaar in radioverbinding staan, kunnen ze elkaar oproepen wat zorgt voor meer dreiging. Een technical .50 is een grote dreiging voor een vuurteam, maar een mindere dreiging voor een IFV team. Een anti-tank vijand is een grote dreiging voor een eigen voertuig, maar weer minder voor een vuurteam. Dit zijn enkele voorbeelden. Roep daarom vijanden/contacten altijd uit via de **RAD-procedure**, zodat zoveel mogelijk het tactisch initiatief aan onze kant blijft. Als we nog niet in contact zijn, wordt de informatie gebruikt om de dreiging zo tactisch mogelijk aan te pakken. Wanneer we in contact zijn, vergroot deze informatie  de situational awareness van de leiding.
@@ -53,6 +57,7 @@ Met de eerste schoten zorg je ervoor dat de vijand de dekking opzoekt, zo houden
 ## Formaties
 Om het vuurteam tactisch te laten verplaatsen, kan er door de vuurteamleider een formatie worden uitgeroepen. Formaties zijn flexibel en nooit 100% nauwkeurig en dienen aangepast te worden als de situatie daarom vraagt. De vuurteamleider neemt hierin het initiatief.
 Bij het aannemen van een formatie dient er voldoende tussenafstand ('Spacing') gehouden te worden tussen de spelers.
+
 | Terrein              | Overdag   | Nacht            |
 |----------------------|------------------------------|
 | Open terrein         | 15 meter  | Zichtafstand     |
