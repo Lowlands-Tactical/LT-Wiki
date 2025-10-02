@@ -41,6 +41,7 @@ Vuur op eigen troepen moet ter allen tijde voorkomen worden! Dit doe je eerst te
 
 ## Wapencommando's vuurteamleider
 Doorgaans bepalend de vuurteamleiders voor het vuurteam welk commando er geldt. Zij staan in contact met de groepscommandant en stemmen vuur waar nodig op elkaar af.
+
 - Bij **Wacht met vuren** mag je alleen het vuur openen wanneer er een directe dreiging is voor jou of een teamlid en dan ook alleen zolang dat noodzakelijk is. Als een element onder effectief vijandelijk vuur komt te liggen, is het toegestaan terug te schieten om vuuroverwicht te behalen en de vijand te onderdrukken of uit te schakelen. Als er nog geen contact is, wordt van het vuurteam verwacht dat het vuur wordt ingehouden. Dit is veelal bij 'Stealth' situaties van toepassing.
 - Bij **Vuren met toestemming** vuur je alleen op vijanden die positief zijn geïdentificeerd en en enkel met toestemming van de vuurteamleider voordat je de eerste schoten van een contact lost. Deze ROE wordt toegepast wanneer de kans op contact met burgers groot is. “Positieve identificatie” komt vaak voort uit het uniform dat de vijand draagt, de aanwezigheid van een wapen en het vuren in de richting van bondgenoten. Houd er rekening mee dat 'Vuren met toestemming' zelden op zichzelf wordt gegeven, maar een organisch onderdeel vormt het reageren op contact.
 - Bij **Vuur vrij** mag je elk doelwit aanvallen waarvan je met zekerheid weet dat het vijandig is. Dit commando wordt vaak gegeven wanneer iedereen in positie is en aangelegd is op doelen vanuit een stealth situatie. Ook wordt het commando gegeven wanneer de situatie is geëscaleerd. Hierbij ligt de nadruk minder op het melden van contacten, deze zijn immers al bekend. Nieuwe contacten moeten nog wel worden uitgeroepen.
@@ -58,11 +59,11 @@ Met de eerste schoten zorg je ervoor dat de vijand de dekking opzoekt, zo houden
 Om het vuurteam tactisch te laten verplaatsen, kan er door de vuurteamleider een formatie worden uitgeroepen. Formaties zijn flexibel en nooit 100% nauwkeurig en dienen aangepast te worden als de situatie daarom vraagt. De vuurteamleider neemt hierin het initiatief.
 Bij het aannemen van een formatie dient er voldoende tussenafstand ('Spacing') gehouden te worden tussen de spelers.
 
-| Terrein              | Overdag   | Nacht            |
-|----------------------|------------------------------|
-| Open terrein         | 15 meter  | Zichtafstand     |
-| Bebost gebied        | 10 meter  | Zichtafstand     |
-| Verstedelijkt gebied | 10 meter  | Locatiebepalend  |
+| Terrein              | Overdag    | Nacht           |
+|----------------------|------------|------------------|
+| Open terrein         | 15 meter   | Zichtafstand     |
+| Bebost gebied        | 10 meter   | Zichtafstand     |
+| Verstedelijkt gebied | 10 meter   | Locatiebepalend  |
 
 Een **Vuurlinie / Linie** wordt gebruikt om het gevecht vanaf één zijde met zoveel mogelijk gewegren tegelijkertijd aan te grijpen. Er is veel vuurkracht. Buddyparen kunnen elkaar gemakkelijk in de gaten houden.
 
