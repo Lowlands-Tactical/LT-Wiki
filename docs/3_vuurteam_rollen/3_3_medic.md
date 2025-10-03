@@ -9,6 +9,7 @@ title: 3.3. Medic
 
 ??? info
     In deze gids leer je over de rol van de Medic. Het slot waar geen vuurteam zonder kan. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald en mag je de rol van Medic slotten. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
+    
     -	De cursist weet hoe belangrijk de rol is voor de overleving van het team.
 
     -	De cursist weet dat de medic op 'safe' speelt, achteraan beweegt en alleen gewonden pakt/sleept als dit veilig kan.

@@ -7,8 +7,38 @@ title: 2.2. Navigeren
     :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025**
 </span>
 
-In deze gids leer je over de basis van het navigeren. We verwachten dat iedereen kan navigeren, zodat je kan kaartlezen, kan communiceren over terrein en jij gemakkelijk je weg kan vinden.
-!!! info "Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst."
+??? info
+    In deze gids leer je over de basis van het navigeren. We verwachten dat iedereen kan navigeren, zodat je kan kaartlezen, kan communiceren over terrein en jij gemakkelijk je weg kan vinden. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
+
+    -	De cursist kan verschillende landschappen op de kaart herkennen; bossen, water, heuvels, stedelijk gebied, rotsen, bergen, wegen.
+
+    -	De cursist kan hoogtelijnen lezen en waar nodig daarmee positie bepalen.
+
+    -	De cursist kan markante punten (herkenningspunten) herkennen en waar nodig daarmee positie bepalen.
+
+    -	De cursist kan (lucht)foto's vertalen naar posities op de kaart.
+
+    -	De cursist kan zonder GPS bepalen waar hij is door het lezen van de omgeving.
+
+    -	De cursist kan zonder GPS met kaart navigeren, eigen positie bijhouden of naar een gemarkeerd punt op de kaart navigeren.
+
+    -	De cursist kan windrichtingen herkennen.
+
+    -	De cursist weet hoe een kompasgraden werken; graden kunnen uitroepen of richting graden navigeren.
+
+    -	De cursist weet hoe GRID-lijnen werken; een GRID bepalen op de kaart, coördinaat herkennen of bepalen en weet dat de rode marker hoogtelijnen aangeeft.
+
+    -	De cursist kan door middel van de kaart afstand bepalen via de liniaal en GRID-lijnen.
+
+    -	De cursist kan vijanden herkennen en intekenen op de kaart middels de kleur van de factie; OPFOR, BLUFOR, INDEP.
+
+    -	De cursist kan uitgeschakelde vijanden aangeven op de kaart door; de marker zwart te maken of een kruis te plaatsen.
+
+    -	De cursist weet dat een stip op een gebouw geplaatst wordt als deze gecleard is.
+
+    -	De cursist kan gevaar herkennen op de kaart; omgeving gebruiken als dekking, ambush plekken herkennen, veilig bewegen door de omgeving.
+    
+    -	De cursist kan via beschutting naar een aangegeven locatie bewegen.
 
 ## Terreinherkenning
 Door je omgeving te 'lezen' kun je jouw positie bepalen wanneer je een kaart hebt. Hier heb je geen GPS voor nodig. Zoek in de omgeving naar opvallende wegen, water, bossen of markante punten. Dit zijn referentiepunten die heel herkenbaar zijn op de kaart zoals een kerk, windmolen of watertoren. Deze techniek gebruik je ook als voetsoldaat, wanneer je geen GPS tot je beschikking hebt.
@@ -66,5 +96,5 @@ We gebruiken de **BLUFOR**, **OPFOR** en **INDEP** kleuren om units van die fact
 - Door **stippen op huizen** te zetten kun je aangeven dat een gebouw is gecleard.  
 - Door **stippen met uitleg in vijandelijke kleur** neer te zetten kun je aangeven waar de vijand is en om wat voor vijand het gaat.  
 
-*In dit voorbeeld zijn de blauwe stippen geclearde huizen en staat de vijand met OPFOR gemarkeerd. De lijnen geven looproutes aan. De 4x pax in het zwart is uitgeschakeld.*
-![Afbeelding](img/2_2_navigeren/imgnav12.png)
+*In dit voorbeeld zijn de blauwe en helder rode stippen geclearde huizen van de vuurteams. De vijand staat met OPFOR gemarkeerd. De lijnen geven looproutes aan. De 4x pax in het zwart is uitgeschakeld.*
+![Afbeelding](img/2_2_navigeren/imgnavnew1.jpg)

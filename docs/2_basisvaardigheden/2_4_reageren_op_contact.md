@@ -7,8 +7,26 @@ title: 2.4. Reageren op contact
     :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **02-10-2025**
 </span>
 
-In deze gids leer je over de basisbeginselen van reageren op contact, wapenveiligheid, Rules Of Engagement, wapencommando's en formaties. Dit helpt om contact tactisch aan te grijpen.
-!!! info "Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst."
+??? info
+    In deze gids leer je over de basisbeginselen van reageren op contact. We verwachten dat iedereen basiskennis heeft over het omgaan met contact. Dit helpt om contact zo veilig en tactisch mogelijk aan te grijpen. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
+
+    -   De cursist is bekend met wapenveiligheid en hoe miskliks en per ongeluk schieten voorkomen kunnen worden.
+
+    -   De cursist weet de Rules Of Engagement (ROE) en hoe deze toegepast moeten worden in de praktijk.
+
+    -   De cursist weet welke factoren meewegen bij de ROE.
+
+    -   De cursist weet hoe Frienly Fire voorkomen kan worden en hoe ermee om te gaan als het toch gebeurt.
+
+    -   De cursist is bekend met de wapencommando's en hoe deze toegepast moeten worden in de praktijk.
+    
+    -   De cursist kan adequaat omgaan met contact en contacten kenbaar maken.
+
+    -   De cursist weet regelmatig een buddycheck uit te voeren en op gepaste afstand van teamgenoten te blijven.
+
+    -   De cursist kent, en kan bewegen in, de aangegeven formaties.
+    
+    -   De cursist kan een aanval naar voren inzetten door te springen of flanken.
 
 ## Wapenveiligheid
 Een simpele skill die al snel voor lief wordt genomen is 'Wapenveiligheid'. Een misklik is zo gemaakt. Je wil voorkomen dat je lul van de week bent, doordat je met een misklik een teamgenoot neerschiet of je de vijand per ongeluk alarmeert.
@@ -55,6 +73,9 @@ Wanneer jouw team onverhoopt in contact komt, moet het team hier adequaat op rea
 - Blijf om de paar seconden schoten uitbrengen en volg de aanwijzingen van de vuurteamleider op.
 
 Met de eerste schoten zorg je ervoor dat de vijand de dekking opzoekt, zo houden wij het initiatief in het vuurgevecht. Hierna stel je jezelf zoveel mogelijk in veiligheid. Vervolgens maak je de dreiging bekend bij je teamgenoten en vuurteamleider. De vuurteamleider maakt zo snel mogelijk een plan om de dreiging adequaat aan te grijpen en het team in veiligheid te houden.
+
+## Buddycheck
+Elke speler heeft een buddy. Dit duo is aan elkaar vebonden en houdt elkaar in de gaten. Een vuuteamleider zal vaak dezelfde kleur aan een tweetal geven binnen het vuurteam, zodat je elkaar gemakkelijk kunt herkennen (ook via de HUD). Binnen een vuurteam van 6 zijn er dus 3x2 buddyparen. Een buddypaar blijft altijd binnen hoorafstand van elkaar. Je houdt elkaar in de gaten en controleert met regelmaat of je buddy nog op is; de **Buddycheck**. Wanneer je constateert dat je buddy neer is, dan stel je de vuurteamleider en medic in kennis. Je checkt kort hoe zwaar je buddy gewond is, maar houdt je wapen omhoog om overwicht te houden in het vuurgevecht. Wanneer de vuurteamleider jouw vuurlijn kan missen, dan kun je basis EHBO op je buddy toepassen of je buddy verplaatsen naar de medic. Mocht de medic __veilig__ naar jouw buddy kunnen komen, dan kun je de locatie zichtbaar maken door groene smoke in de buurt te poppen.
 
 ## Formaties
 Om het vuurteam tactisch te laten verplaatsen, kan er door de vuurteamleider een formatie worden uitgeroepen. Formaties zijn flexibel en nooit 100% nauwkeurig en dienen aangepast te worden als de situatie daarom vraagt. De vuurteamleider neemt hierin het initiatief.

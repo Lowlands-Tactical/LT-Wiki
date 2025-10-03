@@ -7,9 +7,32 @@ title: 2.1. Basis EHBO
     :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025**
 </span>
 
-In deze gids leer je over de basisbeginselen van het bieden van EHBO. We verwachten van alle spelers dat zij bekend zijn met simpele levensreddende handelingen. Zo kunnen ze zichzelf en anderen tijdelijk stabiliseren, tot de Medic dit later kan overnemen. 
+??? info
+    In deze gids leer je over de basisbeginselen van het bieden van EHBO. We verwachten van alle spelers dat zij bekend zijn met simpele levensreddende handelingen. Zo kunnen ze zichzelf en anderen tijdelijk stabiliseren, tot de Medic dit later kan overnemen. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
 
-!!! info "Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst."
+    -	De cursist weet dat eerst het vuurgevecht gevochten wordt, voordat er wordt gestart met medische handelingen.
+    
+    -	De cursist weet eerst een beschutte plek te zoeken, voordat gestart wordt met medische handelingen.
+
+    -	De cursist weet zichzelf of een ander tijdelijk te stabiliseren om door te kunnen vechten, zodat later een Medic gezien kan worden.
+
+    -	De cursist weet een gewonde of locatie waar een Medic nodig is met groene smoke te markeren.
+
+    -	De cursist is bekend met het ACE-Medical Menu en dat je daar via H en ACE-interact kan komen.
+
+    -	De cursist weet de functies van medische spullen.
+
+    -	De cursist kan bij zichzelf of anderen bloedingen stoppen tijdens vuurcontact.
+
+    -	De cursist kan bij zichzelf of anderen wonden verzorgen voor het zien van de Medic.
+
+    -	De cursist kan bij zichzelf of anderen pijnmedicatie toedienen voor het zien van de Medic; morfine en painkillers.
+
+    -	De cursist kan anderen reanimeren.
+
+    -	De cursist kan anderen slepen of tillen.
+
+    -	De cursist weet wanneer een speler nog te redden is en wanneer een speler dood (respawn) is.
 
 ## Jouw rol als vuurteamlid
 
