@@ -24,7 +24,7 @@ Of je nu een veteraan bent of nieuw bij Milsim, als jij komt opdagen, inzet toon
 
 !!! info "Sessies en aanwezigheid"
 
-    * Sessies zijn elke vrijdag van 20:00 tot 22:30-23:00 uur.
+    * Sessies zijn elke vrijdag van 20:00 tot 22:30-23:00 uur. Inloop vanaf 19.30 uur.
     * Je aanwezigheid telt mee in je 50% aanwezigheid.
     * Zorg ervoor dat je mods in orde zijn voor de sessie.
     * Spelmodus: We spelen vaak PermaDeath/Dood=Dood, maar soms ook COOP of PvP.
