@@ -8,13 +8,13 @@ title: 2.5. Situational Awareness
 </span>
 
 ??? info
-In deze gids leer je over Situational Awareness (SA). Het is een cruciale vaardigheid voor elke militair en helpt om het strijdtoneel te 'lezen'. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
+    In deze gids leer je over Situational Awareness (SA). Het is een cruciale vaardigheid voor elke militair en helpt om het strijdtoneel te 'lezen'. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
 
--   De cursist heeft Situational Awareness.
+    -   De cursist heeft Situational Awareness.
 
--   De cursist weet hoe situational awereness vergroot kan worden.
+    -   De cursist weet hoe situational awereness vergroot kan worden.
 
--   De cursist weet welke factoren een negatieve invloed hebben op de situational awareness en wat de gevolgen zijn.
+    -   De cursist weet welke factoren een negatieve invloed hebben op de situational awareness en wat de gevolgen zijn.
 
 ## Wat is Situational Awareness (SA)?
 Situational Awareness (SA) is het vermogen van een militair om de omgeving, de dreigingen en de mogelijkheden te begrijpen en continu te evalueren. Het omvat het waarnemen van signalen, het interpreteren van hun betekenis en het anticiperen op toekomstige ontwikkelingen. SA is geen eenmalige handeling, maar een voortdurend proces dat direct invloed heeft op overlevingskansen en operationele effectiviteit.
