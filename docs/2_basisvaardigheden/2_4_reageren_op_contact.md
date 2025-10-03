@@ -75,7 +75,7 @@ Wanneer jouw team onverhoopt in contact komt, moet het team hier adequaat op rea
 Met de eerste schoten zorg je ervoor dat de vijand de dekking opzoekt, zo houden wij het initiatief in het vuurgevecht. Hierna stel je jezelf zoveel mogelijk in veiligheid. Vervolgens maak je de dreiging bekend bij je teamgenoten en vuurteamleider. De vuurteamleider maakt zo snel mogelijk een plan om de dreiging adequaat aan te grijpen en het team in veiligheid te houden.
 
 ## Buddycheck
-Elke speler heeft een buddy. Dit duo is aan elkaar vebonden en houdt elkaar in de gaten. Een vuuteamleider zal vaak dezelfde kleur aan een tweetal geven binnen het vuurteam, zodat je elkaar gemakkelijk kunt herkennen (ook via de HUD). Binnen een vuurteam van 6 zijn er dus 3x2 buddyparen. Een buddypaar blijft altijd binnen hoorafstand van elkaar. Je houdt elkaar in de gaten en controleert met regelmaat of je buddy nog op is; de **Buddycheck**. Wanneer je constateert dat je buddy neer is, dan stel je de vuurteamleider en medic in kennis. Je checkt kort hoe zwaar je buddy gewond is, maar houdt je wapen omhoog om overwicht te houden in het vuurgevecht. Wanneer de vuurteamleider jouw vuurlijn kan missen, dan kun je basis EHBO op je buddy toepassen of je buddy verplaatsen naar de medic. Mocht de medic ^^veilig^^ naar jouw buddy kunnen komen, dan kun je de locatie zichtbaar maken door groene smoke in de buurt te poppen.
+Elke speler heeft een buddy. Dit duo is aan elkaar vebonden en houdt elkaar in de gaten. Een vuuteamleider zal vaak dezelfde kleur aan een tweetal geven binnen het vuurteam, zodat je elkaar gemakkelijk kunt herkennen (ook via de HUD). Binnen een vuurteam van 6 zijn er dus 3x2 buddyparen. Een buddypaar blijft altijd binnen hoorafstand van elkaar. Je houdt elkaar in de gaten en controleert met regelmaat of je buddy nog op is; de **Buddycheck**. Wanneer je constateert dat je buddy neer is, dan stel je de vuurteamleider en medic in kennis. Je checkt kort hoe zwaar je buddy gewond is, maar houdt je wapen omhoog om overwicht te houden in het vuurgevecht. Wanneer de vuurteamleider jouw vuurlijn kan missen, dan kun je basis EHBO op je buddy toepassen of je buddy verplaatsen naar de medic. Mocht de medic <mark>veilig</mark> naar jouw buddy kunnen komen, dan kun je de locatie zichtbaar maken door groene smoke in de buurt te poppen.
 
 ## Formaties
 Om het vuurteam tactisch te laten verplaatsen, kan er door de vuurteamleider een formatie worden uitgeroepen. Formaties zijn flexibel en nooit 100% nauwkeurig en dienen aangepast te worden als de situatie daarom vraagt. De vuurteamleider neemt hierin het initiatief.
@@ -96,7 +96,7 @@ Een **Arrowhead** wordt gebruikt voor verplaatsing te voet met waarschijnlijke d
 ![Afbeelding](img/2_4_reageren_op_contact/arrowhead.jpg)
 
 Een **Enkele Colonne** heeft als doel het team te laten verplaatsen, waarbij meerdere zijdes in de gaten gehouden worden. Elk teamleid heeft ee neigen waarnemingsveld; het ezelsbruggetje **LOER**.
-LOER = ^^L^^inks ^^O^^neven, ^^E^^ven, ^^R^^echts, Oftewel: De voorste man dekt de voorkant, de tweede man dekt rechts, de derde man dekt links. Dit wisselt elkaar af. De laatste man dekt de achterzijde.
+LOER = <mark>L</mark>inks <mark>O</mark>neven, <mark>E</mark>ven, <mark>R</mark>echts, Oftewel: De voorste man dekt de voorkant, de tweede man dekt rechts, de derde man dekt links. Dit wisselt elkaar af. De laatste man dekt de achterzijde.
 
 ![Afbeelding](img/2_4_reageren_op_contact/enkelecolonne.jpg)
 
