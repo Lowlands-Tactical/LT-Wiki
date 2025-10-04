@@ -3,25 +3,29 @@ layout: doc
 title: Homepagina
 ---
 #  Welkom op de kennisbank!
+#  Welkom op de kennisbank!
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Pek** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+    :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **4-10-2025** door **Pek**
 </span>
 
-Dit is het centrale naslagwerk voor alle leden van onze community. Het is ontworpen om je te voorzien van alle benodigde informatie, van de eerste stappen tot geavanceerde tactieken. 
+In deze kennisbank vind je de informatie die nodig is om goed voorbereid deel te nemen aan de Arma 3 sessiess. Deze wiki is bedoeld voor alle leden van onze community. Het is ontworpen om je te voorzien van alle benodigde informatie, van de eerste stappen tot geavanceerde rollen. De complexiteit is opbouwend. Hogere hoofdstukken verger meer ervaring en nemen toe in complexiteit.
 
-Deze documentatie wordt regelmatig bijgewerkt. Gebruik het menu links om te navigeren of de zoekfunctie om direct te vinden wat je zoekt.
+Deze documentatie wordt regelmatig bijgewerkt. Gebruik het menu aan de linkerkant om te navigeren of de zoekfunctie bovenin om direct te vinden wat je zoekt.
+
+De meeste hoofdstukken zijn gekoppeld aan een bijbehorende training. We verwachten dat je kennis hebt genomen van de documentatie en de bijbehorende training hebt gevolgd, voordat je het slot kiest bij een sessie. Daarmee behaal je trainings-vinkjes en zo kan iedereen erop vertrouween dat de slot bij jou in goede handen is. Jij kan dan het positieve verschil maken als het erop aankomt. De database met trainingsvinkjes is vind je hier: https://1drv.ms/x/s!AsNeKjX9qHZFhGHxOqZeBxqJJwtA?e=uA6DE1.
+
 
 # 
 
 <div class="grid cards" markdown>
 
--   **Snel starten**
+-   **Training volgen?**
 
     ---
 
-    Alles wat je nodig hebt om direct aan de slag te gaan met Lowlands Tactical, van installatie tot eerste missie.
+    Maak een afspraak met R.Hoods (staf) als je een specifieke training wilt volgen.
 
--   **Voor en Door Leden**
+-   **Voor en door leden**
 
     ---
 
