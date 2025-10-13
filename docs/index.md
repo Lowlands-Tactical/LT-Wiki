@@ -11,7 +11,7 @@ In deze kennisbank vind je de informatie die nodig is om goed voorbereid deel te
 
 Deze documentatie wordt regelmatig bijgewerkt. Gebruik het menu aan de linkerkant om te navigeren of de zoekfunctie bovenin om direct te vinden wat je zoekt.
 
-De meeste hoofdstukken zijn gekoppeld aan een bijbehorende training. We verwachten dat je kennis hebt genomen van de documentatie en de bijbehorende training hebt gevolgd, voordat je het slot kiest bij een sessie. Daarmee behaal je trainings-vinkjes en zo kan iedereen erop vertrouween dat de slot bij jou in goede handen is. Jij kan dan het positieve verschil maken als het erop aankomt. De database met trainingsvinkjes is vind je hier: [Lowlandss Tactical - Database](https://1drv.ms/x/s!AsNeKjX9qHZFhGHxOqZeBxqJJwtA?e=uA6DE1).
+De meeste hoofdstukken zijn gekoppeld aan een bijbehorende training. We verwachten dat je kennis hebt genomen van de documentatie en de bijbehorende training hebt gevolgd, voordat je het slot kiest bij een sessie. Daarmee behaal je trainings-vinkjes en zo kan iedereen erop vertrouween dat de slot bij jou in goede handen is. Jij kan dan het positieve verschil maken als het erop aankomt. De database met trainingsvinkjes is vind je hier: [Lowlands Tactical - Database](https://1drv.ms/x/s!AsNeKjX9qHZFhGHxOqZeBxqJJwtA?e=uA6DE1).
 
 
 # 
