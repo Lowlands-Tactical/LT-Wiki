@@ -2,7 +2,7 @@
 layout: doc
 title: 6.2. Vuurteamleider
 ---
-# 6.1. Groepscommandant
+# 6.2. Vuurteamleider
 <span style="font-size:0.7em;">
     :fontawesome-solid-user: Auteur: R.Hoods | :material-calendar-plus: Aangemaakt: **12-10-2025** | :material-calendar-edit: Laatste update: 12-10-25 door Pek
 </span>
