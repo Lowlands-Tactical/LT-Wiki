@@ -25,39 +25,39 @@ title: 6.2. Vuurteamleider
 
     Leiderschap:
 
-        -	De cursist kan meedenken met de GC bij het slotten en weet de sloten van het vuurteam af te stemmen op de inhoud van de missie.
+    -	De cursist kan meedenken met de GC bij het slotten en weet de sloten van het vuurteam af te stemmen op de inhoud van de missie.
 
-        -	De cursist na de briefing van de GC doorbriefen naar het vuurteam om zo verwachtingen af te stemmen en alle neuzen dezelfde kant op te krijgen. 
+    -	De cursist na de briefing van de GC doorbriefen naar het vuurteam om zo verwachtingen af te stemmen en alle neuzen dezelfde kant op te krijgen. 
 
-        -	De cursist kan blueforce tracker updaten en het team op de kaart zetten.
+    -	De cursist kan blueforce tracker updaten en het team op de kaart zetten.
 
-        -	De cursist kan kort en bondig communiceren en leiding geven. 
+    -	De cursist kan kort en bondig communiceren en leiding geven. 
 
-        -	De cursist weet sturing te geven aan het vuurteam, zonder zelf onnodig gevaar te lopen, zodat er zoveel mogelijk sturing gegeven kan worden. 
+    -	De cursist weet sturing te geven aan het vuurteam, zonder zelf onnodig gevaar te lopen, zodat er zoveel mogelijk sturing gegeven kan worden. 
 
-        -	De cursist kan het vuurteam laten verplaatsen in meerdere formaties en met de verschillende wapencommando’s.
+    -	De cursist kan het vuurteam laten verplaatsen in meerdere formaties en met de verschillende wapencommando’s.
 
-        -	De cursist heeft Situational Awareness, kan adequaat inspelen op contact, behoudt helikopterview over het vuurteam, houdt het team bij elkaar en neemt lastige beslissingen onder druk.
+    -	De cursist heeft Situational Awareness, kan adequaat inspelen op contact, behoudt helikopterview over het vuurteam, houdt het team bij elkaar en neemt lastige beslissingen onder druk.
 
-        -	De cursist kan SITREPS en AMCAS antwoorden voor het vuurteam.
+    -	De cursist kan SITREPS en AMCAS antwoorden voor het vuurteam.
 
-        -	De cursist blijft adequaat communiceren en valt niet stil, ook als er contact of grote stress-factoren optreden. Dit zowel op de short- als longrange radio.
+    -	De cursist blijft adequaat communiceren en valt niet stil, ook als er contact of grote stress-factoren optreden. Dit zowel op de short- als longrange radio.
 
-        -	De cursist kan de omgeving of het terrein lezen en hier tactische keuzes op aanpassen. Waar nodig met advies aan de groepscommandant.
+    -	De cursist kan de omgeving of het terrein lezen en hier tactische keuzes op aanpassen. Waar nodig met advies aan de groepscommandant.
 
-        -	De cursist weet hoe gekloot voorkomen kan worden en spreekt aan waar nodig of schakelt staf in.
+    -	De cursist weet hoe gekloot voorkomen kan worden en spreekt aan waar nodig of schakelt staf in.
 
-        -	De cursist kan effectief de mogelijkheden van Alive aanvragen. 
+    -	De cursist kan effectief de mogelijkheden van Alive aanvragen. 
 
-        -	De cursist kan uit zichzelf 360 graden beveiliging laten aanleggen.
+    -	De cursist kan uit zichzelf 360 graden beveiliging laten aanleggen.
 
     Planning:
 
-        -	De cursist weet hoe die zich inleest en voorbereid op de sessie.
+    -	De cursist weet hoe die zich inleest en voorbereid op de sessie.
 
-        -	De cursist kan (aanvals)plannen vertalen naar praktische handelingen voor het vuurteam. De cursist kan daarbij het terrein lezen en inspelen op mogelijke dreigingen. 
+    -	De cursist kan (aanvals)plannen vertalen naar praktische handelingen voor het vuurteam. De cursist kan daarbij het terrein lezen en inspelen op mogelijke dreigingen. 
 
-        -	De cursist kan op verschillende manier verplaatsingen voor het vuurteam organiseren.
+    -	De cursist kan op verschillende manier verplaatsingen voor het vuurteam organiseren.
 
 
 ## Competentie
