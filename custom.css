@@ -1,0 +1,46 @@
+
+/* Only style images inside the main content */
+.md-typeset img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.md-nav__title {
+    display: none !important;
+}
+
+.md-typeset h1 {
+    margin-bottom: -0.5em; /* Adjust as needed for tightness */
+}
+
+
+.md-typeset h2 {
+    font-weight: bold;
+    font-size: 1.2em; /* Same as h3 */
+    margin-top: 2em;
+    margin-bottom: 1em;
+    color: inherit;
+}
+
+.md-typeset h3 {
+    font-weight: bold;
+    font-size: 1em; /* Normal text size, but bold */
+    margin-top: 2em;
+    margin-bottom: 1em;
+    color: inherit;
+}
+
+/* Reduce header height and logo size */
+.md-header__button.md-logo {
+    max-height: 32px;   /* Adjust as needed */
+    padding: 0;
+}
+
+.md-header {
+    min-height: 48px;   /* Adjust as needed */
+}
