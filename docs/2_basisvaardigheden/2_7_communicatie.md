@@ -7,8 +7,28 @@ title: 2.7. Communicatie
     :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **26-08-2025** door **Pek**
 </span>
 
-!!! info
-    In deze gids leer je over de verschillende soorten en manieren van communicatie. Communicatie is een essentieel onderdeel van de Arma sessies. Van elke speler wordt verwacht dat ze bekend zijn met deze training. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst. 
+??? info
+    In deze gids leer je over de verschillende soorten en manieren van communicatie. Communicatie is een essentieel onderdeel van de Arma sessies. Van elke speler wordt verwacht dat ze bekend zijn met deze training. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
+
+    -	De cursist is bekend met Teamspeak en ACRE.
+
+    -	De cursist weet het verschil tussen direct voice en radiocommunicatie.
+
+    -	De cursist weet hoe de short- en longrange en voertuigradio’s werken.
+
+    -	De cursist weet hoe de short- en longrange radio op verschillende oren gezet kunnen worden.
+
+    -	De cursist weet hoe je elkaar via radio oproept middels callsigns.
+
+    -	De cursist weet hoe kort en bondig te communiceren.
+
+    -	De cursist weet hoe via RAD contacten uit te roepen.
+
+    -	De cursist weet verschillende manieren om locatie uit te roepen en aan te geven.
+
+    -	De cursist weet hoe je kan reageren op SITREP en AMCAS oproepen.
+    
+    -	De cursist is bekend met het militair alfabet.
 
 ## Teamspeak en ACRE 
 Tijdens de sessie, maar ook als we samen willen komen, maken we gebruik van de Teamspeak server. Hier zijn verschillende kanalen ingericht. Het is mogelijk om te wisselen van kanaal als je in kleine groepjes wilt gamen of iets wil bespreken. 
