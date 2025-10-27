@@ -57,7 +57,7 @@ Bijna alle AT-wapens hebben terugslag en kunnen jou of jouw teamgenoten verwonde
 Om verwondingen aan jezelf of anderen te voorkomen houden we de schietprocedure aan bij het gebruik van AT. De AT’er maakt het AT-wapen gereed bij directe voertuigdreiging, eigen waarneming of op commando van de VTL/GC. De volgende stappen worden gevolgd:
 !!! info
     1.	De VTL/GC roept ‘AT gereedmaken!’.
-    2.	De AT’er roept ‘AT gereed’ als dit is gedaan.
+    2.	De AT’er pakt zijn AT-buis (niet BINO!) en roept ‘AT gereed’ als dit is gedaan.
     3.	De AT’er richt op het doel.
     4.	De AT’er roept ‘Clear backblast’, om er zeker van te zijn te kunnen schieten.
     5.	De VTL/GC roept ‘Backblast clear’, wanneer er veilig geschoten kan worden.
@@ -66,7 +66,7 @@ Om verwondingen aan jezelf of anderen te voorkomen houden we de schietprocedure 
 Wanneer er met een geavanceerde wapensysteem wordt geschoten worden deze stappen gevolgd:
 !!! info
     1.	De VTL/GC roept ‘AT gereedmaken!’.
-    2.	De AT’er roept ‘AT gereed’ als dit is gedaan.
+    2.	De AT’er pakt zijn AT-buis (niet BINO!) en roept ‘AT gereed’ als dit is gedaan.
     3.	De AT’er switcht naar FLTR, zoomt waar nodig en switcht waar nodig de fire mode.
     4.	De AT’er richt en locked op het doel.
     5.	De AT’er roept ‘Clear backblast’, om er zeker van te zijn te kunnen schieten.
