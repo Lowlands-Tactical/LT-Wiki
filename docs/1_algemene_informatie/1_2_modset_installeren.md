@@ -25,7 +25,7 @@ Voor je begint:
 - Zorg dat je deze software hebt geïnstalleerd:
   - [TeamSpeak (64-bit)](https://www.teamspeak.com/en/downloads/#ts3client)
   - [Java (laatste versie)](https://java.com/getjava)
-  - [Arma3Sync 1.7.102](https://arma3sync.lowtac.nl/Wiki/arma3sync-installer-1-7-102.exe)
+  - [Arma3Sync 1.7.107](https://arma3sync.lowtac.nl/Wiki/arma3sync-installer-1-7-107.exe)
 
 !!! warning "Let op!"
     Wij gebruiken **geen** Steam Workshop-mods. Alleen onze eigen modset werkt met onze servers.
