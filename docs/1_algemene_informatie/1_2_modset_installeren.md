@@ -132,12 +132,10 @@ Zorg dat bij het opstarten van Arma 3 de juiste opties zijn aangevinkt.
 
 Soms gebruiken we extra modsets voor thema-operaties.
 
-### Vietnam Modset
+### Overige Modsets
 
-Gebruik deze URL bij *Public auto-config url*:
-
-```text
-https://arma3sync.lowtac.nl/a3s-Repos/Vietnam/autoconfig
-```
-
-![Afbeelding](img/1_2_modset_installeren/img11.jpg)
+!!! info "Sessies en aanwezigheid"
+    * Er zijn merdere modsets die we beheren.
+    * Deze staan op discord "Helpdesk >> Repo's".
+    * Herhaal de stappen vanaf "Modset downloaden via Repository"
+    * Bij Public autoconfig kan je dan de regels kopieeren van discord.
