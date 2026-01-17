@@ -113,9 +113,9 @@ https://arma3sync.lowtac.nl/a3s-Repos/Moderne/autoconfig
 | Veld                | Waarde                 |
 |---------------------|------------------------|
 | Description         | Lowlands Tactical      |
-| IP Address          | games.lowtac.nl        |
+| IP Address          | arma3.lowtac.nl        |
 | Port                | 2302                   |
-| Password            | TacLow                 |
+| Password            | Discord Helpdesk       |
 | Join with Modset    | ❌ Laat leeg           |
 
 ![Afbeelding](img/1_2_modset_installeren/img9.jpg)
