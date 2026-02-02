@@ -41,7 +41,7 @@ title: 5.1. J-TAC
         - De cursist kan in- en uitvlieg routes en LZ's markeren op de kaart en daarbij risico's minimaliseren.
 
 ## De verantwoordelijkheden en werzaamheden van de J-TAC
-De J-TAC is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de groepscommandant), maar kan ook met een team worden meegestuurd. De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de groepscommandant, waardoor de groepscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
+De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de groepscommandant), maar kan ook met een team worden meegestuurd. De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de groepscommandant, waardoor de groepscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
 
 ### Communicatie en SA
 Het is van zeer groot belang dat de J-TAC uitgebreide communicatieskills heeft en kort en krachtig communiceert. Communicatie vindt vaak plaats in het heetst van de strijd. Communiceren zoals aangegeven onder 2.7 Communicatie is cruciaal.
@@ -73,6 +73,8 @@ De twee meest gebruikte drones voor de J-TAC zijn de AR-2 Darter en de MQ-9A Rea
 -   De Reaper is een grote drone, vergelijkbaar als een klein vliegtuig. Deze drone kan op zeer grote hoogte opereren, maar niet statisch in de lucht hangen. Deze is handig voor het verzamelen van intel, aangeven van doelen via laser en het afvuren van beschikbare raketten.
 
 Alle drones moeten gekoppeld worden aan een UAV terminal via het scroll-menu; 'connect Terminal to UAV'. Via het scroll-menu kun je ook de UAV terminal openen; 'Open UAV terminal'. In de UAV terminal selecteer je links bovenin de beschikbare drone. Rechts kun je kiezen voor besturing van de Driver of Gunner. Op de kaart kun je met ctrl + LMB de drone een waypoint geven. De drone gaat dan bewegen. Door met RMB op de waypoint te klikken krijg je opties voor het type, gedrag en de hoogte van de waypoint. Zo kun je de drone bijvoorbeeld later loiteren, hangen en de hoogte aanpassen. Door meerdere keren te klikken met ctrl + LMB geef je meerdere waypoint en daarmee een route aan. Waypoint kunnen met RMB ook geannuleerd worden.
+
+![UAV-terminal](img/5_1_j_tag/UAV_terminal.jpg)
 
 Vijanden zien drones op grote afstand en zien dit als een serieuze dreiging. Ze zullen het vuur openen. Door beperkte armor is een drone snel kapot. Houd je drone dus op grote afstand van dreiging!
 
