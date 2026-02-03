@@ -22,23 +22,23 @@ title: 5.1. J-TAC
 
     Vaardigheden:
 
-        - De cursist kan zelfstandig opereren tussen de peletonsgroep en de uitvoerende teams.
+    - De cursist kan zelfstandig opereren tussen de peletonsgroep en de uitvoerende teams.
 
-        - De cursist weet hoe de 3 verschillende radio's tegelijkertijd ingezet kunnen worden.
-        
-        - De cursist is bekend met het gebruik van Alive voor het inroepen van support.
+    - De cursist weet hoe de 3 verschillende radio's tegelijkertijd ingezet kunnen worden.
+    
+    - De cursist is bekend met het gebruik van Alive voor het inroepen van support.
 
-        - De cursist is bekend met het gebruik van de UAV terminal.
-        
-        - De cursist weet hoe om te gaan met de besturing van de Darter-drone en de Reaper-drone.
+    - De cursist is bekend met het gebruik van de UAV terminal.
+    
+    - De cursist weet hoe om te gaan met de besturing van de Darter-drone en de Reaper-drone.
 
-        - De cursist weet drone-feed en intel te vertalen naar- en in te tekenen op de kaart.
+    - De cursist weet drone-feed en intel te vertalen naar- en in te tekenen op de kaart.
 
-        - De cursist kan speler of Alive support inroepen zoals; artillerie, heli-transport, medevac, CAS of supply drops.
+    - De cursist kan speler of Alive support inroepen zoals; artillerie, heli-transport, medevac, CAS of supply drops.
 
-        - De cursist kan doelen aangeven via laser.
+    - De cursist kan doelen aangeven via laser.
 
-        - De cursist kan in- en uitvlieg routes en LZ's markeren op de kaart en daarbij risico's minimaliseren.
+    - De cursist kan in- en uitvlieg routes en LZ's markeren op de kaart en daarbij risico's minimaliseren.
 
 ## De verantwoordelijkheden en werzaamheden van de J-TAC
 De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de groepscommandant), maar kan ook met een team worden meegestuurd. De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de groepscommandant, waardoor de groepscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
@@ -48,7 +48,7 @@ Het is van zeer groot belang dat de J-TAC uitgebreide communicatieskills heeft e
 Daarnaast moet de J-TAC beschikken over een goede situational awareness. Het is belangrijk dat je goed weet waar alle troepen zich bevinden en hoe het terrein hierin meespeelt. Zo kun je de support units zo goed mogelijk begeleiden en de taken effectief laten uitvoeren.
 
 ### De radio's
-De J-TAC maakt gebruik van 3 radio's; de short-range, long-range en een extra long-range. Elke radio wordt voor een andere functie gebruikt. Door rrn extra long-range kan je als J-TAC met ondersteuningsmogelijkheden communiceren, zonder de vuurteamleiders en groepscommandant te storen.
+De J-TAC maakt gebruik van 3 radio's; de short-range, long-range en een extra long-range. Elke radio wordt voor een andere functie gebruikt. Door een extra long-range kan je als J-TAC met ondersteuningsmogelijkheden communiceren, zonder de vuurteamleiders en groepscommandant te storen.
 
 | Radio           | Soort       | Default-key           | Functie                                                                              |
 |-----------------|-------------|-----------------------|--------------------------------------------------------------------------------------|
@@ -87,35 +87,67 @@ Uiteraard kun je ook de coördinaten van een doel uitroepen of het doel markeren
 ### Vuurmissies of ondersteuning aanvragen
 Als je een vuurmissie of ondersteuning aanvraagt, doe je dit met korte en duidelijke communicatie volgens een aantal punten:
 1.  Gebruik callsigns
+
 2.  Beschrijf de opdracht, het doel en/of de locatie(s)
+
 3.  Beschrijf de urgentie
+
 4.  Beschrijf de markering
+
 5.  Beschrijf de in- en uitvliegroute (en teken deze in)
 
 Voor resupply aanvraag neem je contact op met 'Overlord' via long-range. De beschikbare admin zal dan de crates inroepen. Geef hierbij aan welke aanvliegroute het meest logisch is en welke kisten, voertuigen of wapensystemen je wil aanvragen. Dit zijn er maximaal 3.
 
 Wanneer je een transport of vuurmissie aanvraagt voor een helikopter of vliegtuig, teken je ook met een opvallende kleur de voorgestelde vliegroute in. Jij weet tenslotte waar de dreigingen zitten. Houd hier rekening mee in het plan, zodat de piloot zo veilig mogelijk in- en uit kan vliegen. Het plan moet uiteraard uitvoerbaar zijn voor de piloot. Scherpe bochten en/of hoeken intekenen is natuurlijk niet uitvoerbaar.
 
-Voorbeeld 1 (J-TAC naar taxi-heli):
-Hier J-TAC voor Taxi. Verzoek tot pick-up op LZ Falcon naar RTB. Urgentie is hoog. LZ is heet en gemarkeerd met paarse smoke. Dreiging 12x pax vanuit het noorden. Voorgestelde vliegroute met witte lijn op kaart. Over.
+!!! quote "Voorbeeld 1 (J-TAC naar taxi-heli):"
+    Hier J-TAC voor Taxi.
+    
+    Verzoek tot pick-up op LZ Falcon naar RTB. Urgentie is hoog. LZ is heet en gemarkeerd met paarse smoke. Dreiging 12x pax vanuit het noorden. Voorgestelde vliegroute met witte lijn op kaart.
+    
+    Over.
 
-Voorbeeld 2 (J-TAC naar taxi-heli):
-Hier J-TAC voor Taxi. Verzoek tot transport van LZ Falcon naar LZ Papa. Urgentie is laag. LZ is veilig en gemarkeerd met gele smoke. Voorgestelde vliegroute met paarse lijn op kaart. Over.
+!!! quote "Voorbeeld 2 (J-TAC naar taxi-heli):"
+    Hier J-TAC voor Taxi.
+    
+    Verzoek tot transport van LZ Falcon naar LZ Papa. Urgentie is laag. LZ is veilig en gemarkeerd met gele smoke. Voorgestelde vliegroute met paarse lijn op kaart.
+    
+    Over.
 
-Voorbeeld 3 (J-TAC naar CAS-heli):
-Hier J-TAC voor Buizerd. Verzoek tot vuurmissie op BTR. Urgentie is hoog. BTR gemarkeerd met laser. Voorgesteld vliegroute met witte lijn op kaart. Over.
+!!! quote "Voorbeeld 3 (J-TAC naar CAS-heli):"
+    Hier J-TAC voor Buizerd.
+    
+    Verzoek tot vuurmissie op BTR. Urgentie is hoog. BTR gemarkeerd met laser. Voorgesteld vliegroute met witte lijn op kaart.
+    
+    Over.
 
-Voorbeeld 4 (J-TAC naar CAS-heli):
-Hier J-TAC voor Buizerd. Verzoek tot vuurmissie op 20 pax ten westen van de kerk. Urgentie is hoog. Units zijn gemarkeerd met witte Splash-marker. Friendlies pinned down en danger close. Voorgesteld aanvliegroute met gele lijn op kaart. Over.
+!!! quote "Voorbeeld 4 (J-TAC naar CAS-heli):"
+    Hier J-TAC voor Buizerd.
+    
+    Verzoek tot vuurmissie op 20 pax ten westen van de kerk. Urgentie is hoog. Units zijn gemarkeerd met witte Splash-marker. Friendlies pinned down en danger close. Voorgesteld aanvliegroute met gele lijn op kaart.
+    
+    Over.
 
-Voorbeeld 5 (J-TAC naar Artillerie):
-Hier J-TAC voor Schoorsteen. Verzoek tot vuurmissie 6x HE op tankbasis ten oosten van Brovnic. Urgentie is laag. Voertuigen zijn gemarkeerd met gele Splash-marker in GRID 107 135. Over.
+!!! quote "Voorbeeld 5 (J-TAC naar Artillerie):"
+    Hier J-TAC voor Schoorsteen.
+    
+    Verzoek tot vuurmissie 6x HE op tankbasis ten oosten van Brovnic. Urgentie is laag. Voertuigen zijn gemarkeerd met gele Splash-marker in GRID 107 135.
+    
+    Over.
 
-Voorbeeld 6 (J-TAC naar Artillerie):
-Hier J-TAC voor Mortar team. Verzoek tot vuurmissie 1x Laser Guided op Kajman heli west op het vliegveld. Urgentie is laag. Voertuig is gemarkeerd via laser in GRID 104 246. Over
+!!! quote "Voorbeeld 6 (J-TAC naar Artillerie):"
+    Hier J-TAC voor Mortar team.
+    
+    Verzoek tot vuurmissie 1x Laser Guided op Kajman heli west op het vliegveld. Urgentie is laag. Voertuig is gemarkeerd via laser in GRID 104 246.
+    
+    Over
 
-Voorbeeld 7 (J-TAC naar Overlord):
-Hier J-TAC voor Overlord. Verzoek tot resupply op de resupply marker. Graag 1x medium ammo crate, 1x medical crate en 1x comms crate. Aanvliegroute van Noord naar Zuid. Over.
+!!! quote "Voorbeeld 7 (J-TAC naar Overlord):"
+    Hier J-TAC voor Overlord.
+    
+    Verzoek tot resupply op de resupply marker. Graag 1x medium ammo crate, 1x medical crate en 1x comms crate. Aanvliegroute van Noord naar Zuid.
+    
+    Over.
 
 ### Wapensystemen
 De CAS en artillerie hebben diverse wapensystemen. Tijdens de training kunnen de meest voorkomende worden besproken. Denk hierbij aan hellfire, hydra's, laser-guided, HE, etc.
