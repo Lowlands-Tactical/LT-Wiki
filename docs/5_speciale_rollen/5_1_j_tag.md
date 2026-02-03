@@ -140,7 +140,7 @@ Wanneer je een transport of vuurmissie aanvraagt voor een helikopter of vliegtui
     
     Verzoek tot vuurmissie 1x Laser Guided op Kajman heli west op het vliegveld. Urgentie is laag. Voertuig is gemarkeerd via laser in GRID 104 246.
     
-    Over
+    Over.
 
 !!! quote "Voorbeeld 7 (J-TAC naar Overlord):"
     Hier J-TAC voor Overlord.
