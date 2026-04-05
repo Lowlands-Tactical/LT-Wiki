@@ -16,6 +16,7 @@ title: 3.1. Autorifleman
 Als autorifleman heb je de volgende twee posities binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
 
 __Team Alpha__
+
 - [ ] A1: Groepscommandant (Lead)
 - [x] A1: Autorifleman
 - [ ] A1: Grenadier
