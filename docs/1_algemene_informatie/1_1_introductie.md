@@ -4,7 +4,7 @@ title: 1.1. Introductie
 ---
 # 1.1. Introductie
 <span style="font-size:0.7em;">
-   :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **5-10-2025** door **Pek**
+   :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 Welkom bij Lowlands Tactical! Hier vind je een beknopte overzicht van alle zaken die we met Lowlands Tactical doen. Onze core business is Arma 3, maar daarnaast spelen we ook andere games.
@@ -29,9 +29,11 @@ De aspirantenfase is een begeleid traject om jou zo goed mogelijk op weg te help
     * Als aspirant krijg je beperkte rollen en rechten in Teamspeak en op Discord.
     * Als aspirant wordt je gekoppeld aan een begeleider die minimaal 4 weken aan je gekoppeld is.
     * De begeleider helpt bij het installeren van de modset en de key-bindings.
-    * De begeleider geeft je een intro, waarin je de basis van Lowtac doorloopt. Dit is vereist vóór de eerste keer meespelen.
+    * De begeleider geeft je een intro, waarin je de basis leert om mee te kunnen spelen. Dit is vereist vóór de eerste keer meespelen.
+    * De begeleider geeft je een training over de basisvaardigheden.
     * De begeleider wordt jouw buddy tijdens de sessies, zodat je vragen kunt stellen en geholpen kan worden waar nodig.
     * Na min. 4 sessies meespelen kijken we of het wederzijds klikt en of je volledig Arma 3 lid wil worden.
+    * Hierna kun je trainingen volgen om specifieke rollen te mogen slotten.
 
 ## :material-clock-outline: Arma 3 sessies
  
@@ -48,15 +50,16 @@ De aspirantenfase is een begeleid traject om jou zo goed mogelijk op weg te help
 Onze speelstijl kan omschreven worden als casual, maar toch serieus (serious fun). We houden van een geintje, spelen met structuur en tactieken, maar we houden niet van 100% milsim. Ons doel is niet om ‘soldaatje te spelen’, maar om als team tactisch, effectief, professioneel en plezierig een missie tot een goed einde te brengen.
 
 !!! success "Wat je kunt verwachten"
-    * Gestructureerde huisgemaakte Lowtac missies met duidelijke rollen.
+    * Gestructureerde huisgemaakte Lowtac missies met duidelijke rollen en briefings.
     * Echte samenwerking, zonder lone-wolf gedrag.
     * Toepassing van tactieken die ook in het echt werken.
     * Respectvol en volwassen gedrag — in en buiten het spel.
     * Actieve Discord omgeving.
 
 ## :material-account-group-outline: Overige activiteiten
-Gedurende de week is een merendeel van de clan aan het werk, voor kinderen aan het zorgen of een ander spelletje aan het spelen. Op doordeweekse avonden kun je altijd een oproep doen voor een off-night ArmA 3 sessie. Dit kan voor een training(scenario), een Escape of een Persistent Campaign zijn. Uiteraard kun je ook een oproep doen om andere spellen samen te spelen.
+Gedurende de week is een merendeel van de clan aan het werk, voor kinderen aan het zorgen of een ander spel aan het spelen. Op doordeweekse avonden kun je altijd een oproep doen voor een off-night ArmA 3 sessie. Dit kan voor een training(scenario), een Escape of een Persistent Campaign zijn. Uiteraard kun je ook een oproep doen om andere spellen samen te spelen.
 
 Multi-clanning is toegestaan, behalve op de vrijdagavond tijdens de sessies.
 
 Je bent vrij de server te gebruiken voor ArmA 3 sessies voor als je wat wil testen of iets wil spelen. We kunnen de server ook beschikbaar stellen voor leden om andere games te hosten mocht hier wens voor zijn vanuit de clan.
+Op maandagen gebruikt de staf de server voor het testen. Wanneer een missie wordt getest op andere dagen is de server ook (tijdelijk) niet beschikbaar.
