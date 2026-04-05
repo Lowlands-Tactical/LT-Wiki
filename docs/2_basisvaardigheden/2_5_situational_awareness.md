@@ -4,7 +4,7 @@ title: 2.5. Situational Awareness
 ---
 # 2.5. Situational Awareness
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **03-10-2025**
+    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **03-10-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 ??? info
@@ -24,21 +24,21 @@ Situational Awareness bestaat uit drie niveaus:
 1. **Perceptie** - Waarneming van elementen in de omgeving.
     - __Voorbeeld__: Tijdens een patrouille in stedelijk gebied merkt een speler dat deuren open staan van huizen. Dit kan een indicatie zijn van aanwezige pax in het gebied.
 2. **Begrip** - Het begrijpen van hetgeen is waargenomen. 
-    - __Voorbeeld__: Een vuurteamlid hoort voertuigaudio. Het zijn vermoedelijk rupsbanden. Hij geeft dit door aan de vuurteamleider. Die intrepeteert dit als een mogelijke tank en laat de anti-tank specialist alvast gereedmaken en de rest van het team 'hard cover' zoeken.
+    - __Voorbeeld__: Een vuurteamlid hoort voertuigaudio. Het zijn vermoedelijk rupsbanden. Hij geeft dit door aan de groepscommandant. Die intrepeteert dit als een mogelijke tank en laat de anti-tank specialist alvast gereedmaken en de rest van het team 'hard cover' zoeken.
 3. **Projectie** - Het voorspellen van toekomstige gebeurtenissen.
-    - __Voorbeeld__: Op basis van het 'lezen' van het terrein, besluit de vuurteamleider een andere looproute te kiezen, omdat hij verwacht dat de huidige route in een hinderlaag kan eindigen.
+    - __Voorbeeld__: Op basis van het 'lezen' van het terrein, besluit de groepscommandant een andere looproute te kiezen, omdat hij verwacht dat de huidige route in een hinderlaag kan eindigen.
 
-Om binnen Lowtac een leidinggevende rol te kunnen spelen, zoals groepscommandant of vuurteamleider, heb je een bovengemiddeld goede SA nodig. Deze helpt jou en het team om zo veilig en tactisch mogelijk een missie tot een goed einde te brengen.
+Om binnen Lowtac een leidinggevende rol te kunnen spelen, zoals peletonscommandant of groepscommandant, heb je een bovengemiddeld goede SA nodig. Deze helpt jou en het team om zo veilig en tactisch mogelijk een missie tot een goed einde te brengen.
 
 ## Factoren die SA beïnvloeden
 - **Stress en vermoeidheid**
-    - Tijdens langdurige wandelingen kan de focus afnemen. Dit beïnvloed de SA. (Langdurig of zwaar) contact kan zorgen voor stress en daarbij een vol hoofd. Ook dit kan resulteren in verminderde SA. Daarom is het belangrijk om enkel GC of VTL te slotten met een 'Fris hoofd'.
+    - Tijdens langdurige wandelingen kan de focus afnemen. Dit beïnvloed de SA. (Langdurig of zwaar) contact kan zorgen voor stress en daarbij een vol hoofd. Ook dit kan resulteren in verminderde SA. Daarom is het belangrijk om enkel PC of GC te slotten met een 'Fris hoofd'.
 - **Infomratie-overbelasting**
     - Veel communicatie (en zeker met de short- en longrange tegelijkertijd) kan zorgen voor minder SA. Het hoofd moet in korte tijd veel informatie tegelijk verwerken. Houd comms daarom altijd zo kort en strak mogelijk.
 - **Verminderde communicatie**
-    - Als vijanden niet effectief worden doorgegeven, zorgt dit voor minder SA. De VTL kan moeilijker sturing geven en iedereen in veiligheid houden. Ook radio-uitval of een andere radio-uitgifte kan zorgen voor minder SA. Het is immers moeilijker om elkaar te bereiken.
+    - Als vijanden niet effectief worden doorgegeven, zorgt dit voor minder SA. De groepscommandant kan moeilijker sturing geven en iedereen in veiligheid houden. Ook radio-uitval of een andere radio-uitgifte kan zorgen voor minder SA. Het is immers moeilijker om elkaar te bereiken.
 - **Gewonden**
-    - Iedereen vertrouwt op de specialisten binnen het team. Als er gewonden zijn, vallen bepaalde taken weg. Een weggevallen VTL zorgt voor een gebrek aan sturing. Een gewonde medic zorgt voor meer spanning en het nemen van meer risico's om diegene zo snel mogelijk op te krijgen. In deze chaos is het een stuk lastiger om logisch na te blijven denken en prioriteiten te stellen.
+    - Iedereen vertrouwt op de specialisten binnen het team. Als er gewonden zijn, vallen bepaalde taken weg. Een weggevallen groepscommandant zorgt voor een gebrek aan sturing. Een gewonde medic zorgt voor meer spanning en het nemen van meer risico's om diegene zo snel mogelijk op te krijgen. In deze chaos is het een stuk lastiger om logisch na te blijven denken en prioriteiten te stellen.
 
 ## Het vergroten van SA
 
