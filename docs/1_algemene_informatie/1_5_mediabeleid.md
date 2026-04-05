@@ -15,7 +15,7 @@ We willen laten zien wat we als eenheid kunnen: tactisch samenspel, mooie moment
 - Geen onbewerkte sessies of ‘raw uploads’ naar het officiële kanaal.
 - Content met beledigend, racistisch of anderszins ongepast gedrag wordt geweigerd of verwijderd – ook als het bedoeld is als ‘grapje’.
 
-Elke sessie krijgt op Discord een eigen **mediakanaal**. Daar kun je screenshots, clips of audiofragmenten van die sessie posten. Vanuit die kanalen wordt content verzameld en geselecteerd voor socials (YouTube Shorts, TikTok, Instagram, Bluesky, etc.). De media-admin verwerkt dit tot posts, eventueel met minimale nabewerking.
+Elke sessie krijgt op Discord een eigen **mediakanaal**. Daar kun je screenshots, clips of audiofragmenten van die sessie posten. Vanuit die kanalen wordt content verzameld en geselecteerd voor socials (YouTube Shorts en Instagram). De media-admin verwerkt dit tot posts, eventueel met minimale nabewerking.
 
 
 ### YouTube
@@ -32,15 +32,7 @@ We maken vooral gebruik van korte video’s voor het YouTube-kanaal, maar langer
 - Alleen bewerkte content; raw uploads zijn niet toegestaan op het officiële kanaal.
 - Als het vooral om intern gebruik of iets luchtigs gaat, post het op je **eigen kanaal** en deel het via Discord.
 
-### TikTok
-
-TikTok gebruiken we voor korte, opvallende of humoristische fragmenten.  
-Clips worden aangeleverd via het sessiemediakanaal, net als bij Shorts.
-
-- Verticale uitsnede (9:16) wordt geregeld door de media-admin.
-- De stijl mag iets losser zijn, zolang het niet schadelijk is voor het imago van de groep.
-
-### Bluesky / Instagram (Screenshots)
+### Instagram (Screenshots)
 
 We posten regelmatig mooie screenshots — strak in beeld, zonder HUD, en lekker cinematic.
 
