@@ -1,14 +1,14 @@
 ---
 layout: doc
-title: 3.4. Engineer
+title: 5.1. EOD/engineer
 ---
-# 3.4. Engineer
+# 5.1. EOD/engineer
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **1-4-2026** door **R.Hoods**
 </span>
 
 ??? info
-    In deze gids leer je over de rol van de engineer. We verwachten van alle spelers die de engineer rol willen slotten, dat zij bekend zijn met de kennis en handelingen uit deze gids. Zo kunnen ze adequaat de handelingen zowel het repair gedeelte als het demolition gedeelte uitvoeren. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
+    In deze gids leer je over de rol van de EOD/engineer. We verwachten van alle spelers die de engineer rol willen slotten, dat zij bekend zijn met de kennis en handelingen uit deze gids. Zo kunnen ze adequaat de handelingen zowel het repair gedeelte als het demolition gedeelte uitvoeren. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
     
     -	De cursist weet wat de specifieke items zijn voor de engineer.
 
@@ -54,8 +54,7 @@ In onze modset heeft voertuigbemanning ook de mogelijkheid tot het repairen van 
 ## Uitrusting
 | Item                  | Functie                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
-| Toolbox               | Benodigd om voertuigen te kunnen repareren (tot aan geel).              |
-| Wirecutter            | Voor het verwijderen van obstakels of door hekken knippen                |
+| Wirecutter            | Voor het verwijderen van obstakels of door hekken knippen               |
 | Detonator / timer     | Wordt gekoppeld aan explosieven voor detonatie                          |
 | Mine Detector         | Detecteert mijnen en IED’s.                                             |
 | Repair vehicle/station| Benodigd voor full repairs (tot aan wit).                               |
@@ -90,7 +89,7 @@ De items zijn beschikbaar via ACE self-interact en interact door op de windows t
 
 ### B.	Plaatsen van explosieven
 
-1.	De GC of de VTL bepalen welke doelen er uitgeschakeld moeten worden. Denk aan voertuigen, gebouwen of het doorbreken van een muur.
+1.	De PC of de GC bepalen welke doelen er uitgeschakeld moeten worden. Denk aan voertuigen, gebouwen of het doorbreken van een muur.
 
 2.	Pak een explosief :material-arrow-right: plaats via ACE interact :material-arrow-right: bevestig een detonator/timer.
 
@@ -100,9 +99,9 @@ De items zijn beschikbaar via ACE self-interact en interact door op de windows t
 
 ### C.	Detonatie
 
-1.	Overleg met de VTL of het gebied veilig is en dat andere teams uit de buurt zijn.
+1.	Overleg met de GC of het gebied veilig is en dat andere teams uit de buurt zijn.
 
-2.	Na een GO van de VTL roep je over de radio 3x ‘Fire in the hole’.
+2.	Na een GO van de GC roep je over de radio 3x ‘Fire in the hole’.
 
 3.	Detoneer door via self interact via je firing device. Bij loslaten ontploffen de explosieven gelijk!
 
@@ -110,7 +109,7 @@ De items zijn beschikbaar via ACE self-interact en interact door op de windows t
 
 1.	Lokaliseer de explosieven zoals een mijn of IED. Gebruik hiervoor ook de Mine Detector.
 
-2.	Overleg met de VTL dat er een ruime veilige omgeving is waar niemand in komt.
+2.	Overleg met de GC dat er een ruime veilige omgeving is waar niemand in komt.
 
 3.	Ga ruim voor het explosief liggen en kruip er naartoe. Hierdoor beweeg je langzamer en is de kans of fouten kleiner.
 
@@ -120,7 +119,7 @@ De items zijn beschikbaar via ACE self-interact en interact door op de windows t
 
     -	Gebruik altijd de radio bij het herkennen of plaatsen van explosieven
 
-    -	Altijd na toestemming van GC / VTL detoneren
+    -	Altijd na toestemming van PC / GC detoneren
 
     -	Geen detonatie binnen 100 meter van friendly units
 
@@ -151,19 +150,19 @@ Fuel, ammo en pylons werken anders dan de repair. Hiervoor heb je een fuel/ammo 
 Als jouw voertuig pylons heeft, dit zijn soorten munitie zoals raketten op een helikopter, dan heb je een ammo truck of station nodig om deze te wisselen. Via de windows toets op het voertuig kun je ‘configure pylons’ selecteren en de verschillende pylons selecteren. De bestuurder of piloot van het voertuig bepaald welke pylons die wil.
 
 ### Suicide bomber
-Suicide bombers zijn vijanden die op je af komen rennen met een zichtbaar of onzichtbaar bomvest. Als ze in de buurt zijn blazen ze zichzelf op. Ze zijn zichtbaar vijandelijk, maar kunnen er ook als civilian uitzien. Als een persoon dus hard op je af komt rennen, bekijk dan of je een bomvest ziet, creëer afstand en schakel uit waar nodig in overleg met de VTL.
+Suicide bombers zijn vijanden die op je af komen rennen met een zichtbaar of onzichtbaar bomvest. Als ze in de buurt zijn blazen ze zichzelf op. Ze zijn zichtbaar vijandelijk, maar kunnen er ook als civilian uitzien. Als een persoon dus hard op je af komt rennen, bekijk dan of je een bomvest ziet, creëer afstand en schakel uit waar nodig in overleg met de PC.
 
 Na het neerhalen is het belangrijk om afstand te behouden. Sommige suicide bombers hebben een dead mans trigger. Dit betekent dat de bom een x % kans heeft om te ontploffen, omdat de vijand de trigger niet meer dicht kan knijpen. Als engineer behandel je een bomvest als een mijn qua ontmanteling.
 
-![Afbeelding](img/3_4_engineer/suicide.jpg)
+![Afbeelding](img/5_1_eod/suicide.jpg)
 
 ### IED’s
 IED’s zijn ‘Improvised Explosive Devices’, oftewel bernbommen. Deze zijn er in verschillende soorten en zijn vaak goed verhuld. Als engineer behandel je een IED als een mijn qua ontmanteling. 
 
 Hierbij enkele voorbeelden van verhulling:
 
-![Afbeelding](img/3_4_engineer/IED1.jpg)
-![Afbeelding](img/3_4_engineer/IED2.jpg)
+![Afbeelding](img/5_1_eod/IED1.jpg)
+![Afbeelding](img/5_1_eod/IED2.jpg)
 
 
 
