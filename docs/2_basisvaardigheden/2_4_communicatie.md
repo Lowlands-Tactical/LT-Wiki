@@ -1,10 +1,10 @@
 ---
 layout: doc
-title: 2.7. Communicatie
+title: 2.4. Communicatie
 ---
-# 2.7. Communicatie
+# 2.4. Communicatie
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **26-08-2025** door **Pek**
+    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 ??? info
@@ -55,7 +55,15 @@ Is vaak voor iedereen te gebruiken wordt gebruikt voor belangrijke berichten die
 
 ### Long-range (152)
 !!! info "Standaard keybind: Ctrl + Capslock"
-Is vaak voor leidinggevende rollen en voertuigpersoneel en wordt gebruikt voor belangrijke berichten die over langere afstand overgedragen moeten worden. Vaak aansturende orders, SITREPS en AMCAS tussen GC en VTL’s. 
+Is vaak voor leidinggevende rollen en voertuigpersoneel en wordt gebruikt voor belangrijke berichten die over langere afstand overgedragen moeten worden. Vaak aansturende orders, SITREPS en AMCAS tussen PC en GC’s. 
+
+### Long-range (117)
+!!! info "Standaard keybind: Alt + Capslock"
+Is vaak alleen beschikbaar voor de J-TAC en wordt gebruikt als extra longrange om te communiceren met voertuigen zoals heli's. Hiermee kan leidinggevende communicatie van de grond en communicatie met de voertuigen in de lucht van elkaar gescheiden worden.
+
+### Voertuig Intercom
+!!! info "Bereikbaar via ACE interaction menu in het voertuig"
+In sommige voertuigen zit een Intercom-systeem. In dit systeem kun je kiezen voor 'Crew' of 'Pax'. Hierdoor kun je met de crew op een apart intercom kanaal zitten, waardoor je geen verbale last hebt van de andere teamleden die achterin het voertuig het weekend aan het bespreken zijn.
 
 ### Voertuigradio’s
 !!! info "Bereikbaar via ACE interaction menu in het voertuig"
@@ -68,7 +76,7 @@ Wanneer je zowel een short- als long-range radio hebt, kun je deze op verschille
 Via ACE Self Intereact kun je per radio bepalen welke radio je op welk oor wilt horen. Door de radio’s te splitsen kun je de verschillende berichten beter uit elkaar houden en heb je sneller overzicht. 
 
 ## Callsigns en elkaar oproepen 
-Wanneer je elkaar oproept doen we dit altijd op dezelfde manier. Dit geeft duidelijkheid en etherdiscipline. Houd communicatie zo kort en bondig mogelijk. Dit voorkomt irritatie door ellelange berichten in je oor. Een ander kan op dat moment niks zeggen. Gebruik altijd de callsigns. Binnen het team noem je elkaar bij de naam. Tussen teams gebruik je elkaars callsign: Alpha, Bravo, Charlie, Romeo (GC), Echo (2IC), Buizerd (heli), Zulu (taxi). Callsigns worden begin van de sessie afgestemd en staan niet in beton gegoten.
+Wanneer je elkaar oproept doen we dit altijd op dezelfde manier. Dit geeft duidelijkheid en etherdiscipline. Houd communicatie zo kort en bondig mogelijk. Dit voorkomt irritatie door ellelange berichten in je oor. Een ander kan op dat moment niks zeggen. Gebruik altijd de callsigns. Binnen het team noem je elkaar bij de naam. Tussen teams gebruik je elkaars callsign: Alpha, Bravo, Charlie, Romeo (PC), Echo (2IC), Buizerd (heli), Zulu (taxi). Callsigns worden begin van de sessie afgestemd en staan niet in beton gegoten.
 
 !!! quote "Je roept elkaar op via de onderstaande manier. Hierbij een voorbeeld:"
     Alpha voor Bravo
@@ -117,7 +125,7 @@ Benoem de richting van de vijand, de afstand tot de vijand en wat de vijand is. 
 !!! quote "Schoten noord, dreiging onbekend!"
 
 ## SITREP en AMCAS 
-De GC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updates vragen aan de VTL’s van een team. Het is aan de VTL of een ander met long-range om hier kort en bondig op te reageren. Hieronder het verschil tussen SITREP en AMCAS en hoe je reageert. 
+De PC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updates vragen aan de GC van een team. Het is aan de GC of een ander met long-range om hier kort en bondig op te reageren. Hieronder het verschil tussen SITREP en AMCAS en hoe je reageert. 
 
 !!! info "SITREP: Situation Report – Een beknopte samenvatting van de huidige stand van zaken."
     - Wat is er gebeurd? 
@@ -149,14 +157,14 @@ De GC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updat
     Hier Romeo, dankjewel, resupply beschikbaar op RP-kilo, UIT.
 
 ## 2nd in een team 
-Per team wordt een 2nd aangesteld door de VTL. Diegene krijgt (wanneer mogelijk) van de VTL een long-range radio en is verantwoordelijk voor de communicatie op long-range wanneer de VTL neer gaat. Wanneer dit gebeurt roep je dit gelijk over radio, zodat andere teams en de GC weet wat er speelt. 
+Per team wordt een 2nd aangesteld door de GC, de vuurteamleider (VTL). De vuurteamleider kan een deel van de groep sturing geven. De vuurteamleider wordt gezien als opstap naar de groepscommandant. Diegene krijgt (wanneer mogelijk) een long-range radio en is verantwoordelijk voor het team en de communicatie op long-range wanneer de GC neer gaat. Wanneer dit gebeurt roep je dit gelijk over radio, zodat andere teams en de PC weet wat er speelt. 
 
 !!! quote "Bijvoorbeeld"
     Alpha voor Romeo Urgent 
 
     Hier Romeo geef bericht, OVER 
 
-    Hier Alpha, AMCAS, 1 gewonde, VTL neer, medic is op, ammo groen! OVER 
+    Hier Alpha, AMCAS, 1 gewonde, GC neer, medic is op, ammo groen! OVER 
 
     Hier Romeo, hebben jullie ondersteuning nodig? OVER 
 
@@ -165,7 +173,7 @@ Per team wordt een 2nd aangesteld door de VTL. Diegene krijgt (wanneer mogelijk)
 ## NAVO-alfabet 
 Binnen Lowtac gebruiken we regelmatig het NAVO-alfabet als callsign, als locatiebenaming of om te spellen. Hierbij het NAVO-alfabet ter referentie:
 
-| NATO Alfabet | | | |
+| NATO Alfabet |              |              |              |
 |--------------|--------------|--------------|--------------|
 | A - Alfa     | B - Bravo    | C - Charlie  | D - Delta    |
 | E - Echo     | F - Foxtrot  | G - Golf     | H - Hotel    |
