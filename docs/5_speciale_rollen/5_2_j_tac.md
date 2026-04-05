@@ -41,10 +41,10 @@ title: 5.2. J-TAC
     - De cursist kan in- en uitvlieg routes en LZ's markeren op de kaart en daarbij risico's minimaliseren.
 
 ## De verantwoordelijkheden en werzaamheden van de J-TAC
-De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de peletonscommandant), maar kan ook met een team worden meegestuurd. De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de peletonscommandant, waardoor de peletonscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
+De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de peletonscommandant), maar kan ook met een team worden meegestuurd. Door de flexibele inzet staat de J-TAC in de ondersteuningsgroep (Echo). De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de peletonscommandant, waardoor de peletonscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
 
 ### Communicatie en SA
-Het is van zeer groot belang dat de J-TAC uitgebreide communicatieskills heeft en kort en krachtig communiceert. Communicatie vindt vaak plaats in het heetst van de strijd. Communiceren zoals aangegeven onder 2.7 Communicatie is cruciaal.
+Het is van zeer groot belang dat de J-TAC uitgebreide communicatieskills heeft en kort en krachtig communiceert. Communicatie vindt vaak plaats in het heetst van de strijd. Communiceren zoals aangegeven onder 2.4 Communicatie is cruciaal.
 Daarnaast moet de J-TAC beschikken over een goede situational awareness. Het is belangrijk dat je goed weet waar alle troepen zich bevinden en hoe het terrein hierin meespeelt. Zo kun je de support units zo goed mogelijk begeleiden en de taken effectief laten uitvoeren.
 
 ### De radio's
@@ -66,7 +66,7 @@ Via Self-interact kan de tablet van Alive worden geopend. De trainer kan in-game
 -	Artillerie: Artillerie met verschillende munitietypen die in te roepen is op een aangewezen locatie. 
 
 ### UAV terminal en drones
-De twee meest gebruikte drones voor de J-TAC zijn de AR-2 Darter en de MQ-9A Reaper. Beide drones worden in grote lijnen bestuurd als een helikopter qua controls. Drones zijn te besturen in de driver slot en via de gunner slot kan de camera en eventuele wapensystemen ingezet worden.
+De twee meest gebruikte drones voor de J-TAC zijn de AR-2 Darter en de MQ-9A Reaper. De AR-2 heeft vergelijkbare controls als bij een helikopter. De MQ-9A Reaper heeft vergelijkbare controls als bij een jet. Drones zijn te besturen in de driver slot en via de gunner slot kan de camera en eventuele wapensystemen ingezet worden.
 
 -   De Darter is een kleine drone die gemakkelijk statisch boven het slagveld kan hangen. Deze is handig voor het verzamelen van intel en het aangeven van doelen via de laser.
 
