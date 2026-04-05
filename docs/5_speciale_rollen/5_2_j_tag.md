@@ -1,10 +1,10 @@
 ---
 layout: doc
-title: 5.1. J-TAC
+title: 5.2. J-TAC
 ---
-# 5.1. J-TAC
+# 5.2. J-TAC
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: R.Hoods | :material-calendar-plus: Aangemaakt: **02-02-2026** | :material-calendar-edit: Laatste update: 02-02-2026 door Hoods
+    :fontawesome-solid-user: Auteur: R.Hoods | :material-calendar-plus: Aangemaakt: **02-02-2026** | :material-calendar-edit: Laatste update: **1-4-2026** door **R.Hoods**
 </span>
 
 ??? info
@@ -14,7 +14,7 @@ title: 5.1. J-TAC
 
     -	De cursist bezit alle competenties uit de onderstaande trainingen (en de vinkjes), die voorwaarde zijn om aan de J-TAC-training te beginnen:
 
-        - Een GC en/of VTL vinkje.
+        - Een PC en/of GC vinkje.
 
     -   De cursist kan kort en krachtig communiceren, heeft uitgebreide SA en navigatieskills.    
 
@@ -41,23 +41,23 @@ title: 5.1. J-TAC
     - De cursist kan in- en uitvlieg routes en LZ's markeren op de kaart en daarbij risico's minimaliseren.
 
 ## De verantwoordelijkheden en werzaamheden van de J-TAC
-De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de groepscommandant), maar kan ook met een team worden meegestuurd. De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de groepscommandant, waardoor de groepscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
+De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de peletonscommandant), maar kan ook met een team worden meegestuurd. De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de peletonscommandant, waardoor de peletonscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
 
 ### Communicatie en SA
 Het is van zeer groot belang dat de J-TAC uitgebreide communicatieskills heeft en kort en krachtig communiceert. Communicatie vindt vaak plaats in het heetst van de strijd. Communiceren zoals aangegeven onder 2.7 Communicatie is cruciaal.
 Daarnaast moet de J-TAC beschikken over een goede situational awareness. Het is belangrijk dat je goed weet waar alle troepen zich bevinden en hoe het terrein hierin meespeelt. Zo kun je de support units zo goed mogelijk begeleiden en de taken effectief laten uitvoeren.
 
 ### De radio's
-De J-TAC maakt gebruik van 3 radio's; de short-range, long-range en een extra long-range. Elke radio wordt voor een andere functie gebruikt. Door een extra long-range kan je als J-TAC met ondersteuningsmogelijkheden communiceren, zonder de vuurteamleiders en groepscommandant te storen.
+De J-TAC maakt gebruik van 3 radio's; de short-range, long-range en een extra long-range. Elke radio wordt voor een andere functie gebruikt. Door een extra long-range kan je als J-TAC met ondersteuningsmogelijkheden communiceren, zonder de groepscommandant en peletonscommandant te storen.
 
 | Radio           | Soort       | Default-key           | Functie                                                                              |
 |-----------------|-------------|-----------------------|--------------------------------------------------------------------------------------|
 | AN/PRC-343      | Short-range | Capslock              | Communicatie binnen het eigen team, vaak de peletonsgroep                            |
-| AN/PRC-152      | Long-range  | Ctrl + Capslock       | Communicatie met vuurteamleiders en de groepscommandant                              |
+| AN/PRC-152      | Long-range  | Ctrl + Capslock       | Communicatie met groepscommandanten en de peletonscommandant                              |
 | AN/PRC-117      | Long-range  | Alt + Capslock        | Communicatie met ondersteuningsmogelijkheden zoals heli's en artillerie              |
 
 ### Alive
-Via Self-interact kan de tablet van Alive worden geopend. De trainer kan in-game toelichten hoe de tablet werkt. Afhankelijk van de missiemaker zitten hier verschillende mogelijkheden tot ondersteuning in. Het is aan de GC om te bepalen welke ondersteuning ingezet wordt. Als J-TAC kun je hier voorstellen in doen. Via Alive zijn de volgende opties mogelijk:
+Via Self-interact kan de tablet van Alive worden geopend. De trainer kan in-game toelichten hoe de tablet werkt. Afhankelijk van de missiemaker zitten hier verschillende mogelijkheden tot ondersteuning in. Het is aan de PC om te bepalen welke ondersteuning ingezet wordt. Als J-TAC kun je hier voorstellen in doen. Via Alive zijn de volgende opties mogelijk:
 
 -	Transport heli: voertuig waarmee eigen troepen verplaatst kunnen worden via de lucht.
 
@@ -74,7 +74,7 @@ De twee meest gebruikte drones voor de J-TAC zijn de AR-2 Darter en de MQ-9A Rea
 
 Alle drones moeten gekoppeld worden aan een UAV terminal via het scroll-menu; 'connect Terminal to UAV'. Via het scroll-menu kun je ook de UAV terminal openen; 'Open UAV terminal'. In de UAV terminal selecteer je links bovenin de beschikbare drone. Rechts kun je kiezen voor besturing van de Driver of Gunner. Op de kaart kun je met ctrl + LMB de drone een waypoint geven. De drone gaat dan bewegen. Door met RMB op de waypoint te klikken krijg je opties voor het type, gedrag en de hoogte van de waypoint. Zo kun je de drone bijvoorbeeld later loiteren, hangen en de hoogte aanpassen. Door meerdere keren te klikken met ctrl + LMB geef je meerdere waypoint en daarmee een route aan. Waypoint kunnen met RMB ook geannuleerd worden.
 
-![UAV-terminal](img/5_1_j_tag/UAV_terminal.jpg)
+![UAV-terminal](img/5_2_j_tag/UAV_terminal.jpg)
 
 Vijanden zien drones op grote afstand en zien dit als een serieuze dreiging. Ze zullen het vuur openen. Door beperkte armor is een drone snel kapot. Houd je drone dus op grote afstand van dreiging!
 
@@ -82,7 +82,7 @@ De Darter werkt op batterij. Deze kan via het ACE-interact menu vervangen worden
 
 ### Doelen markeren
 Via de laser op de drone kunnen ondersteuningsmogelijkheden zoals artillerie of CAS laser-guided raketten op jouw laser afvuren. Door je laser statisch op het doel te houden, kun je de ondersteuning op het doel praten en uitschakelen. Dit kan ook met jouw laser-designator.
-Uiteraard kun je ook de coördinaten van een doel uitroepen of het doel markeren op de kaart. Wanneer je op de kaart werkt, doe je dit met een aparte J-TAC kleur. Zo valt de fire-mission op tussen alle tekeningen van VTL en GC.
+Uiteraard kun je ook de coördinaten van een doel uitroepen of het doel markeren op de kaart. Wanneer je op de kaart werkt, doe je dit met een aparte J-TAC kleur. Zo valt de fire-mission op tussen alle tekeningen van GC en PC.
 
 ### Vuurmissies of ondersteuning aanvragen
 Als je een vuurmissie of ondersteuning aanvraagt, doe je dit met korte en duidelijke communicatie volgens een aantal punten:
