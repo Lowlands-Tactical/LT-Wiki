@@ -45,7 +45,7 @@ __Team Alpha__
 - [ ] A1: Autorifleman
 - [ ] A1: Grenadier
 - [ ] A1: Medic  
-
+-  
 - [ ] A2: Vuurteamleider (2IC)
 - [ ] A2: Autorifleman
 - [x] A2: Anti-tank
