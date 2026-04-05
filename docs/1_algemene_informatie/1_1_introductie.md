@@ -9,7 +9,7 @@ title: 1.1. Introductie
 
 Welkom bij Lowlands Tactical! Hier vind je een beknopte overzicht van alle zaken die we met Lowlands Tactical doen. Onze core business is Arma 3, maar daarnaast spelen we ook andere games.
 
-## :busts_in_silhouette: Aanmelden bij Lowtac
+## :account-multiple-plus: Aanmelden bij Lowtac
 Wanneer jij je aanmeldt bij Lowtac zal een staflid contact met je opnemen voor een kennismakingsgesprek en bespreken we o.a. de volgende zaken:
 
 !!! note "Kennismakingsgesprek"
@@ -22,7 +22,7 @@ Wanneer jij je aanmeldt bij Lowtac zal een staflid contact met je opnemen voor e
     * Afstemmen of je kan commiteren op minimaal 50% aanwezigheid, maar het liefst natuurlijk meer!
     * Bij een positief gevoel van beide kanten wordt je Aspirant-lid en doorloop je de "aspirantenfase"
 
-## :saluting_face: Aspiranten
+## :new-box: Aspiranten
 De aspirantenfase is een begeleid traject om jou zo goed mogelijk op weg te helpen:
 
 !!! tip "Aspirantenfase"
