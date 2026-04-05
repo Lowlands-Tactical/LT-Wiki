@@ -4,7 +4,7 @@ title: 4.1. Voertuigen
 ---
 # 4.1. Voertuigen
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **N/A** door **N/A**
+    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 ??? info
@@ -20,7 +20,7 @@ title: 4.1. Voertuigen
 
     -	De cursist weet hoe de cruise control gebruikt kan worden middels insert en de speed limiter middels delete (standaard keybinds).
 
-    -	De cursist weet dat de vuurteamleider voor het voertuig of de groepscommandant voor de konvooi de snelheid bepaalt. 
+    -	De cursist weet dat de groepscommandant voor het voertuig of de peletonscommandant voor de konvooi de snelheid bepaalt. 
 
     -	De cursist weet hoe de konvooi snelheid, afwijkende rijrichtingen of veranderingen hierin uitgeroepen worden.
 

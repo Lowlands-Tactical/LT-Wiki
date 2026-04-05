@@ -4,17 +4,17 @@ title: 4.3. Paradrop
 ---
 # 4.3. Paradrop
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **N/A** door **N/A**
+    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 ??? info
     In deze gids leer je over de van passagier in parachutist. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald en kun je veilig een kist in. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
 
-    -	De cursist weet dat de GC/VTL één of meerdere LZ's intekent op de kaart waarnaar genavigeerd kan worden. Waar mogelijk rondom markante referentiepunten.
+    -	De cursist weet dat de PC/GC één of meerdere LZ's intekent op de kaart waarnaar genavigeerd kan worden. Waar mogelijk rondom markante referentiepunten.
 
-    -	De cursist weet dat de GC/VTL een drop-off locatie intekent op de kaart, welke helpt om het moment van springen te bepalen.
+    -	De cursist weet dat de PC/GC een drop-off locatie intekent op de kaart, welke helpt om het moment van springen te bepalen.
 
-    -	De cursist weet dat de GC/VTL of loadmaster aftelt tot het moment van drop-off en het signaal 'Go-go-go' geeft waarop de parachutisten mogen springen.
+    -	De cursist weet dat de PC/GC of loadmaster aftelt tot het moment van drop-off en het signaal 'Go-go-go' geeft waarop de parachutisten mogen springen.
 
     -	De cursist weet hoe automatische en niet automatische parachuten werken via het scroll-menu.
 
@@ -42,13 +42,13 @@ In Arma 3 zijn er twee manieren van paradroppen:
 
 ## Plan van aanpak
 
-1.	De GC of VTL tekent vooraf aan het springen één of meerdere LZ’s op de kaart en deelt deze met het team. Bij voorkeur rondom herkenbare punten, waardoor je gemakkelijk vanuit de lucht kun zien waar je naartoe moet navigeren (denk aan; watertoren/open vlakte in een bos/bij een splitsing van wegen/etc.)
+1.	De PC of GC tekent vooraf aan het springen één of meerdere LZ’s op de kaart en deelt deze met het team. Bij voorkeur rondom herkenbare punten, waardoor je gemakkelijk vanuit de lucht kun zien waar je naartoe moet navigeren (denk aan; watertoren/open vlakte in een bos/bij een splitsing van wegen/etc.)
 
-2.	De GC of VTL tekent een drop-off locatie in op de kaart. Hiermee wordt een plek bepaald waarop het teken gegeven kan worden dat iedereen mag parachuteren.
+2.	De PC of GC tekent een drop-off locatie in op de kaart. Hiermee wordt een plek bepaald waarop het teken gegeven kan worden dat iedereen mag parachuteren.
 
-3.	De GC, VTL of loadmaster telt tijdens de vlucht af, laat daardoor aan het team weten hoe lang het nog duurt en geeft aan wanneer iedereen klaar moet zijn voor de drop-off.
+3.	De PC, GC of loadmaster telt tijdens de vlucht af, laat daardoor aan het team weten hoe lang het nog duurt en geeft aan wanneer iedereen klaar moet zijn voor de drop-off.
 
-4.	De GC, VTL of loadmaster geeft het signaal ‘Go-go-go’ waarop alle parachutisten uit het voertuig springen. Houd daarbij rekening dat je niet in de lucht tegen elkaar aan botst!
+4.	De PC, GC of loadmaster geeft het signaal ‘Go-go-go’ waarop alle parachutisten uit het voertuig springen. Houd daarbij rekening dat je niet in de lucht tegen elkaar aan botst!
 
 5.	Open in de lucht (automatisch) je parachute op de afgesproken hoogte. Kijk en zoek naar herkenbare punten en navigeer in de lucht naar de afgesproken LZ. Stuur naar de LZ en landt daar zo dicht mogelijk in de buurt.
 
