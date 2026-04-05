@@ -1,8 +1,8 @@
 ---
 layout: doc
-title: 5.1. EOD/engineer
+title: 5.1. EOD/Engineer
 ---
-# 5.1. EOD/engineer
+# 5.1. EOD/Engineer
 <span style="font-size:0.7em;">
     :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **1-4-2026** door **R.Hoods**
 </span>
@@ -49,7 +49,7 @@ De engineer is een slot dat vaak cruciaal is voor het slagen van een missie. In 
 
 -	Ondersteuning bij mobiliteit (bruggen, sleepacties, bevoorrading, etc.)
 
-In onze modset heeft voertuigbemanning ook de mogelijkheid tot het repairen van voertuigen.
+In onze modset hebben voertuigbemanning, grenadiers en anti-tank specialisten ook de mogelijkheid tot het repairen van voertuigen.
 
 ## Uitrusting
 | Item                  | Functie                                                                 |
