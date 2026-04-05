@@ -1,10 +1,10 @@
 ---
 layout: doc
-title: 3.1. Grenadier
+title: 3.2. Grenadier
 ---
-# 3.1. Grenadier
+# 3.2. Grenadier
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 ??? info
@@ -18,8 +18,22 @@ title: 3.1. Grenadier
 
     - De cursist is bekende met de verschillende munitietypen en het herladen hiervan.
 
+## Positie binnen een vuurteam
+Als grenadier heb je de volgende positie binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
+
+**Team Alpha**
+A1: Groepscommandant (Lead)
+A1: Autorifleman
+**A1: Grenadier**
+A1: Medic
+
+A2: Vuurteamleider (2IC)
+A2: Autorifleman
+A2: Anti-tank
+A2: Medic
+
 ## De rol van de grenadier 
-Als grenadier ben je een infanterist oftewel rifleman met een grenade launcher. Deze kan onder je wapen gemonteerd zitten (underslung) of je draagt een losse grenade launcher (zoals AT). Als grenadier volg je de aanwijzingen op van de vuurteamleider (VTL). Deze kan jou vragen om verschillende doelen op afstand uit te schakelen. Het gebruik van de grenade launcher gaat altijd in overleg of na order van de VTL. Doordat je explosieven op afstand kunt schieten kun je ook onwenselijke nevenschade aan doelen, burgers of eigen troepen aanrichten. 
+Als grenadier ben je een infanterist oftewel rifleman met een grenade launcher. Deze kan onder je wapen gemonteerd zitten (underslung) of je draagt een losse grenade launcher (als 2e wapen). Als grenadier volg je de aanwijzingen op van de groepscommandant (GC). Deze kan jou vragen om verschillende doelen op afstand uit te schakelen. Het gebruik van de grenade launcher gaat altijd in overleg of na order van de GC. Doordat je explosieven op afstand kunt schieten kun je ook onwenselijke nevenschade aan doelen, burgers of eigen troepen aanrichten. De grenadier is samen met de Anti-Tank specialist ook degene die een wirecutter heeft om door hekken te knippen. Ook kunnen deze twee rollen voertuigen repareren voor het team.
 
 ## Gebruik van de grenade launcher 
 
@@ -27,7 +41,7 @@ Door op F te drukken wissel je van vuurmodus. Na single shot en autofire volgt o
 
 Rechts bovenin zie je hoe jouw wapen op dat moment geranged is. Vaak staat deze default op 50 meter. De range is aan te passen met page up en page down. Hierdoor schiet het wapen minder ver of verder als je op het doel mikt. Het is belangrijk dat de range tussen jouw positie en het doel overeen komen met hetgeen rechts bovenin is geselecteerd om het doel te kunnen raken. 
 
-![Afbeelding](img/3_1_grenadier/Underslung.jpg)
+![Afbeelding](img/3_2_grenadier/Underslung.jpg)
 
 Wanneer je een aparte grenade launcher zoals AT draagt, wissel je hier naartoe via de nummers op je toetsenbord. Vaak is dit de 2 of de 3.
 
@@ -46,13 +60,13 @@ Elke kaart heeft rechts onderin een liniaal. Over de kaart staan rasterlijnen di
 
 Nu je de grootte van een rastervierkant weet kun je deze tellen van jouw positie tot het doel. In het voorbeeld staan wij op ‘Referentiepunten’ en rangen we tot aan de kerk. Tussen ons en het doel zitten ruim twee rastervierkanten van 100 meter, oftewel 200 meter. Wanneer je op de kerk zou willen vuren, stel je rechts bovenin dus in op 200 meter en zul je een heel klein beetje hoger moeten mikken, omdat de daadwerkelijke afstand 219 meter betreft. 
 
-![Afbeelding](img/3_1_grenadier/Kaart.jpg)
+![Afbeelding](img/3_2_grenadier/Kaart.jpg)
 
 ### Via een rangefinder 
 
 Als je een rangefinder bij je draagt selecteer je die door op B te drukken. Via de rechtermuisknop gebruik je de rangefinder. Richt op het doel en druk op T. Aan de rechter zijde van de rangefinder zie je nu de actuele afstand tussen jou en het doel. Deze voer je rechts bovenin in met page up en page down en je bent klaar om te vuren. 
 
-![Afbeelding](img/3_1_grenadier/Rangen.jpg)
+![Afbeelding](img/3_2_grenadier/Rangen.jpg)
 
 ## Munitietypen 
 Er zijn verschillende munitietypen. Je kunt wisselen tussen munitie via het scroll menu. Er staat dan een optie zoals ‘Reload 40 mm HE Grenade Rounds’. Wanneer je de grenade launcher geselecteerd hebt zie je rechts bovenin de geselecteerde munitie. 
