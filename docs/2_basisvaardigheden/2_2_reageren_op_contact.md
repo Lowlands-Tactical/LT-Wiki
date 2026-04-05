@@ -50,11 +50,11 @@ Door **Terrein analyse** toe te passen tijdens de missie, kun je waarschijnlijke
 ## Veiligheid
 We houden ons aan de volgende veiligheidsregels:
 
-    1. Een positieve identificatie is vereist, voordat we vuren.
-    2. Twijfel = niet schieten.
-    3. Communiceer vijanden, vermoedens of onduidelijkheden binnen het team, zodat de groepscommandant hier rekening mee kan houden.
-    4. Pas het buddy check systeem regelmatig toe.
-    5. Volg de ROE strikt op.
+1. Een positieve identificatie is vereist, voordat we vuren.
+2. Twijfel = niet schieten.
+3. Communiceer vijanden, vermoedens of onduidelijkheden binnen het team, zodat de groepscommandant hier rekening mee kan houden.
+4. Pas het buddy check systeem regelmatig toe.
+5. Volg de ROE strikt op.
 
 ## Rules Of Engagement (ROE)
 
@@ -86,10 +86,10 @@ Doorgaans bepalend de groepscommandant voor het vuurteam welk commando er geldt.
 ## Reageren op contact
 Wanneer jouw team onverhoopt in contact komt, moet het team hier adequaat op reageren om het initatief van het vuurgevecht te behouden. Hierbij doorlopen we de volgende stappen: 
 
-- Schiet twee keer op je doel.
-- Ga knielen/liggen of zoek 'hard cover' als deze dichtbij beschikbaar is.
-- Roep het contact uit via de RAD-prodedure (Richting - Afstand - Doel). Zo weet iedereen wat de dreiging is.
-- Blijf om de paar seconden schoten uitbrengen en volg de aanwijzingen van de groepscommandant op.
+1. Schiet twee keer op je doel.
+2. Ga knielen/liggen of zoek 'hard cover' als deze dichtbij beschikbaar is.
+3. Roep het contact uit via de RAD-prodedure (Richting - Afstand - Doel). Zo weet iedereen wat de dreiging is.
+4. Blijf om de paar seconden schoten uitbrengen en volg de aanwijzingen van de groepscommandant op.
 
 Met de eerste schoten zorg je ervoor dat de vijand de dekking opzoekt, zo houden wij het initiatief in het vuurgevecht. Hierna stel je jezelf zoveel mogelijk in veiligheid. Vervolgens maak je de dreiging bekend bij je teamgenoten en groepscommandant. De groepscommandant maakt zo snel mogelijk een plan om de dreiging adequaat aan te grijpen en het team in veiligheid te houden.
 

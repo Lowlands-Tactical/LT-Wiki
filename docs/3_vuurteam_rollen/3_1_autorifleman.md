@@ -14,15 +14,14 @@ title: 3.1. Autorifleman
 
 ## Positie binnen een vuurteam
 Als autorifleman heb je de volgende twee posities binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
-
-**Team Alpha**
+__Team Alpha__
 A1: Groepscommandant (Lead)
-**A1: Autorifleman**
+__A1: Autorifleman__
 A1: Grenadier
 A1: Medic
 
 A2: Vuurteamleider (2IC)
-**A2: Autorifleman**
+__A2: Autorifleman__
 A2: Anti-tank
 A2: Medic
 

@@ -21,6 +21,7 @@ title: 2.3. Uitroepen van contact
 ## Vijanden uitroepen met de RAD-procedure
 Iedereen wil het graag weten als er vijanden (pax) zijn. Dit vergroot de Situational Awareness (SA) en helpt om de vijand of aanval tactisch aan te grijpen.
 Wanneer je een positieve doelindentificatie hebt, roep je dit binnen jouw team uit via de RAD-procedure. Dit doen we via de short-range __radio__ waar mogelijk. RAD staat voor **Richting - Afstand - Doel**:
+
 -   De <mark>**Richting**</mark> bepaalt waar de teamleden zich op moeten focussen.
 -   De <mark>**Afstand**</mark> bepaalt hoe snel iedereen moet handelen. Verder weg betekent meer tijd. Dit heeft invloed op het actieplan. De afstand is ook belangrijk voor rollen zoals granadier en anti-tank, die de zeroing van hun wapen moeten aanpassen.
 -   Het <mark>**Doel**</mark> bepaalt de mate van dreiging. Een groep pax geeft een andere mate van dreigeing van een tactical .50. Ook dit heeft invloed op het actieplan.
