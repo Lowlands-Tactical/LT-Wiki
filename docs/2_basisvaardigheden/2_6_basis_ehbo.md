@@ -1,10 +1,10 @@
 ---
 layout: doc
-title: 2.1. Basis EHBO
+title: 2.6. Basis EHBO
 ---
-# 2.1. Basis EHBO
+# 2.6. Basis EHBO
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 ??? info
@@ -38,11 +38,11 @@ title: 2.1. Basis EHBO
 
 Tijdens vuurgevechten kun je gewond raken. Toch is het overwicht houden in een vuurgevecht belangrijker dan direct starten met medische handelingen. Als meerdere mensen stoppen met schieten zal de vijand het vuurgevecht winnen. Dit kan juist leiden tot meerdere gewonden of een squad wipe.
 
-Laat de vuurteamleider (VTL) weten dat je gewond bent en blijf vuur uitbrengen. Als er voldoende vuur uitgebracht wordt, kun je jezelf tijdelijk stabiliseren. Wanneer je kan starten met medische handelingen, zorg dan voor een beschutte plek. Een grote steen, dikke boomstronk, stenen muur, etc. kunnen voldoende bescherming bieden. Houd er rekening mee dat de vijand door o.a. houten muren kan schieten.
+Laat de groepscommandant (GC) weten dat je gewond bent en blijf vuur uitbrengen. Als er voldoende vuur uitgebracht wordt, kun je jezelf tijdelijk stabiliseren. Wanneer je kan starten met medische handelingen, zorg dan voor een beschutte plek. Een grote steen, dikke boomstronk, stenen muur, etc. kunnen voldoende bescherming bieden. Houd er rekening mee dat de vijand door o.a. houten muren kan schieten.
 
 Gebruik het terrein en zorg voor een veilige werkplek:  
 
-![Afbeelding](img/2_1_basis_ehbo/ehbo1.jpg)
+![Afbeelding](img/2_6_basis_ehbo/ehbo1.jpg)
 
 Stabiliseer jezelf eerst, voordat je direct een Medic om hulp roept. Met veel wonden kun je, na een 'quick fix', prima doorvechten. Als een teamlid neer is, geef dit dan door aan de VTL en Medic.
 
@@ -51,10 +51,10 @@ Stabiliseer jezelf eerst, voordat je direct een Medic om hulp roept. Met veel wo
 Het uitvoeren van medische handelingen doe je in het Medical Menu. Open deze met `H` of via ACE-interact. Wanneer je close range naar een speler kijkt en op `H` drukt, krijg je het Medical Menu van diegene.
 
 **Self interact:**
-![Afbeelding](img/2_1_basis_ehbo/ehbo2.jpg)
+![Afbeelding](img/2_6_basis_ehbo/ehbo2.jpg)
 
 **Medical Menu:**  
-![Afbeelding](img/2_1_basis_ehbo/ehbo3.png)
+![Afbeelding](img/2_6_basis_ehbo/ehbo3.png)
 
 - Links bovenin onder **EXAMINE & TREATMENT** kun je langs de verschillende medische handelingen klikken.  
 - In het midden zie je de status van de gewonde. Je kan op alle lichaamsdelen drukken. Om het geselecteerde lichaamsdeel staat nu een witte rand. Gekleurde lichaamsdelen zijn gewond (licht geel → donkerrood).  
@@ -64,17 +64,17 @@ Het uitvoeren van medische handelingen doe je in het Medical Menu. Open deze met
 
 Elke infanterist draagt een beperkt aantal medische spullen op het lichaam of in het vest. Een Medic draagt veel meer supplies dan een voetsoldaat en beschikt daarnaast ook over Medic-specifieke gear.  
 
-![Afbeelding](img/2_1_basis_ehbo/ehbo4.png)  
+![Afbeelding](img/2_6_basis_ehbo/ehbo4.png)  
 
 - **Bandage (Basic)**: Plaatsen op een lichaamsdeel met een wond.  
 - **Bandage (Elastic)**: Plaatsen op een lichaamsdeel met een wond. *Vaak het meest effectief!*  
-- **Bandage (QuikClot)**: Plaatsen op een lichaamsdeel met een wond.  
+- **Bandage (QuikClot)**: Plaatsen op een lichaamsdeel met een wond. *Vaak het minst effectief*  
 - **Splint**: Gebruik op een lichaamsdeel met een breuk.  
 - **Tourniquet (CAT)**: Gebruik op arm/been om het bloeden tijdelijk te stoppen.  
 - **Painkillers**: Gebruik op hoofd om pijn te bestrijden.  
 
 ## Stappenplan stabiliseren
-1. Maak wonden op **borst en hoofd** dicht met Elastic Bandage / Field Dressing / QuikClot.  
+1. Maak wonden op **borst en hoofd** dicht met Elastic Bandage / Field Dressing.
 2. Plaats een Tourniquet op gewonde armen of benen.  
 3. Plaats een splint op gebroken benen (met gebroken arm kun je doorvechten).  
 
@@ -92,10 +92,10 @@ Verplaats gewonden alleen als dit veilig kan via:
 1. ACE-interact → `Drag` of `Carry`.  
 2. Of druk `H` bij de gewonde → selecteer `Drag/Carry` in het Medical Menu.  
 
-![Afbeelding](img/2_1_basis_ehbo/ehbo5.png)
+![Afbeelding](img/2_6_basis_ehbo/ehbo5.png)
 
 ### Gewonde of dood (respawn)
 
 - Druk op het hoofd van een speler → selecteer `Response` in het Medical Menu om status te checken.  
 - Dode spelers: krijgen zwart triagelabel of bodybag. Ragdoll = dood.  
-![Afbeelding](img/2_1_basis_ehbo/ehbo6.png)
+![Afbeelding](img/2_6_basis_ehbo/ehbo6.png)
