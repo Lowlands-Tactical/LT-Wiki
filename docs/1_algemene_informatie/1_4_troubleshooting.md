@@ -4,7 +4,7 @@ title: 1.4. Troubleshooting
 ---
 # 1.4. Troubleshooting
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Pek** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+    :fontawesome-solid-user: Auteur: **Pek** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 Deze pagina helpt je bij het oplossen van veelvoorkomende problemen bij het opstarten van Arma 3 of het joinen van onze server.
