@@ -121,7 +121,7 @@ Dit is een HEAT-RA (High Explosive Anti-Tank-Rocket Assisted).
 Ook is de Panzerfaust 3 een wegwerpproduct. Het wapen bestaat uit een wegwerplanceerbuis, maar de richtkijker kan hergebruikt worden. In de praktijk van Arma maak je gebruik van vuurklare Panzerfaust 3 antitankwapens en hoeven we niets toe te passen na gebruik. 
 Na het afvuren van de Panzerfaust 3 kan je de trajectie van het projectiel via de richtkijker volgen. Nadat je de richtkijker verlaat, zal je personage in Arma automatisch het restant van de Panzerfaust 3 wegwerpen. 
 
-![Panzerfaust Zoom](img/3_2_anti_tank/panzerfaust zoom.jpg){ width="600" }
+![Afbeelding](img/3_3_anti_tank/panzerfaust zoom.jpg){ width="600" }
 /// caption
 Zicht van de Panzerfaust 3, door de richtkijker. De aantallen aan de zijkant geven aan hoe hoog je moet mikken voor welke afstanden.
 ///
