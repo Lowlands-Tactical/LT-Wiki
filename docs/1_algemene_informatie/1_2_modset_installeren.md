@@ -4,7 +4,7 @@ title: 1.2. Modset Installeren
 ---
 # 1.2. Modset Installeren
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Brainless_Ben** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+    :fontawesome-solid-user: Auteur: **Brainless_Ben** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 Welkom bij de installatiehandleiding voor de Lowlands Tactical modset. Volg de onderstaande stappen zorgvuldig om je voor te bereiden op onze Arma 3-sessies.
