@@ -4,7 +4,7 @@ title: 1.3. Toetsinstellingen
 ---
 # 1.3. Toetsinstellingen
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **6-10-2025** door **Pek**
+    :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 Het is belangrijk dat je Arma 3 met de juiste keybinds speelt. Aspiranten kunnen de keybinds al vóór de intro in orde maken via deze lijst. Bestaande leden kunnen via deze pagina hun keybinds controleren.
@@ -61,9 +61,9 @@ In Teamspeak zijn deze instellingen te vinden onder Tools > Options > Capture > 
 
 ### Enhanced Movement
 
-| Functie                | Standaardtoets    | Instellocatie                                               |
-|------------------------|-------------------|-------------------------------------------------------------|
-| Klimmen / springen     | Ctrl + V          | ESC > Configure > Controls > Custom Controls > Use Action 1 |
+| Functie                | Standaardtoets    | Instellocatie                                                                               |
+|------------------------|-------------------|---------------------------------------------------------------------------------------------|
+| Klimmen / springen     | Ctrl + V          | ESC > Configure > Controls > Custom Controls > Use Action 1 (kan ook een ander nummer zijn) |
 
 ### Weapons
 
