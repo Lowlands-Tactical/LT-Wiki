@@ -65,16 +65,17 @@ title: 3.4. Medic
 ## Positie binnen een vuurteam
 Als medic heb je de volgende 2 mogelijke positie binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
 
-**Team Alpha**
-A1: Groepscommandant (Lead)
-A1: Autorifleman
-A1: Grenadier
-**A1: Medic**
+__Team Alpha__
 
-A2: Vuurteamleider (2IC)
-A2: Autorifleman
-A2: Anti-tank
-**A2: Medic**
+- [ ] A1: Groepscommandant (Lead)
+- [ ] A1: Autorifleman
+- [ ] A1: Grenadier
+- [x] A1: Medic  
+
+- [ ] A2: Vuurteamleider (2IC)
+- [ ] A2: Autorifleman
+- [ ] A2: Anti-tank
+- [x] A2: Medic
 
 ## Rol van de Medic
 De medic is degene die alle gewonden kan oplappen. De medic heeft een uitgebreide medische rugzak mee en kan gespecialiseerde medische handelingen verrichten om iemand op te krijgen die neer is gegaan.

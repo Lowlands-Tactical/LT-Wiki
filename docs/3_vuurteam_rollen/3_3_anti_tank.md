@@ -39,16 +39,17 @@ title: 3.3. Anti-Tank
 ## Positie binnen een vuurteam
 Als Anti-Tank specialist heb je de volgende positie binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
 
-**Team Alpha**
-A1: Groepscommandant (Lead)
-A1: Autorifleman
-A1: Grenadier
-A1: Medic
+__Team Alpha__
 
-A2: Vuurteamleider (2IC)
-A2: Autorifleman
-**A2: Anti-tank**
-A2: Medic
+- [ ] A1: Groepscommandant (Lead)
+- [ ] A1: Autorifleman
+- [ ] A1: Grenadier
+- [ ] A1: Medic  
+
+- [ ] A2: Vuurteamleider (2IC)
+- [ ] A2: Autorifleman
+- [x] A2: Anti-tank
+- [ ] A2: Medic
 
 ## Rol van de AT-specialist
 De rol van de Anti-Tank specialist (rifleman AT) is voornamelijk het bieden van weerstand tegen zware voertuigdreiging. Ook kan de AT’er worden ingezet bij lichte voertuigen, groepen infanterie of het neerhalen van gebouwen of muren.

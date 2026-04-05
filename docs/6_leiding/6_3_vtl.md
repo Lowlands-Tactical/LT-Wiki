@@ -8,7 +8,7 @@ title: 6.3. Vuurteamleider
 </span>
 
 ??? info
-    In deze gids leer je over de rol van vuurteamleider, oftewel VTL. De vuurteamleider is de 2IC van een vuurteaem en opereert onder het command van de groepscommandant. Deze gids geeft meer informatie over wat het betekent om de rol aan te nemen en wat de verantwoordelijkheden en verwachtingen zijn. De VTL slot wordt gezien als opstapje naar de rol van Groepscommandant. In de rol heb je wat meer leidinggevende verantwoordelijkheid dan andere rollen en stuur je soms een mini-team aan. De rol mag daarom ook zonder GC trainingsvinkje worden geslot, mits je kennis hebt over de volgende zaken en voldoet aan de voorwaarden:
+    In deze gids leer je over de rol van Vuurteamleider, oftewel VTL. De Vuurteamleider is de 2IC van een vuurteaem en opereert onder het command van de groepscommandant. Deze gids geeft meer informatie over wat het betekent om de rol aan te nemen en wat de verantwoordelijkheden en verwachtingen zijn. De VTL slot wordt gezien als opstapje naar de rol van Groepscommandant. In de rol heb je wat meer leidinggevende verantwoordelijkheid dan andere rollen en stuur je soms een mini-team aan. De rol mag daarom ook zonder GC trainingsvinkje worden geslot, mits je kennis hebt over de volgende zaken en voldoet aan de voorwaarden:
 
     Voorwaarden om te slotten:
 
@@ -53,7 +53,7 @@ title: 6.3. Vuurteamleider
 
 
 ## Competentie
-Als vuurteamleider ben je deels verantwoordelijk voor het speelplezier van een vuurteam. Houd daarom de volgende zaken in je achterhoofd:
+Als Vuurteamleider ben je deels verantwoordelijk voor het speelplezier van een vuurteam. Houd daarom de volgende zaken in je achterhoofd:
 
 1.	Jouw stemming straalt uit naar de rest van de groep. Ben je die avond niet jezelf? Laat het dan aan een ander gekwalificeerd lid over. Hier tellen ego’s of schaamte niet. Het spelplezier van de spelers gaan voor op die van jou. 
 
@@ -83,10 +83,10 @@ A2: Autorifleman
 A2: Anti-tank
 A2: Medic
 
-## De rol van de vuurteamleider (VTL)
-De vuurteamleider is de 2IC van een vuurteam, na de Groepscommandant. Samen geef je leiding aan een vuurteam zoals Alpha of Bravo. De Groepscommandant vertaalt de (aanvals)plannen van de Peletonscommandant naar directe acties in de praktijk en is de communicatielijn naar de PC en andere eenheden. De vuurteamleider heeft hierin een ondersteunende rol. Als de Groepscommandant neer gaat, neem je de leiding over het vuurteam over. Ook stel je de PC in kennis. Ook kun je de leiding krijgen over een sub-team als het vuurteam uit elkaar moet opereren.
+## De rol van de Vuurteamleider (VTL)
+De Vuurteamleider is de 2IC van een vuurteam, na de Groepscommandant. Samen geef je leiding aan een vuurteam zoals Alpha of Bravo. De Groepscommandant vertaalt de (aanvals)plannen van de Peletonscommandant naar directe acties in de praktijk en is de communicatielijn naar de PC en andere eenheden. De Vuurteamleider heeft hierin een ondersteunende rol. Als de Groepscommandant neer gaat, neem je de leiding over het vuurteam over. Ook stel je de PC in kennis. Ook kun je de leiding krijgen over een sub-team als het vuurteam uit elkaar moet opereren.
 
-Elke sessie kent dezelfde opzet, fasen en afloop. Deze zijn hieronder in chronologische volgorde beschreven. Daarbij ligt het accent op de verantwoordelijkheden en werkzaamheden van de vuurteamleider. Na fases zal er nog dieper worden ingegaan op specifieke onderwerpen.
+Elke sessie kent dezelfde opzet, fasen en afloop. Deze zijn hieronder in chronologische volgorde beschreven. Daarbij ligt het accent op de verantwoordelijkheden en werkzaamheden van de Vuurteamleider. Na fases zal er nog dieper worden ingegaan op specifieke onderwerpen.
 
 ### Voorbereidingsfase – Voor de sessie
 
@@ -211,7 +211,7 @@ Gevechtspauze; Laat 360 graden beveiliging aanleggen, lap gewonden op, laat rear
 5.	Geef het aan bij de GC wanneer het team klaar is om te vertrekken.
 
 ### Alive
-Via Self-interact kan de tablet van Alive worden geopend. Een trainer kan in-game toelichten hoe de tablet werkt. Afhankelijk van de missiemaker zitten hier verschillende mogelijkheden tot ondersteuning in. Het is aan de PC om deze ondersteuning in te roepen waar nodig. In sommige gevallen moet je het als vuurteamleider ook kunnen:
+Via Self-interact kan de tablet van Alive worden geopend. Een trainer kan in-game toelichten hoe de tablet werkt. Afhankelijk van de missiemaker zitten hier verschillende mogelijkheden tot ondersteuning in. Het is aan de PC om deze ondersteuning in te roepen waar nodig. In sommige gevallen moet je het als Vuurteamleider ook kunnen:
 
 -	Transport heli: voertuig waarmee eigen troepen verplaatst kunnen worden via de lucht.
 
@@ -220,10 +220,10 @@ Via Self-interact kan de tablet van Alive worden geopend. Een trainer kan in-gam
 -	Artillerie: Artillerie met verschillende munitietypen die in te roepen is op een aangewezen locatie. 
 
 ### ROE, formaties en wapencommando's
-Hoofdstuk 2.2 'Reageren op contact' beschrijft uitgebreid hoe hiermee om te gaan en wat de rol van de vuurteamleider daarbij is.
+Hoofdstuk 2.2 'Reageren op contact' beschrijft uitgebreid hoe hiermee om te gaan en wat de rol van de Vuurteamleider daarbij is.
 
 ## Intekenen voor het vuurteam
-De grote lijnen worden door de Peletonscommandant ingetekent. De Groepscommandant doet dit voor de gehele groep. De vuurteamleider kan dit voor een sub-groep doen als het team wordt opgesplitst. Dit doe je in jouw teamkleur. Denk hierbij aan:
+De grote lijnen worden door de Peletonscommandant ingetekent. De Groepscommandant doet dit voor de gehele groep. De Vuurteamleider kan dit voor een sub-groep doen als het team wordt opgesplitst. Dit doe je in jouw teamkleur. Denk hierbij aan:
 
 -   Specifieke verplaatsingsroutes
 
@@ -236,7 +236,7 @@ De grote lijnen worden door de Peletonscommandant ingetekent. De Groepscommandan
 -   Uitgeroepen dreigingen in OPFOR-kleur
 
 **Voorbeeld:**
-In onderstaande afbeelding zijn de paars-zwarte verplaatsings- en phaselijnen door de GC ingetekend. Beide teams moeten zich vanaf insertion/startpoint (SP) verplaatsen via de paarse lijn tot de release point (RP). Daar splitsen ze op en moeten ze beide eigen sectoren clearen om vervolgens op het Linkup point (LU) weer bij elkaar te komen. De Alpha vuurteamleider heeft de verplaatsingsroute via de blauwe lijn ingetekend. Daarmee is het aanvalsplan ook gelijk duidelijk, het clearen van de huizen. Middels nummers is aangegeven wanneer een volgende sector start. Het team is tot sector 3 gekomen en heeft de geclearde huizen met blauwe stippen gemarkeerd. Er zijn nog geen vijanden gezien en gemarkeerd. De vuurteamleider heeft een `?` geplaatst in een sector met meer afstand die in de gaten gehouden moet worden.
+In onderstaande afbeelding zijn de paars-zwarte verplaatsings- en phaselijnen door de GC ingetekend. Beide teams moeten zich vanaf insertion/startpoint (SP) verplaatsen via de paarse lijn tot de release point (RP). Daar splitsen ze op en moeten ze beide eigen sectoren clearen om vervolgens op het Linkup point (LU) weer bij elkaar te komen. De Alpha Vuurteamleider heeft de verplaatsingsroute via de blauwe lijn ingetekend. Daarmee is het aanvalsplan ook gelijk duidelijk, het clearen van de huizen. Middels nummers is aangegeven wanneer een volgende sector start. Het team is tot sector 3 gekomen en heeft de geclearde huizen met blauwe stippen gemarkeerd. Er zijn nog geen vijanden gezien en gemarkeerd. De Vuurteamleider heeft een `?` geplaatst in een sector met meer afstand die in de gaten gehouden moet worden.
 
 ![Vuurteam-specifiek plan](img/6_2_vtl/kaartvoorbeeld.jpg)
 

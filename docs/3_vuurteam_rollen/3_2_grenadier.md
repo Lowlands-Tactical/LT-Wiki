@@ -21,16 +21,17 @@ title: 3.2. Grenadier
 ## Positie binnen een vuurteam
 Als grenadier heb je de volgende positie binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
 
-**Team Alpha**
-A1: Groepscommandant (Lead)
-A1: Autorifleman
-**A1: Grenadier**
-A1: Medic
+__Team Alpha__
 
-A2: Vuurteamleider (2IC)
-A2: Autorifleman
-A2: Anti-tank
-A2: Medic
+- [ ] A1: Groepscommandant (Lead)
+- [ ] A1: Autorifleman
+- [x] A1: Grenadier
+- [ ] A1: Medic  
+
+- [ ] A2: Vuurteamleider (2IC)
+- [ ] A2: Autorifleman
+- [ ] A2: Anti-tank
+- [ ] A2: Medic
 
 ## De rol van de grenadier 
 Als grenadier ben je een infanterist oftewel rifleman met een grenade launcher. Deze kan onder je wapen gemonteerd zitten (underslung) of je draagt een losse grenade launcher (als 2e wapen). Als grenadier volg je de aanwijzingen op van de groepscommandant (GC). Deze kan jou vragen om verschillende doelen op afstand uit te schakelen. Het gebruik van de grenade launcher gaat altijd in overleg of na order van de GC. Doordat je explosieven op afstand kunt schieten kun je ook onwenselijke nevenschade aan doelen, burgers of eigen troepen aanrichten. De grenadier is samen met de Anti-Tank specialist ook degene die een wirecutter heeft om door hekken te knippen. Ook kunnen deze twee rollen voertuigen repareren voor het team.
