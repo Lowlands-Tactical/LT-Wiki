@@ -28,7 +28,7 @@ Voor je begint:
   - [Arma3Sync 1.7.107](https://arma3sync.lowtac.nl/Wiki/arma3sync-installer-1-7-107.exe)
 
 !!! warning "Let op!"
-    Wij gebruiken **geen** Steam Workshop-mods. Alleen onze eigen modset werkt met onze servers.
+    Wij gebruiken **geen** Steam Workshop-mods. Alleen onze eigen modset werkt met onze server.
 
 ## Arma3Sync instellen
 
