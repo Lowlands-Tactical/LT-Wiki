@@ -1,10 +1,10 @@
 ---
 layout: doc
-title: 3.3. Medic
+title: 3.4. Medic
 ---
-# 3.3. Medic
+# 3.4. Medic
 <span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025**
+    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
 </span>
 
 ??? info
@@ -26,7 +26,7 @@ title: 3.3. Medic
     
     -	De cursist is bekend met het ACE-medical menu en dat je daar via H en ACE-interact kan komen.
     
-    -	De cursist weet dat communiceren belangrijk is om de VTL, maar ook de gewonde (met een zwart scherm) op de hoogte te houden.
+    -	De cursist weet dat communiceren belangrijk is om de GC, maar ook de gewonde (met een zwart scherm) op de hoogte te houden.
     
     -	De cursist weet de functies van medische spullen en geavanceerde medische spullen.
     
@@ -62,36 +62,54 @@ title: 3.3. Medic
     
     -	De cursist weet op tijd een resupply aan te vragen, zodat er altijd voldoende spullen aanwezig zijn.
 
+## Positie binnen een vuurteam
+Als medic heb je de volgende 2 mogelijke positie binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
+
+**Team Alpha**
+A1: Groepscommandant (Lead)
+A1: Autorifleman
+A1: Grenadier
+**A1: Medic**
+
+A2: Vuurteamleider (2IC)
+A2: Autorifleman
+A2: Anti-tank
+**A2: Medic**
+
+## Rol van de Medic
+De medic is degene die alle gewonden kan oplappen. De medic heeft een uitgebreide medische rugzak mee en kan gespecialiseerde medische handelingen verrichten om iemand op te krijgen die neer is gegaan.
+Wanneer er twee medics in één team zijn geslot, zullen zij ook beide een rifleman rol krijgen (combat-medic). Ze blijven hoofdverantwoordelijk voor het oplappen van friendlys, maar kunnen iets meer risico nemen dan een solo-medic.
+
 ## Bewustzijn van een Medic
 Als Medic heb je een enorm belangrijke rol in het team. Jij bent verantwoordelijk voor het in leven houden van alle teamleden en het verhelpen van verwondingen. Realiseer je goed dat alléén de Medic deze specialistische handelingen kan uitvoeren. Als je zelf neer gaat is dit een groot probleem voor jouw vuurteam. Als Medic speel je op een veilige manier. Je bent onmisbaar voor het team en mag niet neergaan. Beweeg in de achterhoede, neem zo min mogelijk risico en pak of sleep gewonden zo veilig mogelijk. Zorg voor een goede SA (Situational Awareness). Weet waar de dreigingen zijn, hoe zwaar de dreiging is en wat voor cover je nodig hebt om veilig te zijn.
 
 Zonder gevecht geen gewonden. Het is aanlokkelijk om gelijk op gewonden te duiken. Toch is het overwicht houden in een vuurgevecht belangrijker dan direct starten met medische handelingen. Als meerdere mensen stoppen met schieten zal de vijand het vuurgevecht winnen. Dit kan juist leiden tot meerdere gewonden of een squad wipe. 
 Wanneer je kan starten met medische handelingen, zorg dan voor een beschutte plek. Een grote steen, dikke boomstronk, stenen muur, etc. kunnen voldoende bescherming bieden. Houd er rekening mee dat de vijand door o.a. houten muren kan schieten.
 
-Soms is iemand zo zwaar gewond dat je extra hulp nodig hebt. Roep deze dan ook in van je team. Dit kan alleen als het vuurgevecht dit toelaat. Het vuurgevecht gaat vóór de gewonden. Het kan ook zijn dat iemand je helpt, terwijl je de situatie prima zelf af kan. Stuur diegene dan naar de vuurteamleider (VLT) voor extra vuurkracht. Wanneer je praat in Arma 3, kunnen vijanden je horen. Zij zullen naar je toe komen. Soms kun je beter zo stil mogelijk werken om minder tot geen aandacht te trekken.
+Soms is iemand zo zwaar gewond dat je extra hulp nodig hebt. Roep deze dan ook in van je team. Dit kan alleen als het vuurgevecht dit toelaat. Het vuurgevecht gaat vóór de gewonden. Het kan ook zijn dat iemand je helpt, terwijl je de situatie prima zelf af kan. Stuur diegene dan naar de Groepscommandant (GC) voor extra vuurkracht. Wanneer je praat in Arma 3, kunnen vijanden je horen. Zij zullen naar je toe komen. Soms kun je beter zo stil mogelijk werken om minder tot geen aandacht te trekken.
 
 !!! info "Gebruik het terrein en zorg voor een veilige werkplek"
-    ![Afbeelding](img/3_3_medic/Veilige-zone.jpg)
+    ![Afbeelding](img/3_4_medic/Veilige-zone.jpg)
 
 ## ACE-medical menu en ACE-interact
 Vaak liggen gewonden op een onveilige plek met weinig beschutting. Verplaatst gewonden door ze te slepen of dragen. Doe dit alleen als dit veilig kan.
 
 Je gebruikt hiervoor ACE-interact en drukt op ‘Drag’ of ‘Carry’.
-![Afbeelding](img/3_3_medic/Self-interact.jpg)
+![Afbeelding](img/3_4_medic/Self-interact.jpg)
 Een tweede optie is door op ‘H’ te drukken, terwijl je naar de gewonde kijkt. Het ACE-Medical Menu opent dan. Door bovenin links op ‘Drag/Carry’ te drukken, kun je de gewonde verplaatsen.
-![Afbeelding](img/3_3_medic/Medical-menu-1.jpg)
+![Afbeelding](img/3_4_medic/Medical-menu-1.jpg)
 Wanneer de dreiging hoog is en een gewonde ver van je weg ligt, kun je het beste ACE-interact gebruiken. Hierdoor kun je een gewonde van een veel verdere afstand naar je toe halen door op ‘Drag’ te drukken.
 
 Het Medical Menu gebruik je ook voor het toepassen van alle medische handelingen.
 
 ## Communicatie als Medic
-Als medic heb jij de leiding over de gewonden. Communicatie is erg belangrijk. Zo laat je de VTL weten hoeveel gewonden er zijn en wat de medische status is. Ook grote updates geef je door.
+Als medic heb jij de leiding over de gewonden. Communicatie is erg belangrijk. Zo laat je de GC weten hoeveel gewonden er zijn en wat de medische status is. Ook grote updates geef je door.
 Daarnaast communiceer je naar de gewonde. Deze speler ziet tenslotte enkel een zwart scherm. Het is fijn om te laten weten wat je doet en hoe lang het duurt voor diegene op is. Dit biedt perspectief en je weet of je nog een drankje kan halen. Tot slot communiceer je naar teamleden als je ze nodig hebt of als ze overbodig zijn. Als Medic moet je spelers met minder ervaring kunnen uitleggen welke medische acties ze uit moeten voeren. Communiceer kort en krachtig. Bijvoorbeeld: ‘Speler, maak de benen dicht’, ‘Speler, plaats tourniquets op de armen en benen’ of ‘Speler, geef twee maal CPR’. Leg waar nodig uit waar de knoppen zitten.
 
 ## Medic gear
 De Medic draagt een grote rugzak met medische spullen. Een Medic draagt veel meer supplies dan een voetsoldaat en beschikt daarnaast ook over Medic-specifieke gear.
 !!! info
-    ![Afbeelding](img/3_3_medic/Medic-supplies.jpg){ align=left }
+    ![Afbeelding](img/3_4_medic/Medic-supplies.jpg){ align=left }
     **Bandage (Basic)**: plaatsen op een lichaamsdeel met een wond.
     
     **Bandage (Elastic)**: plaatsen op een lichaamsdeel met een wond.	Vaak het meest effectief!
@@ -118,7 +136,7 @@ De Medic draagt een grote rugzak met medische spullen. Een Medic draagt veel mee
 
 ## Uitvoeren van medische handelingen
 Het uitvoeren van medische handelingen doe je in het Medical Menu. Open deze met ‘H’ door naar de gewonde te kijken (close range). 
-![Afbeelding](img/3_3_medic/Medical-menu-2.jpg)
+![Afbeelding](img/3_4_medic/Medical-menu-2.jpg)
 Links bovenin onder ‘EXAMINE & TREATMENT’ kun je langs de verschillende medische handelingen klikken.
 
 In het midden zie je de status van de gewonde. Je kan op alle lichaamsdelen drukken. Om het geselecteerde lichaamsdeel staat nu een witte rand. Gekleurde lichaamsdelen zijn gewond. Dit loopt van licht geel > geel > donkergeel > oranje > rood > donkerrood. 
@@ -130,35 +148,35 @@ Voorbeelden van spelers die licht gewond zijn:
 
 <div class="grid cards" markdown>
 
-- ![Afbeelding](img/3_3_medic/Lichtgewond-1.jpg)
-- ![Afbeelding](img/3_3_medic/Lichtgewond-2.jpg)
-- ![Afbeelding](img/3_3_medic/Lichtgewond-3.jpg)
-- ![Afbeelding](img/3_3_medic/Lichtgewond-4.jpg)
+- ![Afbeelding](img/3_4_medic/Lichtgewond-1.jpg)
+- ![Afbeelding](img/3_4_medic/Lichtgewond-2.jpg)
+- ![Afbeelding](img/3_4_medic/Lichtgewond-3.jpg)
+- ![Afbeelding](img/3_4_medic/Lichtgewond-4.jpg)
 
 </div>
 
 <div class="grid cards" markdown>
 
 -   **1.** Maak alle wonden dicht met Elastic Bandage / Field Dressing / QuikClot ([B] van Bleeding).
-    ![Afbeelding](img/3_3_medic/Tekst-open-wond.jpg)
+    ![Afbeelding](img/3_4_medic/Tekst-open-wond.jpg)
 
 </div>
 <div class="grid cards" markdown>
 
 -   **2.** Use Surgical Kit op de de lichaamsdelen met een wond ([S] van Stitched).
-    ![Afbeelding](img/3_3_medic/Tekst-stitched-wond.jpg)
+    ![Afbeelding](img/3_4_medic/Tekst-stitched-wond.jpg)
 
 </div>
 <div class="grid cards" markdown>
 
 -   **3.** Apply Splint op gebroken lichaamdelen.
-    ![Afbeelding](img/3_3_medic/Splint-arm.jpg)
+    ![Afbeelding](img/3_4_medic/Splint-arm.jpg)
 
 </div>
 <div class="grid cards" markdown>
 
 -   **4.** Give Blood IV (1000ml) bij ‘Lost a lot of blood’ of erger. Geef Plasma of Saline (500ml) bij ‘Lost some blood’.
-    ![Afbeelding](img/3_3_medic/Recieving-blood.jpg)
+    ![Afbeelding](img/3_4_medic/Recieving-blood.jpg)
 
 </div>
 <div class="grid cards" markdown>
@@ -183,18 +201,18 @@ Voorbeelden van spelers die licht gewond zijn:
 
 ## Stappenplan bij zwaargewonde
 Voorbeeld van een speler die zwaargewond is:
-![Afbeelding](img/3_3_medic/Zwaargewond-1.jpg)
+![Afbeelding](img/3_4_medic/Zwaargewond-1.jpg)
 
 <div class="grid cards" markdown>
 
 -   **1.** Plaats Tourniquets op alle armen en benen om het bloeden te stoppen.
-    ![Afbeelding](img/3_3_medic/Zwaargewond-2.jpg)
+    ![Afbeelding](img/3_4_medic/Zwaargewond-2.jpg)
 
 </div>
 <div class="grid cards" markdown>
 
 -   **2.** Maak de hoofdwonden en borstwonden dicht.
-    ![Afbeelding](img/3_3_medic/Zwaargewond-3.jpg)
+    ![Afbeelding](img/3_4_medic/Zwaargewond-3.jpg)
 
 </div>
 <div class="grid cards" markdown>
@@ -232,7 +250,7 @@ Voorbeeld van een speler die zwaargewond is:
 
 ## Gewonde of dood (respawn)
 Verspil geen tijd aan dode spelers. Door op het hoofd van een speler te drukken en vervolgens te drukken op ‘Response’ geeft het medical menu aan of een speler dood of bewusteloos is. Een dode speler kan het zwarte triagelabel krijgen en eventueel door de medic in een bodybag worden geplaatst. Een speler die ragdollt is ook dood.
-![Afbeelding](img/3_3_medic/Response.png)
+![Afbeelding](img/3_4_medic/Response.png)
 
 ##Mass-cass situaties
 Wanneer er veel spelers tegelijkertijd neer zijn is het belangrijk om voldoende hulp in te schakelen als dit mogelijk is. Maak een beschutte noodhospitaal en markereer deze met gekleurde smoke; 
@@ -240,21 +258,21 @@ Wanneer er veel spelers tegelijkertijd neer zijn is het belangrijk om voldoende 
 - ‘Noodhospitaal, locatie paarse smoke. Verplaats gewonden naar paarse smoke’.
 Pas triage toe. Maak de gewonden stabiel door bloed toe te dienen, tourniquets op alle ledenmaten te plaatsen en hoofd en borst dicht te maken.. Blijf voldoende bloed toedienen en verdeel je aandacht over alle gewonden. Je zult tussentijd CPR moeten geven aan de gewonden. Waar mogelijk maak je wonden dicht en gebruik je de Surgical Kit.
 Laat andere vuurteamleden vooral CPR geven of tourniquets plaatsen. Zij hebben aanzienlijk minder bandages, dus probeer deze taken vooral zelf uit te voeren.
-Probeer eerst andere Medic(s) op te krijgen. Zij kunnen je dan verder helpen met andere gewonden. Vervolgens zorg je dat de Groepscommandant (GC) of Vuurteamleider (VTL) op komt, zodat zij de leiding kunnen nemen over het vuurgevecht. Tot slot zorg je voor de andere spelers.
+Probeer eerst andere Medic(s) op te krijgen. Zij kunnen je dan verder helpen met andere gewonden. Vervolgens zorg je dat de Peletonscommandant (PC) of Groepscommandant (GC) op komt, zodat zij de leiding kunnen nemen over het vuurgevecht. Tot slot zorg je voor de andere spelers.
 
 ## Triage
 Bij meerdere gewonden pas je triage toe. Met triage bepaal je per gewonde hoe erg ze eraan toe zijn en wie het eerste hulp nodig heeft. Wanneer iemand dood is geef je dit ook aan, zodat een andere speler hier geen onnodige tijd en middelen aan geeft. 
 De triagekaart met bijbehorende kleuren zit onderaan in het midden. Druk op ‘None’:
-![Afbeelding](img/3_3_medic/Triagekaart.jpg)
+![Afbeelding](img/3_4_medic/Triagekaart.jpg)
 Als de triage goed is toegepast kunnen andere vuurteamleden of Medics gemakkelijk zien wie ze als eerst moeten helpen. Door op ACE-interact te drukken zie je per speler welke triage-kleur ze hebben, zonder dat je het Medical Menu hoeft te openen.
 
 ## Groene smoke
 Groene smoke geeft een medische noodsituatie aan. Zo kan er in veel gevallen, zonder communicatie of pauze in het vuurgevecht toch een medische situatie worden aangegeven. Dit kan op meerdere manieren worden gebruikt;
 - Vuurteamlid geeft met groene smoke de locatie van een gewonde aan voor de Medic.
-- Medic gebruikt groene smoke om de vuurteamleider te zeggen dat iemand neer is.
+- Medic gebruikt groene smoke om de groepscommandant te zeggen dat iemand neer is.
 - Medic gebruikt groene smoke om locatie noodhospitaal aan te geven.
 - Vuurteamlid of Medic gooit smoke hoog in de lucht om noodsituatie voor een ander team te markeren.
 
 ## Resupply
-Na al dat harde werken zal je soms onvoldoende medische supplies hebben. Houd dit goed in de gaten en trek tijdig bij de vuurteamleider aan de bel. Als je op 1/3e van je spullen zit is het raadzaam een resupply aan te vragen. Als dit bijvoorbeeld enkel voor het bloed geldt, is dit ook een reden om aan de bel te trekken.
+Na al dat harde werken zal je soms onvoldoende medische supplies hebben. Houd dit goed in de gaten en trek tijdig bij de groepscommandant aan de bel. Als je op 1/3e van je spullen zit is het raadzaam een resupply aan te vragen. Als dit bijvoorbeeld enkel voor het bloed geldt, is dit ook een reden om aan de bel te trekken.
 
