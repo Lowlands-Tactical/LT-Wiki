@@ -14,16 +14,17 @@ title: 3.1. Autorifleman
 
 ## Positie binnen een vuurteam
 Als autorifleman heb je de volgende twee posities binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
-__Team Alpha__
-A1: Groepscommandant (Lead)
-__A1: Autorifleman__
-A1: Grenadier
-A1: Medic
 
-A2: Vuurteamleider (2IC)
-__A2: Autorifleman__
-A2: Anti-tank
-A2: Medic
+__Team Alpha__
+- [ ] A1: Groepscommandant (Lead)
+- [x] A1: Autorifleman
+- [ ] A1: Grenadier
+- [ ] A1: Medic
+
+- [ ] A2: Vuurteamleider (2IC)
+- [x] A2: Autorifleman
+- [ ] A2: Anti-tank
+- [ ] A2: Medic
 
 ## De rol van de autorifleman 
 Als autorifleman, oftewel minimi schutter, heb je het grootste wapen van de groep; een licht machinegeweer met grote ammo belts van 100 à 200 rounds. Je kan hiermee de meeste vuurkracht van het team geven.

@@ -29,6 +29,7 @@ Spotters, Voertuigcommandanten en Piloten hebben de leiding over hun team/voertu
 
 ## Manier om te slotten
 De manier van slotten dient altijd afgestemd te worden op het spelersaantal. De Peletonscommandant wordt **altijd** en **als eerste** geslot. Er zijn meerdere manieren mogelijk. Hieronder enkele voorbeelden:
+
 - 8 man vuurteams: De volledige vuurteams worden opgevuld. De vuurteamleider is standaard de 2IC.
 - 6 man vuurteams: Er wordt besloten om twee sloten uit een vuurteam niet te vullen. Dit kan bijvoorbeeld één medic en één autorifleman zijn. De vuurteamleider en AT-specialist worden in dit geval een buddypaar.
 - 4 man vuurteams: Elk mini-team bestaat uit een Groepscommandant en 3 naar wens geslotte rollen. 
@@ -42,6 +43,7 @@ Een vuurteam kan gemakkelijk opslitsen in twee groepjes van 4. De GC en VTL pakk
 
 ## Ondersteuning
 Het Echo team is een ondersteuningsteam. Echo is bedoeld om aan te klikken bij een andere groep. Een Echo slot vervangt altijd een ander slot, zodat er teams van maximaal 8 spelers zijn.
+
 - J-TAC: Drone operator, communicatiespecialist en schakel tussen (lucht)voertuigen en de Peletonscommandant.
 - EOD (Explosieve OpruimingsDienst): Demolitie-expert, verantwoordelijk voor het opruimen van mijnen, breachen met explosieven en opblazen van verschillende doelen.
 - MMG (Medium Machine Gun): Autorifleman+. Rifleman met een extra groot groepswapen om extra vuursteun te bieden op de grond.
