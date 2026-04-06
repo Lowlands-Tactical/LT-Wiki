@@ -24,7 +24,7 @@ theme:
     accent: orange
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - 1. Algemene Informatie:
     - 1.1. Introductie: 1_algemene_informatie/1_1_introductie.md
     - 1.2. Modset Installeren: 1_algemene_informatie/1_2_modset_installeren.md
