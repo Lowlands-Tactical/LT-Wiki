@@ -10,10 +10,10 @@ title: 7.5. Missiebriefings
 ## Missiebriefings maken
 Elke missie heeft een eigen missiebriefing. Deze wordt vóór vrijdag al gedeeld op Discord in het kanaal 'Missiebriefings'. Zo kan iedereen zich inlezen wat de missie inhoudt en iemand kan bepalen dat die Peletonscommandant wil zijn, door het LowTac logo in te drukken in de post. De briefing bestaat uit twee delen en is altijd op dezelfde manier opgebouwd:
 
-- Situatie: Beschrijving van het verhaal, de vijand, eigen troepen, burgers, logistiek, radio's en weersomstandigheden.
-- Missie: Beschrijving van de primaire en secundaire missiedoelen.
-- Map foto: Foto van het speelbare gebied, de insertion en eventueel andere beschikbare kaartinformatie.
-- Aanvullende informatie: Denk aan aanvullingen over bijzonderheden bij het slotten, vereiste proeve van bekwaamheid voor bijvoorbeeld helikopterpiloten of een vereiste ervaren groepscommandant.
+- ^^**Situatie**^^: Beschrijving van het verhaal, de vijand, eigen troepen, burgers, logistiek, radio's en weersomstandigheden.
+- ^^**Missie**^^: Beschrijving van de primaire en secundaire missiedoelen.
+- ^^**Map foto**^^: Foto van het speelbare gebied, de insertion en eventueel andere beschikbare kaartinformatie.
+- ^^**Aanvullende informatie**^^: Denk aan aanvullingen over bijzonderheden bij het slotten, vereiste proeve van bekwaamheid voor bijvoorbeeld helikopterpiloten of een vereiste ervaren groepscommandant.
 
 ## Template voor Discord
 
