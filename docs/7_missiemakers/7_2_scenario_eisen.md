@@ -34,19 +34,19 @@ De ORBAT oftewel gevechtorde bepaalt welke sloten er gekozen kunnen worden door 
 - Haal na het aanmaken van de missiefolder (in de editor) de factions uit de missie die je niet gebruikt.
 - Als missiemaker heb je de vrijheid om sommige units uit de ORBAT te verwijderen. Voorbeeld: Gebruik je geen voertuigen? Haal ze eruit. OF Laat het scenario een MMG/MAT team niet toe? Haal ze eruit.
 - Gebruik zoveel mogelijk pre-made vulling voor kisten en voertuigen. In de template staat er per team een 'Squadkist'. Hier zit voor één team resupply spullen in. De 'Peletonskist' geeft de groep mogelijkheid tot zwaardere wapens en specialistische spullen. Je hebt de volgende mogelijkheden:
-    - Peleton Ammocrate
-    - Squad Ammocrate
-    - Small Ammocrate
-    - Medium Ammocrate
-    - Large Ammocrate
-    - Expolives Crate
-    - Mine Crate
-    - Medical Crate
-    - Weapons Crate
-    - NVG Crate
-    - Communication Crate
-    - Aircrew Ammocrate
-    - UAV Crate
+    - Peleton Ammocrate (specialistische wapens en spullen voor de gehele groep)
+    - Squad Ammocrate (resupply voor één squad)
+    - Small Ammocrate (voertuig inventory)
+    - Medium Ammocrate (voertuig inventory)
+    - Large Ammocrate (voertuig inventory)
+    - Expolives Crate (krat met explosieven)
+    - Mine Crate (krat met mijnen)
+    - Medical Crate (krat met medische spullen)
+    - Weapons Crate (krat met alle beschikbare wapens, zoals samengesteld)
+    - NVG Crate (krat met night vision, flares en IR strobes)
+    - Communication Crate (krat met maps, GPS, radio's)
+    - Aircrew Ammocrate (2 tassen met aircrew gear)
+    - UAV Crate (krat met spullen voor de J-TAC)
 - Lowtac Insertion logo: Plaats dit logo op de plaats waar we met de groep starten.
 - Respawn position module: Plaats deze module bij de base/insertion. Vul zelf aan met extra respawn punten of een mobiele respawn op een voertuig.
 - 'UITLEG TEKST': Dit zijn hidden markers die alleen de zeus kan zien. Leg met deze markers uit waar bijzonderheden in jouw missie zitten, zoals triggers en de manier waarop deze af gaan.
@@ -61,19 +61,19 @@ In de folder van jouw missie vind je het bestand 'description.ext'. Dit bestand 
 
 De nummers uit het onderstaande rijtje kunnen aangepast worden:
 
-`// Pre defined names to change params
-#define BLUE_GEAR 13
-#define BLUE_WEAPON 8
-#define RED_GEAR 2
-#define RED_WEAPON 2
-#define GREEN_GEAR 3
-#define GREEN_WEAPON 3
-#define SHORT_RADIO 0
-#define LONG_RADIO 0
-#define GEAR_NVG 0
-#define WEAPON_ATT 5
-#define WEAPON_SCOPE 1
-#define MISSION_TIMER 1`
+    // Pre defined names to change params
+    #define BLUE_GEAR 13
+    #define BLUE_WEAPON 8
+    #define RED_GEAR 2
+    #define RED_WEAPON 2
+    #define GREEN_GEAR 3
+    #define GREEN_WEAPON 3
+    #define SHORT_RADIO 0
+    #define LONG_RADIO 0
+    #define GEAR_NVG 0
+    #define WEAPON_ATT 5
+    #define WEAPON_SCOPE 1
+    #define MISSION_TIMER 1
 
 ### Attributes vullen in de editor
 De 'Attributes' van elke missie moeten gevuld worden. Attributes vind je in de bovenste balk van de editor en bestaat uit 4 delen: General | Environment | Multiplayer | Performance. Veel staat al ingesteld. Je moet zelf nog het volgende regelen:
