@@ -15,10 +15,10 @@ We bouwen allemaal voor LowTac en het speelplezier. Gebruik elkaars hulp!
 ## PermaDeath (PD) aanmaken
 Om een PermaDeath (PD) scenario te maken, moet je aantal dingen goed zetten:
 
-1. Zet het PD vinkje aan bij 'Attributes' > 'Multiplayer' > 'Lowlands Tactical' > 'Scenario Settings' > Vinkje 'PermaDeath Scenario AAN'
+- Zet het PD vinkje aan bij 'Attributes' > 'Multiplayer' > 'Lowlands Tactical' > 'Scenario Settings' > Vinkje 'PermaDeath Scenario AAN'
 
 ![Afbeelding](img/7_4_tips_en_tricks/pdvinkje.png)
 
-2. Disable Respawn en zet de vinkje 'Mission fail when everyone is dead' en 'Singleplayer death screen' AAN via Attributes > Multiplayer > Respawn.
+- Disable Respawn en zet de vinkje 'Mission fail when everyone is dead' en 'Singleplayer death screen' AAN via Attributes > Multiplayer > Respawn.
 
 ![Afbeelding](img/7_4_tips_en_tricks/respawn.png)
