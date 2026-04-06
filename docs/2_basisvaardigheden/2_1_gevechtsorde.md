@@ -21,7 +21,7 @@ Voor de sessie kun je op Kamp Holland trainen, kloten, vliegen en rijden in de a
 
 ## Chain of Command
 1. De ^^**Peletonscommandant (Romeo)**^^ heeft de leiding over de sessie. De PC bepaalt welke sloten er gekozen kunnen worden en maakt het grove plan. 
-2. De ^^^^**plaatsvervangende Peletonscommandant (Echo)**^^ kan geslot worden als second in command (2IC) en neemt de rol van PC over als deze neer gaat. Deze rol kan ook geslot worden door spelers die graag de rol van PC willen leren.
+2. De ^^**plaatsvervangende Peletonscommandant (Echo)**^^ kan geslot worden als second in command (2IC) en neemt de rol van PC over als deze neer gaat. Deze rol kan ook geslot worden door spelers die graag de rol van PC willen leren.
 3. De ^^**Groepscommandant**^^ heeft de leiding over een vuurteam van max. 8 spelers. De GC van Alpha neemt de rol van Romeo over als de peletonsgroep neer is. Bij splitsing van het vuurteam neemt de GC 4 spelers mee.
 4. De ^^**Vuurteamleider**^^ is 2IC van een vuurteam en neemt bij opsplitsing van het vuurteam 4 spelers mee.
 

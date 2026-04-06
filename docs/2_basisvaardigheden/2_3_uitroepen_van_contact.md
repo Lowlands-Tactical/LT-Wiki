@@ -49,7 +49,7 @@ Enkele voorbeelden van de RAD-procedure zijn:
 ## Voertuigherkenning
 Voertuigen kunnen een flinke dreiging vormen. Daarom is het belangrijk om na identificatie, het juist type voertuig te vermelden bij het uitroepen van contact. Dit helpt de groepscommandant en anti-tank specialist om zo adequaat mogelijk om te gaan met de dreiging. We maken onderscheid tussen de volgende typen voertuigen:
 
--   Een ^^**onbewapend technical**^^^^ is een minimale dreiging. Wanneer het een transportvoertuig betreft met een grote groep pax, is de dreiging alweer meer.
+-   Een ^^**onbewapend technical**^^ is een minimale dreiging. Wanneer het een transportvoertuig betreft met een grote groep pax, is de dreiging alweer meer.
 -   Een ^^**technical .50**^^ is een flinke dreiging voor een vuurteam. De gunner kan vaak prima uit het voertuig geschoten worden als deze achterop staat, zonder dat de AT-specialist in actie hoeft te komen. Wanneer het wapensysteem vanuit binnen het voertuig bestuurd wordt, is AT wel nodig.
 -   Een ^^**technical met AT, SPG of GMG**^^ is een zware dreiging. Ze vuren granaten of raketten af die zowel voor een vuurteam, als een eigen voertuig een zware dreiging vormen. AT inzet is nodig! (SPG = raketlauncher | GMG = Granade launcher)
 -   Een ^^**APC (Armored Personel Carrier)**^^ kan een zware dreiging zijn, afhankelijk van het wapensysteem. Dit zijn zwaardere bepantserde voertuigen met grote kanonnen zoals een BTR of IFV. Zowel voor een vuurteam, als een eigen voertuig is dit een zware dreiging. AT inzet is nodig!
