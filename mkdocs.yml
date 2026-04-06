@@ -62,8 +62,10 @@ nav:
     - 6.4. Map Marker Setter: 6_leiding/6_4_ms.md
   - 7. Missiemakers:
     - 7.1. Zelf missie maken?: 7_missiemakers/7_1_zelf_missie_maken.md
-    - 7.2. Scenario eisen: 7_missiemakers/7_2_scenario_eisen.md
-    - 7.3. Tips en Tricks: 7_missiemakers/7_3_tips_en_tricks.md
+    - 7.2. Missiemaker repo: 7_missiemakers/7_2_missiemaker_repo.md
+    - 7.3. Scenario eisen: 7_missiemakers/7_3_scenario_eisen.md
+    - 7.4. Tips en Tricks: 7_missiemakers/7_4_tips_en_tricks.md
+    - 7.5. Missiebriefings: 7_missiemakers/7_5_missiebriefings.md
 
 extra_css:
   - 'custom.css'

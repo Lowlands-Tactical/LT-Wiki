@@ -1,8 +1,8 @@
 ---
 layout: doc
-title: 7.2. Scenario Eisen
+title: 7.3. Scenario Eisen
 ---
-# 7.2. Scenario Eisen
+# 7.3. Scenario Eisen
 <span style="font-size:0.7em;">
     :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: 06-04-2026 door R.Hoods
 </span>
@@ -19,12 +19,18 @@ Bij het aanmaken van een missie is de naam en versienummering erg belangrijk. Hi
     - Naam van de folder in de map 'missions'
     - Naam in de editor onder 'Attributes'
 - De naam van de folder mag geen spaties bevatten. Gebruik in plaats daarvan een underscore `_`.
-- De opbouw van een missienaam is altijd gelijk. We beginnen met LT van Lowlands Tactical, daarna de soort missie afkorting, de missienaam en het versienummer. Bijvoorbeeld `[LTOP_Missienaam_v0]`.
+- De opbouw van een missienaam is altijd gelijk. We beginnen met LT van Lowlands Tactical, daarna de soort missie afkorting, de missienaam en het versienummer. Bijvoorbeeld `LTOP_Missienaam_v0`.
     - OP staat voor een vrijdagavond cooperatief scenario (player versus AI).
+    - OPC staat voor een vrijdagavond cooperatief scenario (player versus AI), maar dan een campaign. Dit zijn meerdere opeenvolgende delen die meerdere weken achter elkaar gespeeld moeten worden.
     - PD staat voor 'PermaDeath' scenario. Dit is een kort warming up scenario met een hoge moeilijkheidsgraad en bevat geen respawns.
-    - PC staat voor 'Persisent Campaign'.
     - FUN gebruiken we voor Zeus scenarios of FUN scenario's
+    - TR staat voor 'Trainingscenario'. Deze missies zijn speciaal gemaakt om skills te trainen.
 - De versienummering begint altijd met een 'v' van versie en vervolgens het nummer. Elke keer wanneer je een nieuwe versie op de server moet zetten om te testen, pas je de versienummering aan naar boven; v0 > v1 > v2. Dit doe je in de **folder naam** en bij de missie naam onder **attributes**.
+- Wanneer je een campaign maakt, zorg dan dat de benamingen er als volgt uitzien:
+    1. `LTOPC_campaingnnaam_01_missienaam_v0`
+    2. `LTOPC_campaingnnaam_02_missienaam_v0`
+    3. `LTOPC_campaingnnaam_03_missienaam_v0`
+
 
 ### Gebruik de template / ORBAT
 LowTac heeft een eigen missie template en ORBAT. Deze zijn te vinden op onze github (link rechts onderaan deze pagina).
@@ -47,7 +53,7 @@ De ORBAT oftewel gevechtorde bepaalt welke sloten er gekozen kunnen worden door 
     - Communication Crate (krat met maps, GPS, radio's)
     - Aircrew Ammocrate (2 tassen met aircrew gear)
     - UAV Crate (krat met spullen voor de J-TAC)
-- Lowtac Insertion logo: Plaats dit logo op de plaats waar we met de groep starten.
+- Insertion logo: Plaats dit logo op de plaats waar we met de groep starten.
 - Respawn position module: Plaats deze module bij de base/insertion. Vul zelf aan met extra respawn punten of een mobiele respawn op een voertuig.
 - 'UITLEG TEKST': Dit zijn hidden markers die alleen de zeus kan zien. Leg met deze markers uit waar bijzonderheden in jouw missie zitten, zoals triggers en de manier waarop deze af gaan.
 - Player Combat Support modules: Deze modules kun je gebruiken of verwijderen. Het zijn Alive modules die AI gestuurde voertuigen genereren. Standaar staan er:
@@ -55,6 +61,9 @@ De ORBAT oftewel gevechtorde bepaalt welke sloten er gekozen kunnen worden door 
     - Eén CAS helikopter
     - Eén artilleriestuk (3 voertuigen)
 - Modules cluster: In de hoek van de map staat aan cluster modules. Deze laat je staan. De twee 'Create Diary Record' modules vul je met de missiebriefing. Dit wordt later verder uitgelegd.
+- Map zone: Met de trigger geef je aan in welk gebied de spelers mogen komen. Het gebied buiten de trigger wordt donker gemaakt bij spelers.
+
+![Afbeelding](img/7_3_scenario_eisen/template.jpg)
 
 ### Pas de 'description.ext' folder aan
 In de folder van jouw missie vind je het bestand 'description.ext'. Dit bestand bevat een aantal parameters die door de missiemaker aangepast moeten worden. Deze corresponderen met de waarden uit de [Lowlands Tactical - Database](https://1drv.ms/x/s!AsNeKjX9qHZFhGHxOqZeBxqJJwtA?e=uA6DE1) op het tabblad 'Missie parameter settings NAF'. Door de juiste nummers in te vullen, geef je pre-made wapens, gear, radio's, NVG, attachments, scopes en de missie timer mee. Er kan ook gekozen worden voor customgear of custom weapons. Je dient dan zelf de volledige gear/wapenset bij elkaar te klikken. Vraag een ervaren missiemaker hierbij om hulp. 
@@ -74,6 +83,8 @@ De nummers uit het onderstaande rijtje kunnen aangepast worden:
     #define WEAPON_ATT 5
     #define WEAPON_SCOPE 1
     #define MISSION_TIMER 1
+
+![Afbeelding](img/7_3_scenario_eisen/description.jpg)
 
 ### Attributes vullen in de editor
 De 'Attributes' van elke missie moeten gevuld worden. Attributes vind je in de bovenste balk van de editor en bestaat uit 4 delen: General | Environment | Multiplayer | Performance. Veel staat al ingesteld. Je moet zelf nog het volgende regelen:
@@ -115,6 +126,6 @@ LowTac missie worden uitvoerig getest, zodat de kans op errors zo klein mogelijk
 
 1. Test als missiemaker jouw eigen missie lokaal. Dit doe je in de editor via 'Play' > 'Play in multiplayer (MP)'. Zorg dat alles lokaal zo goed mogelijk werkt!
 2. Push de missie naar MP door er een `pbo` bestand van te maken. Dit doe je in de editor via 'Scenario' > 'Multiplayer' > 'Export to multiplayer'. In je MPMissions folder vind je nu het PBO bestand terug. Pas de versie aan naar V1.
-3. Test zelf de missie op de server. Vraag aan een staflid hoe je dit zelfstandig kunt doen.
+3. Test zelf de missie op de server. Vraag aan een staflid hoe je dit zelfstandig kunt doen. Via 'Filezilla' kun je jouw missie op de server zetten. In de Discord 'Helpdesk' onder 'Missiemaker FTP' staat hoe je dit doet.
 4. Maak waar nodig zelfstandig aanpassingen, pas de versienummering aan en doe dit net zo lang tot je helemaal tevreden bent.
 5. Vraag een staflid om de missie samen af te testen. Het staflid zal alle zaken uitvoerig (stress)testen. Waar nodig doe jij nog aanpassingen in een nieuwe versie. Als het staflid groen licht geeft kan de missie gespeeld worden.
