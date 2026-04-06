@@ -56,7 +56,7 @@ De ORBAT oftewel gevechtorde bepaalt welke sloten er gekozen kunnen worden door 
     - Eén artilleriestuk (3 voertuigen)
 - Modules cluster: In de hoek van de map staat aan cluster modules. Deze laat je staan. De twee 'Create Diary Record' modules vul je met de missiebriefing. Dit wordt later verder uitgelegd.
 
-### Pas de 'description.ext' folder aan.
+### Pas de 'description.ext' folder aan
 In de folder van jouw missie vind je het bestand 'description.ext'. Dit bestand bevat een aantal parameters die door de missiemaker aangepast moeten worden. Deze corresponderen met de waarden uit de [Lowlands Tactical - Database](https://1drv.ms/x/s!AsNeKjX9qHZFhGHxOqZeBxqJJwtA?e=uA6DE1) op het tabblad 'Missie parameter settings NAF'. Door de juiste nummers in te vullen, geef je pre-made wapens, gear, radio's, NVG, attachments, scopes en de missie timer mee. Er kan ook gekozen worden voor customgear of custom weapons. Je dient dan zelf de volledige gear/wapenset bij elkaar te klikken. Vraag een ervaren missiemaker hierbij om hulp. 
 
 De nummers uit het onderstaande rijtje kunnen aangepast worden:
