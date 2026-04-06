@@ -59,11 +59,11 @@ De AT’er heeft kennis van verschillende voertuigen, AT-wapensystemen en muniti
 In Arma 3 worden verschillende soorten AT-wapens gebruikt. Elk wapen heeft zijn eigen voor- en nadelen. In deze gids worden de meest gebruikte wapensystemen en range systemen besproken.
 We maken onderscheid tussen de onderstaande wapenssystemen:
 
-- **Fire and forget**: Eén keer schieten en daarna niet meer bruikbaar
+- ^^**Fire and forget**^^: Eén keer schieten en daarna niet meer bruikbaar
 
-- **Herlaadbaar**: Meerdere keren te gebruiken, omdat ze herlaadbaar zijn. Meer munitietypen.
+- ^^**Herlaadbaar**^^: Meerdere keren te gebruiken, omdat ze herlaadbaar zijn. Meer munitietypen.
 
-- **Geavanceerd**: Meerdere munitietypen, vuuropties, visions en afstand mogelijkheden.
+- ^^**Geavanceerd**^^: Meerdere munitietypen, vuuropties, visions en afstand mogelijkheden.
 
 Bijna alle AT-wapens hebben terugslag en kunnen jou of jouw teamgenoten verwonden. Dit wordt backblast genoemd. Bij het vuren is daarom het belangrijk dat er geen teamgenoot of obstakel/muur achter je staat. Het afvuren van AT-wapens in gebouwen wordt daarom sterk afgeraden!
 

@@ -20,10 +20,10 @@ Voor de sessie kun je op Kamp Holland trainen, kloten, vliegen en rijden in de a
 
 
 ## Chain of Command
-1. De ^^Peletonscommandant (Romeo)^^ heeft de leiding over de sessie. De PC bepaalt welke sloten er gekozen kunnen worden en maakt het grove plan. 
-2. De **plaatsvervangende Peletonscommandant (Echo)** kan geslot worden als second in command (2IC) en neemt de rol van PC over als deze neer gaat. Deze rol kan ook geslot worden door spelers die graag de rol van PC willen leren.
-3. De **Groepscommandant** heeft de leiding over een vuurteam van max. 8 spelers. De GC van Alpha neemt de rol van Romeo over als de peletonsgroep neer is. Bij splitsing van het vuurteam neemt de GC 4 spelers mee.
-4. De **Vuurteamleider** is 2IC van een vuurteam en neemt bij opsplitsing van het vuurteam 4 spelers mee.
+1. De ^^**Peletonscommandant (Romeo)**^^ heeft de leiding over de sessie. De PC bepaalt welke sloten er gekozen kunnen worden en maakt het grove plan. 
+2. De ^^^^**plaatsvervangende Peletonscommandant (Echo)**^^ kan geslot worden als second in command (2IC) en neemt de rol van PC over als deze neer gaat. Deze rol kan ook geslot worden door spelers die graag de rol van PC willen leren.
+3. De ^^**Groepscommandant**^^ heeft de leiding over een vuurteam van max. 8 spelers. De GC van Alpha neemt de rol van Romeo over als de peletonsgroep neer is. Bij splitsing van het vuurteam neemt de GC 4 spelers mee.
+4. De ^^**Vuurteamleider**^^ is 2IC van een vuurteam en neemt bij opsplitsing van het vuurteam 4 spelers mee.
 
 Spotters, Voertuigcommandanten en Piloten hebben de leiding over hun team/voertuig.
 
@@ -44,10 +44,10 @@ Een vuurteam kan gemakkelijk opslitsen in twee groepjes van 4. De GC en VTL pakk
 ## Ondersteuning
 Het Echo team is een ondersteuningsteam. Echo is bedoeld om aan te klikken bij een andere groep. Een Echo slot vervangt altijd een ander slot, zodat er teams van maximaal 8 spelers zijn.
 
-- J-TAC: Drone operator, communicatiespecialist en schakel tussen (lucht)voertuigen en de Peletonscommandant.
-- EOD (Explosieve OpruimingsDienst): Demolitie-expert, verantwoordelijk voor het opruimen van mijnen, breachen met explosieven en opblazen van verschillende doelen.
-- MMG (Medium Machine Gun): Autorifleman+. Rifleman met een extra groot groepswapen om extra vuursteun te bieden op de grond.
-- MAT (Medium Anti Tank): Anti-Tank specialist+. AT'er met een extra sterke AT-buis, die gepanserde voertuigen op afstand met lock kan uitschakelen.- AA (Anti Air): Rifleman met Anti Air launcher die de mogelijkheid heeft om helikopters en vliegtuigen uit de lucht te schieten.
+- ^^J-TAC^^: Drone operator, communicatiespecialist en schakel tussen (lucht)voertuigen en de Peletonscommandant.
+- ^^EOD^^ (Explosieve OpruimingsDienst): Demolitie-expert, verantwoordelijk voor het opruimen van mijnen, breachen met explosieven en opblazen van verschillende doelen.
+- ^^MMG^^ (Medium Machine Gun): Autorifleman+. Rifleman met een extra groot groepswapen om extra vuursteun te bieden op de grond.
+- ^^MAT^^ (Medium Anti Tank): Anti-Tank specialist+. AT'er met een extra sterke AT-buis, die gepanserde voertuigen op afstand met lock kan uitschakelen.- AA (Anti Air): Rifleman met Anti Air launcher die de mogelijkheid heeft om helikopters en vliegtuigen uit de lucht te schieten.
 
 ## Lul van de Week
 De Lul van de Week is een slot die je NIET wil. De lul van de week wordt aan het einde van elke sessie uitgedeeld aan degene die iets stoms heeft gedaan zoals; granaat in de groep laten ontploffen, klooien, teamkills, etc. Bij de volgende sessie moet je de Lul van de Week slot pakken en zul je een tijd met een 'Lul van de Week Vlag' op je tas lopen. Deze vlag hindert soms in je zicht.
