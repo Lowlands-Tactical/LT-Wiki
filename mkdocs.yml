@@ -61,8 +61,8 @@ nav:
     - 6.3. Vuurteamleider: 6_leiding/6_3_vtl.md
     - 6.4. Map Marker Setter: 6_leiding/6_4_ms.md
   - 7. Missiemakers:
-    - 7.1. Scenario Eisen: 7_missiemakers/7_1_scenario_eisen.md
-    - 7.2. Template H3: 7_missiemakers/7_2_template_h3.md
+    - 7.1. Zelf missie maken?: 7_missiemakers/7_1_zelf_missie_maken.md
+    - 7.2. Scenario eisen: 7_missiemakers/7_2_scenario_eisen.md
     - 7.3. Tips en Tricks: 7_missiemakers/7_3_tips_en_tricks.md
 
 extra_css:
