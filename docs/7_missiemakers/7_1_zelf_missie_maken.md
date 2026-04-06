@@ -8,7 +8,7 @@ title: 7.1. Zelf missie maken?
 </span>
 
 ## Introductie missie maken
-Lijkt het jou leuk om missies te maken? Laat het dan aan de Staff weten. We gaan dan met je zitten om de basis van het missiemaken samen door te nemen.
+Lijkt het jou leuk om missies te maken? Laat het dan aan de Staf weten. We gaan dan met je zitten om de basis van het missiemaken samen door te nemen.
 Samen met een staflid leer je hoe je de folder aanmaakt, hoe de editor werkt, hoe je het template verwerkt en hoe je de missie vult met units, modules en trigger.
 Op deze manier bouwen we samen een basis missie die speelbaar is. Door steeds meer ervaring op te doen, kun je later steeds complexere dingen toevoegen.
 
