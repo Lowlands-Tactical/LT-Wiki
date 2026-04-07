@@ -59,7 +59,7 @@ We houden ons aan de volgende veiligheidsregels:
 ## Rules Of Engagement (ROE)
 
 Tijdens de Arma 3 sessies zijn  'Rules Of Engagement' van kracht. Deze basisafspraken geven aan hoe en wanneer je in contact mag treden.
-Deze regels zijn altijd van kracht, tenzij anders aangegeven bij de missiebriefing of door de peletonscommandant. 
+Deze regels zijn altijd van kracht, tenzij anders aangegeven bij de missiebriefing of door de Pelotonscommandant. 
 
 De richtlijnen voor de ROE zijn als volgt:
 
@@ -77,7 +77,7 @@ Bij te toepassing van ROE dient er met de volgende factoren rekening gehouden te
 Vuur op eigen troepen moet ter allen tijde voorkomen worden! Dit doe je eerst te identificeren, voordat je schiet. Zo weet je zeker dat het om een vijand gaat. Mocht iemand toch de fout ingaan, roep dan gelijk op de radio ^^**'BLUE ON BLUE' OF 'EIGEN TROEPEN'**^^ uit, zodat het andere team weet dat ze moeten stoppen met vuren. De ^^**wiggle**^^ (oftewel naar links en rechts bewegen met `Q` en `E`) helpt om elkaar op grote afstand te herkennen. Met de wiggle geef je aan dat je friendly bent. Het is ieders taak om te weten waar eigen troepen zitten. Veelal geeft de groepscommandant het aan wanneer er een kans onstaat op frienly fire of vuurlijnen die elkaar doorkruisen in verstedelijkt gebied. Soms komt het voor dat eigen troepen zicht moeten verplaatsen in een vijandelijk voertuig. Roep het ALTIJD uit via de radio als je hier gebruik van moet maken, zodat andere teams weten dat ze niet moeten vuren.
 
 ## Wapencommando's groepscommandant
-Doorgaans bepalend de groepscommandant voor het vuurteam welk commando er geldt. Zij staan in contact met de peletonscommandant en stemmen vuur waar nodig op elkaar af.
+Doorgaans bepalend de groepscommandant voor het vuurteam welk commando er geldt. Zij staan in contact met de Pelotonscommandant en stemmen vuur waar nodig op elkaar af.
 
 - Standaard wordt ^^**Vuren met toestemming**^^ gebruikt. Je vuurt dan alleen als er groen licht is van de leiding of als de vijand op jou schiet. Daarbij is positieve identificatie vereist. Deze ROE wordt toegepast wanneer de kans op contact met burgers groot is. “Positieve identificatie” komt vaak voort uit het uniform dat de vijand draagt, de aanwezigheid van een wapen en het vuren in de richting van bondgenoten.
 - Bij ^^**Wacht met vuren**^^ vuur je (nog) niet. Als we toch onder effectief vijandelijk vuur komen te liggen, is het toegestaan terug te schieten om vuuroverwicht te behalen en de vijand te onderdrukken of uit te schakelen. Als er nog geen contact is, wordt van het vuurteam verwacht dat het vuur wordt ingehouden. Dit is veelal bij 'Stealth' situaties van toepassing.

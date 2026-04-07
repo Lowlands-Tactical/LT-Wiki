@@ -28,7 +28,7 @@ Situational Awareness bestaat uit drie niveaus:
 3. **Projectie** - Het voorspellen van toekomstige gebeurtenissen.
     - __Voorbeeld__: Op basis van het 'lezen' van het terrein, besluit de groepscommandant een andere looproute te kiezen, omdat hij verwacht dat de huidige route in een hinderlaag kan eindigen.
 
-Om binnen Lowtac een leidinggevende rol te kunnen spelen, zoals peletonscommandant of groepscommandant, heb je een bovengemiddeld goede SA nodig. Deze helpt jou en het team om zo veilig en tactisch mogelijk een missie tot een goed einde te brengen.
+Om binnen Lowtac een leidinggevende rol te kunnen spelen, zoals Pelotonscommandant of Groepscommandant, heb je een bovengemiddeld goede SA nodig. Deze helpt jou en het team om zo veilig en tactisch mogelijk een missie tot een goed einde te brengen.
 
 ## Factoren die SA beïnvloeden
 - **Stress en vermoeidheid**

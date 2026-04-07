@@ -37,7 +37,7 @@ title: 6.3. Vuurteamleider
 
     -	De cursist blijft adequaat communiceren en valt niet stil, ook als er contact of grote stress-factoren optreden. Dit zowel op de short- als longrange radio.
 
-    -	De cursist kan de omgeving of het terrein lezen en hier tactische keuzes op aanpassen. Waar nodig met advies aan de Peletonscommandant.
+    -	De cursist kan de omgeving of het terrein lezen en hier tactische keuzes op aanpassen. Waar nodig met advies aan de Pelotonscommandant.
 
     -	De cursist kan effectief de mogelijkheden van Alive aanvragen. 
 
@@ -126,7 +126,7 @@ De GC zal het grove plan doorbrieven aan jou en het vuurteam. Zorg dat je goed o
 6.	Start opnieuw met een verplaatsing of sluit aan in de afrondingsfase.
 
 ### Afrondingsfase – Debriefing
-Cirkel up! Aan het einde van de sessie organiseert de Peletonscommandant een debriefing:
+Cirkel up! Aan het einde van de sessie organiseert de Pelotonscommandant een debriefing:
 
 1.	Er wordt teruggeblikt. Wat ging goed? Waar was er ruimte voor verbetering? Hoe kunnen we hier op inspelen?
 
@@ -223,7 +223,7 @@ Via Self-interact kan de tablet van Alive worden geopend. Een trainer kan in-gam
 Hoofdstuk 2.2 'Reageren op contact' beschrijft uitgebreid hoe hiermee om te gaan en wat de rol van de Vuurteamleider daarbij is.
 
 ## Intekenen voor het vuurteam
-De grote lijnen worden door de Peletonscommandant ingetekent. De Groepscommandant doet dit voor de gehele groep. De Vuurteamleider kan dit voor een sub-groep doen als het team wordt opgesplitst. Dit doe je in jouw teamkleur. Denk hierbij aan:
+De grote lijnen worden door de Pelotonscommandant ingetekent. De Groepscommandant doet dit voor de gehele groep. De Vuurteamleider kan dit voor een sub-groep doen als het team wordt opgesplitst. Dit doe je in jouw teamkleur. Denk hierbij aan:
 
 -   Specifieke verplaatsingsroutes
 

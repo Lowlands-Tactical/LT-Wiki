@@ -22,7 +22,7 @@ title: 5.2. J-TAC
 
     Vaardigheden:
 
-    - De cursist kan zelfstandig opereren tussen de peletonsgroep en de uitvoerende teams.
+    - De cursist kan zelfstandig opereren tussen de pelotonsgroep en de uitvoerende teams.
 
     - De cursist weet hoe de 3 verschillende radio's tegelijkertijd ingezet kunnen worden.
     
@@ -41,19 +41,19 @@ title: 5.2. J-TAC
     - De cursist kan in- en uitvlieg routes en LZ's markeren op de kaart en daarbij risico's minimaliseren.
 
 ## De verantwoordelijkheden en werzaamheden van de J-TAC
-De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de peletonsgroep (bij de peletonscommandant), maar kan ook met een team worden meegestuurd. Door de flexibele inzet staat de J-TAC in de ondersteuningsgroep (Echo). De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de peletonscommandant, waardoor de peletonscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
+De J-TAC (Joint Terminal Attack Controller) is de specialist in communicatie, dronebesturing en het inroepen van allerlei soorten ondersteuning. De J-TAC opereert vanuit de pelotonsgroep (bij de Pelotonscommandant), maar kan ook met een team worden meegestuurd. Door de flexibele inzet staat de J-TAC in de ondersteuningsgroep (Echo). De J-TAC staat in contact met alle ondersteuningsgroepen en roept dit in op aangeven van de Pelotonscommandant, waardoor de Pelotonscommandant wordt ontlast en zich kan focussenn op het plan. Daarnaast kan de J-TAC met beschikbare drones intel verzamelen en dit via radio of kaart communiceren naar de teams. 
 
 ### Communicatie en SA
 Het is van zeer groot belang dat de J-TAC uitgebreide communicatieskills heeft en kort en krachtig communiceert. Communicatie vindt vaak plaats in het heetst van de strijd. Communiceren zoals aangegeven onder 2.4 Communicatie is cruciaal.
 Daarnaast moet de J-TAC beschikken over een goede situational awareness. Het is belangrijk dat je goed weet waar alle troepen zich bevinden en hoe het terrein hierin meespeelt. Zo kun je de support units zo goed mogelijk begeleiden en de taken effectief laten uitvoeren.
 
 ### De radio's
-De J-TAC maakt gebruik van 3 radio's; de short-range, long-range en een extra long-range. Elke radio wordt voor een andere functie gebruikt. Door een extra long-range kan je als J-TAC met ondersteuningsmogelijkheden communiceren, zonder de groepscommandant en peletonscommandant te storen.
+De J-TAC maakt gebruik van 3 radio's; de short-range, long-range en een extra long-range. Elke radio wordt voor een andere functie gebruikt. Door een extra long-range kan je als J-TAC met ondersteuningsmogelijkheden communiceren, zonder de groepscommandant en Pelotonscommandant te storen.
 
 | Radio           | Soort       | Default-key           | Functie                                                                              |
 |-----------------|-------------|-----------------------|--------------------------------------------------------------------------------------|
-| AN/PRC-343      | Short-range | Capslock              | Communicatie binnen het eigen team, vaak de peletonsgroep                            |
-| AN/PRC-152      | Long-range  | Ctrl + Capslock       | Communicatie met groepscommandanten en de peletonscommandant                              |
+| AN/PRC-343      | Short-range | Capslock              | Communicatie binnen het eigen team, vaak de pelotonsgroep                            |
+| AN/PRC-152      | Long-range  | Ctrl + Capslock       | Communicatie met groepscommandanten en de Pelotonscommandant                              |
 | AN/PRC-117      | Long-range  | Alt + Capslock        | Communicatie met ondersteuningsmogelijkheden zoals heli's en artillerie              |
 
 ### Alive

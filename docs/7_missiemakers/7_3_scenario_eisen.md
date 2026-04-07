@@ -27,9 +27,9 @@ Bij het aanmaken van een missie is de naam en versienummering erg belangrijk. Hi
     - TR staat voor 'Trainingscenario'. Deze missies zijn speciaal gemaakt om skills te trainen.
 - De versienummering begint altijd met een 'v' van versie en vervolgens het nummer. Elke keer wanneer je een nieuwe versie op de server moet zetten om te testen, pas je de versienummering aan naar boven; v0 > v1 > v2. Dit doe je in de **folder naam** en bij de missie naam onder **attributes**.
 - Wanneer je een campaign maakt, zorg dan dat de benamingen er als volgt uitzien:
-    1. `LTOPC_campaingnnaam_01_missienaam_v0`
-    2. `LTOPC_campaingnnaam_02_missienaam_v0`
-    3. `LTOPC_campaingnnaam_03_missienaam_v0`
+    1. `LTOPC_campaignnaam_01_missienaam_v0`
+    2. `LTOPC_campaignnaam_02_missienaam_v0`
+    3. `LTOPC_campaignnaam_03_missienaam_v0`
 
 
 ### Gebruik de template / ORBAT
@@ -55,7 +55,7 @@ De ORBAT oftewel gevechtorde bepaalt welke sloten er gekozen kunnen worden door 
     - UAV Crate (krat met spullen voor de J-TAC)
 - Insertion logo: Plaats dit logo op de plaats waar we met de groep starten.
 - Respawn position module: Plaats deze module bij de base/insertion. Vul zelf aan met extra respawn punten of een mobiele respawn op een voertuig.
-- 'UITLEG TEKST': Dit zijn hidden markers die alleen de zeus kan zien. Leg met deze markers uit waar bijzonderheden in jouw missie zitten, zoals triggers en de manier waarop deze af gaan.
+- 'UITLEG TEKST': Dit zijn hidden markers ('System' > 'Empty') die alleen de zeus kan zien. Leg met deze markers uit waar bijzonderheden in jouw missie zitten, zoals triggers en de manier waarop deze af gaan.
 - Player Combat Support modules: Deze modules kun je gebruiken of verwijderen. Het zijn Alive modules die AI gestuurde voertuigen genereren. Standaar staan er:
     - Twee transport helikopters
     - Eén CAS helikopter

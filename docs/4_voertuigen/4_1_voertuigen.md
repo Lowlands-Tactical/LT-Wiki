@@ -20,7 +20,7 @@ title: 4.1. Voertuigen
 
     -	De cursist weet hoe de cruise control gebruikt kan worden middels insert en de speed limiter middels delete (standaard keybinds).
 
-    -	De cursist weet dat de groepscommandant voor het voertuig of de peletonscommandant voor de konvooi de snelheid bepaalt. 
+    -	De cursist weet dat de Groepscommandant voor het voertuig of de Pelotonscommandant voor de konvooi de snelheid bepaalt. 
 
     -	De cursist weet hoe de konvooi snelheid, afwijkende rijrichtingen of veranderingen hierin uitgeroepen worden.
 
