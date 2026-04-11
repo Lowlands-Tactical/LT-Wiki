@@ -45,4 +45,4 @@ Zodra een gebouw volledig gezuiverd is, moet dit direct gecommuniceerd en geregi
 - ^^**Kaartmarker**^^: Plaats een stip op het gebouw op de kaart.
 - ^^**Kleurgebruik**^^: Gebruik de kleur van je eigen vuurteam (bijv. blauw voor Alpha). Hiermee weet de Pelotonscommandant precies welk team waar zit en welke sectoren veilig zijn.
 
-**Let op: Een gebouw is pas 'Clear' als elk hokje en elke verdieping is gecheckt.**
+**Let op: Een gebouw is pas 'Clear' als elk hoekje en elke verdieping is gecheckt.**
