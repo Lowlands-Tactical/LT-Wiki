@@ -118,18 +118,18 @@ features = [
 ]
 
 [[project.theme.palette]]
-scheme = "default"
-primary = "black"
-accent = "orange"
-toggle.icon = "lucide/sun"
-toggle.name = "Schakel naar donkere modus"
-
-[[project.theme.palette]]
 scheme = "slate"
 primary = "black"
 accent = "orange"
 toggle.icon = "lucide/moon"
 toggle.name = "Schakel naar lichte modus"
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "black"
+accent = "orange"
+toggle.icon = "lucide/sun"
+toggle.name = "Schakel naar donkere modus"
 
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.attr_list]
