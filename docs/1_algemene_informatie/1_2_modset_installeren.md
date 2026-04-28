@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 1.2. Modset Installeren
+author: "Brainless_Ben"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 1.2. Modset Installeren
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Brainless_Ben** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 Welkom bij de installatiehandleiding voor de Lowlands Tactical modset. Volg de onderstaande stappen zorgvuldig om je voor te bereiden op onze Arma 3-sessies.
 
@@ -118,7 +119,7 @@ https://arma3sync.lowtac.nl/a3s-Repos/Moderne/autoconfig
 | Password            | Discord Helpdesk       |
 | Join with Modset    | ❌ Laat leeg           |
 
-![Afbeelding](img/1_2_modset_installeren/img9.jpg)
+![Afbeelding](img/1_2_modset_installeren/img9.png)
 
 4. Ga terug naar **Addons** en selecteer de modset onderaan om alles in één keer te laden.
 

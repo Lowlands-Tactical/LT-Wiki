@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 3.1. Autorifleman
+author: "R.Hoods"
+date_created: "03-04-2026"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 3.1. Autorifleman
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **03-04-2026** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de rol van de autorifleman. Na het doornemen van deze gids heb je de volgende doelstellingen behaald. Er wordt geen aparte training voor deze rol gegeven, omdat de rol als 'instapklaar' wordt gezien.

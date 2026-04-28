@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 7.4. Tips en Tricks
+author: "R.Hoods"
+date_created: "26-08-2025"
+date_updated: "06-04-2026"
+updated_by: "R.Hoods"
 ---
 # 7.4. Tips en Tricks
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **06-04-2026** door **R.Hoods**
-</span>
 
 ## Missiemakers kanaal - Discord
 Op Discord is een speciaal kanaal aangemaakt voor missiemakers. Als missiemaker heb je hiervoor aparte rechten. Veel dingen die je wil maken, zijn in het verleden al door een ander gemaakt.

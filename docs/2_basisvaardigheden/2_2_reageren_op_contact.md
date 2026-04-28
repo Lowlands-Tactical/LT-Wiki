@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 2.2. Reageren op contact
+author: "R.Hoods"
+date_created: "02-10-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 2.2. Reageren op contact
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **02-10-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de basisbeginselen van reageren op contact. We verwachten dat iedereen basiskennis heeft over het omgaan met contact. Dit helpt om contact zo veilig en tactisch mogelijk aan te grijpen. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
@@ -91,6 +92,19 @@ Wanneer jouw team onverhoopt in contact komt, moet het team hier adequaat op rea
 3. Roep het contact uit via de RAD-prodedure (Richting - Afstand - Doel). Zo weet iedereen wat de dreiging is.
 4. Blijf om de paar seconden schoten uitbrengen en volg de aanwijzingen van de groepscommandant op.
 
+```mermaid
+%%{init: {"flowchart": {"curve": "step"}}}%%
+flowchart LR
+    A([Contact!]) --> B[Schiet 2x op doel]
+    B --> C[Dekking zoeken]
+    C --> D[RAD-rapport uitroepen]
+    D --> E[Vuur onderhouden]
+    E --> F{Commando GC?}
+    F -- Flanken --> G[Flank uitvoeren]
+    F -- Terugtrekken --> H[Controlled withdrawal]
+    F -- Positie houden --> E
+```
+
 Met de eerste schoten zorg je ervoor dat de vijand de dekking opzoekt, zo houden wij het initiatief in het vuurgevecht. Hierna stel je jezelf zoveel mogelijk in veiligheid. Vervolgens maak je de dreiging bekend bij je teamgenoten en groepscommandant. De groepscommandant maakt zo snel mogelijk een plan om de dreiging adequaat aan te grijpen en het team in veiligheid te houden.
 
 ## Buddycheck
@@ -124,4 +138,8 @@ Een ^^**360**^^ is een rondom beveiliging die wordt ingezet bij langdurig haltho
 ![Afbeelding](img/2_2_reageren_op_contact/360.jpg)
 
 ## Gewonden
-Een uitgebreidere weergave over dit onderwerp staat beschreven onder '2.6. Basis EHBO'. 
+Een uitgebreidere weergave over dit onderwerp staat beschreven onder [2.6. Basis EHBO](2_6_basis_ehbo.md).
+
+!!! info "Zie ook"
+    - [2.3. Uitroepen van contact](2_3_uitroepen_van_contact.md) — hoe je het RAD-rapport correct uitroept
+    - [3.4. Medic](../3_vuurteam_rollen/3_4_medic.md) — medische afhandeling na het vuurgevecht

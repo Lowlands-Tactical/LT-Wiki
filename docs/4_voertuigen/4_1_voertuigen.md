@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 4.1. Voertuigen
+author: "R. Hoods"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 4.1. Voertuigen
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over het gebruik van voertuigen, het werken in konvooi-formatie, rollen en verantwoordelijkheden, communicatie en signalen, zichtzijdes en reactie op dreigingen of contact. Hierdoor kun je veilig en verantwoord een rol aannemen in een voertuig. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.

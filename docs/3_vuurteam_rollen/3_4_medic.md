@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 3.4. Medic
+author: "R. Hoods"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 3.4. Medic
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de rol van de Medic. Het slot waar geen vuurteam zonder kan. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald en mag je de rol van Medic slotten. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.
@@ -265,6 +266,18 @@ Probeer eerst andere Medic(s) op te krijgen. Zij kunnen je dan verder helpen met
 Bij meerdere gewonden pas je triage toe. Met triage bepaal je per gewonde hoe erg ze eraan toe zijn en wie het eerste hulp nodig heeft. Wanneer iemand dood is geef je dit ook aan, zodat een andere speler hier geen onnodige tijd en middelen aan geeft. 
 De triagekaart met bijbehorende kleuren zit onderaan in het midden. Druk op ‘None’:
 ![Afbeelding](img/3_4_medic/Triagekaart.jpg)
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step"}}}%%
+flowchart TD
+    A([Patiënt gevonden]) --> B{Reageert op Response-check?}
+    B -- Nee / Ragdoll --> Z[🖤 Zwart — Dood\nGeen behandeling, bodybag]
+    B -- Ja, bewusteloos --> C{Bloedverlies?}
+    C -- Ernstig bloedverlies --> R[🔴 Rood — Direct\nTourniquets + bloed + CPR]
+    C -- Matig bloedverlies --> O[🟠 Oranje — Urgent\nWonden dichten + bloed]
+    C -- Licht / geen --> G[🟢 Groen — Laag\nSelf-aid mogelijk, wacht]
+```
+
 Als de triage goed is toegepast kunnen andere vuurteamleden of Medics gemakkelijk zien wie ze als eerst moeten helpen. Door op ACE-interact te drukken zie je per speler welke triage-kleur ze hebben, zonder dat je het Medical Menu hoeft te openen.
 
 ## Groene smoke
@@ -276,4 +289,10 @@ Groene smoke geeft een medische noodsituatie aan. Zo kan er in veel gevallen, zo
 
 ## Resupply
 Na al dat harde werken zal je soms onvoldoende medische supplies hebben. Houd dit goed in de gaten en trek tijdig bij de groepscommandant aan de bel. Als je op 1/3e van je spullen zit is het raadzaam een resupply aan te vragen. Als dit bijvoorbeeld enkel voor het bloed geldt, is dit ook een reden om aan de bel te trekken.
+
+---
+
+!!! info "Zie ook"
+    - [2.6. Basis EHBO](../2_basisvaardigheden/2_6_basis_ehbo.md) — basis medische handelingen voor alle vuurteamleden
+    - [6.2. Groepscommandant](../6_leiding/6_2_gc.md) — wie je informeert over medische status
 

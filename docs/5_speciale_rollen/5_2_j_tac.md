@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 5.2. J-TAC
+author: "R.Hoods"
+date_created: "02-02-2026"
+date_updated: "01-04-2026"
+updated_by: "R.Hoods"
 ---
 # 5.2. J-TAC
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: R.Hoods | :material-calendar-plus: Aangemaakt: **02-02-2026** | :material-calendar-edit: Laatste update: **1-4-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de rol van J-TAC. De J-TAC is communicatiespecialist, drone-operator en is de brug met alle support units om in te roepen. Deze gids geeft meer informatie over wat het betekent om de rol aan te nemen en wat de verantwoordelijkheden en verwachtingen zijn. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Na consistent bewezen resultaat ontvang je het trainingsvinkje.

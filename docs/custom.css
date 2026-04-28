@@ -1,46 +1,217 @@
+/* ============================================================
+   LOWLANDS TACTICAL — KENNISBANK
+   Layout & flow overrides only — fonts/colors unchanged
+   ============================================================ */
 
-/* Only style images inside the main content */
-.md-typeset img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 10px;
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
-    margin-top: 2em;
-    margin-bottom: 2em;
+/* ============================================================
+   FULL-WIDTH GRID — scales with monitor resolution
+   ============================================================ */
+.md-grid {
+  max-width: min(94vw, 1920px);
 }
 
+.md-content {
+  max-width: none;
+}
+
+/* ============================================================
+   HEADER — compact + smooth hide
+   ============================================================ */
+.md-header {
+  min-height: 48px;
+}
+
+.md-header__button.md-logo {
+  max-height: 30px;
+  padding: 0;
+}
+
+
+/* ============================================================
+   NAV TITLE — hidden everywhere
+   ============================================================ */
 .md-nav__title {
-    display: none !important;
+  display: none !important;
 }
 
+/* ============================================================
+   SIDEBAR NAV — active state & hover flow
+   ============================================================ */
+.md-nav__link {
+  border-left: 2px solid transparent;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.md-nav__link:hover {
+  border-left-color: var(--md-accent-fg-color);
+  background: var(--md-accent-fg-color--transparent);
+}
+
+.md-nav__link--active {
+  border-left-color: var(--md-accent-fg-color) !important;
+  background: var(--md-accent-fg-color--transparent) !important;
+}
+
+/* ToC right sidebar — active tracking */
+.md-nav--secondary .md-nav__link {
+  border-left: 2px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+.md-nav--secondary .md-nav__link--active {
+  border-left-color: var(--md-accent-fg-color) !important;
+}
+
+/* ============================================================
+   NAVIGATION TABS — active indicator
+   ============================================================ */
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* ============================================================
+   CONTENT — typography rhythm
+   ============================================================ */
 .md-typeset h1 {
-    margin-bottom: -0.5em; /* Adjust as needed for tightness */
+  margin-bottom: 0.1em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid var(--md-accent-fg-color);
 }
-
 
 .md-typeset h2 {
-    font-weight: bold;
-    font-size: 1.2em; /* Same as h3 */
-    margin-top: 2em;
-    margin-bottom: 1em;
-    color: inherit;
+  margin-top: 2.4em;
+  margin-bottom: 0.7em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
 .md-typeset h3 {
-    font-weight: bold;
-    font-size: 1em; /* Normal text size, but bold */
-    margin-top: 2em;
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+/* ============================================================
+   IMAGES — centered, rounded, shadow
+   ============================================================ */
+.md-typeset img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  margin-top: 2em;
+  margin-bottom: 2em;
+  transition: box-shadow 0.2s ease;
+}
+
+.md-typeset img:hover {
+  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.55);
+}
+
+/* ============================================================
+   ADMONITIONS — stronger left border, no background change
+   ============================================================ */
+.md-typeset .admonition,
+.md-typeset details {
+  border-left-width: 3px;
+  margin: 1.4em 0;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-weight: 600;
+}
+
+/* ============================================================
+   TABLES — accent header row
+   ============================================================ */
+.md-typeset table:not([class]) {
+  font-size: 0.82em;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--md-accent-fg-color--transparent);
+  color: var(--md-accent-fg-color);
+  border-bottom: 1px solid var(--md-accent-fg-color);
+}
+
+.md-typeset table:not([class]) tr:hover {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+/* ============================================================
+   CARD GRIDS — hover lift
+   ============================================================ */
+.md-typeset .grid.cards > :is(ul, ol) > li {
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.md-typeset .grid.cards > :is(ul, ol) > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  border-color: var(--md-accent-fg-color) !important;
+}
+
+/* ============================================================
+   LINKS — smoother underline
+   ============================================================ */
+.md-typeset a {
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--md-typeset-a-color) 40%, transparent);
+  transition: border-color 0.15s ease;
+}
+
+.md-typeset a:hover {
+  border-bottom-color: var(--md-typeset-a-color);
+}
+
+/* ============================================================
+   PROGRESS BAR
+   ============================================================ */
+.md-progress {
+  background: var(--md-accent-fg-color);
+}
+
+/* ============================================================
+   SCROLLBAR — subtle orange thumb
+   ============================================================ */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--md-accent-fg-color) 30%, transparent);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--md-accent-fg-color) 55%, transparent);
+}
+
+/* ============================================================
+   SOCIAL LINKS — orange on hover
+   ============================================================ */
+.md-social__link svg {
+  transition: fill 0.2s ease;
+}
+
+.md-social__link:hover svg {
+  fill: var(--md-accent-fg-color);
+}
+
+/* ============================================================
+   MERMAID — left-align node text
+   ============================================================ */
+.nodeLabel,
+.nodeLabel p,
+.nodeLabel span {
+  text-align: left !important;
+}
+
+/* ============================================================
+   MOBILE
+   ============================================================ */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset img {
+    margin-top: 1em;
     margin-bottom: 1em;
-    color: inherit;
-}
-
-/* Reduce header height and logo size */
-.md-header__button.md-logo {
-    max-height: 32px;   /* Adjust as needed */
-    padding: 0;
-}
-
-.md-header {
-    min-height: 48px;   /* Adjust as needed */
+  }
 }

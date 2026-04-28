@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 6.3. Vuurteamleider
+author: "R.Hoods"
+date_created: "12-10-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 6.3. Vuurteamleider
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: R.Hoods | :material-calendar-plus: Aangemaakt: **12-10-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de rol van Vuurteamleider, oftewel VTL. De Vuurteamleider is de 2IC van een vuurteaem en opereert onder het command van de groepscommandant. Deze gids geeft meer informatie over wat het betekent om de rol aan te nemen en wat de verantwoordelijkheden en verwachtingen zijn. De VTL slot wordt gezien als opstapje naar de rol van Groepscommandant. In de rol heb je wat meer leidinggevende verantwoordelijkheid dan andere rollen en stuur je soms een mini-team aan. De rol mag daarom ook zonder GC trainingsvinkje worden geslot, mits je kennis hebt over de volgende zaken en voldoet aan de voorwaarden:
@@ -238,7 +239,7 @@ De grote lijnen worden door de Pelotonscommandant ingetekent. De Groepscommandan
 **Voorbeeld:**
 In onderstaande afbeelding zijn de paars-zwarte verplaatsings- en phaselijnen door de GC ingetekend. Beide teams moeten zich vanaf insertion/startpoint (SP) verplaatsen via de paarse lijn tot de release point (RP). Daar splitsen ze op en moeten ze beide eigen sectoren clearen om vervolgens op het Linkup point (LU) weer bij elkaar te komen. De Alpha Vuurteamleider heeft de verplaatsingsroute via de blauwe lijn ingetekend. Daarmee is het aanvalsplan ook gelijk duidelijk, het clearen van de huizen. Middels nummers is aangegeven wanneer een volgende sector start. Het team is tot sector 3 gekomen en heeft de geclearde huizen met blauwe stippen gemarkeerd. Er zijn nog geen vijanden gezien en gemarkeerd. De Vuurteamleider heeft een `?` geplaatst in een sector met meer afstand die in de gaten gehouden moet worden.
 
-![Vuurteam-specifiek plan](img/6_2_vtl/kaartvoorbeeld.jpg)
+![Vuurteam-specifiek plan](img/6_2_gc/kaartvoorbeeld.jpg)
 
 Een beschrijving van de markers die we gebruiken vind je hier: [Steam Community :: Gids :: Markersplus Usage Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3365010538)
 

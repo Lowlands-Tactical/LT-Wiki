@@ -1,13 +1,30 @@
 ---
 layout: doc
 title: 2.1. Gevechtsorde
+author: "R.Hoods"
+date_created: "03-04-2026"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 2.1. Gevechtsorde
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **03-04-2026** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
-![Afbeelding](img/2_1_gevechtsorde/gevechtsorde.jpg)
+```mermaid
+%%{init: {"flowchart": {"curve": "step"}}}%%
+flowchart TD
+    PC(["🎖️ Pelotonscommandant · Romeo"])
+
+    PC --> A["⚔️ Alpha\nGroepscommandant"]
+    PC --> B["⚔️ Bravo\nGroepscommandant"]
+    PC --> E["🔧 Echo\nOndersteuning"]
+
+    A --> A1["🟡 GC\n🔴 Autorifleman\n🔴 Grenadier\n🔴 Medic"]
+    A --> A2["🟢 Vuurteamleider\n🟢 Autorifleman\n🔵 Anti-Tank\n🔵 Medic"]
+
+    B --> B1["🟡 GC\n🔴 Autorifleman\n🔴 Grenadier\n🔴 Medic"]
+    B --> B2["🟢 Vuurteamleider\n🟢 Autorifleman\n🔵 Anti-Tank\n🔵 Medic"]
+
+    E --> E1["2IC · J-TAC · EOD\nMMG · MAT · AA"]
+```
 
 ## Gevechtsorde a.k.a. ORBAT
 Bovenstaande afbeelding geeft de gevechtsorde, bij ons bekend als ORBAT, van LowTac weer. De ORBAT zijn de sloten die tijdens missies gekozen kunnen worden. De ORBAT is gebaseerd op de opbouw van een Nederlandse infanteriegroep, maar heeft wel een 'LowTac sausje' gekregen. Een missiemaker kan de ORBAT 'uitkleden' als dit beter past bij het scenario.

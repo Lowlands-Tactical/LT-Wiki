@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 2.6. Basis EHBO
+author: "R. Hoods"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 2.6. Basis EHBO
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de basisbeginselen van het bieden van EHBO. We verwachten van alle spelers dat zij bekend zijn met simpele levensreddende handelingen. Zo kunnen ze zichzelf en anderen tijdelijk stabiliseren, tot de Medic dit later kan overnemen. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.

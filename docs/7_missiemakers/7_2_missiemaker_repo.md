@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 7.2. Missiemaker repo
+author: "R.Hoods"
+date_created: "06-04-2026"
+date_updated: "06-04-2026"
+updated_by: "R.Hoods"
 ---
 # 7.2. Missiemaker repo
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **06-04-2026** | :material-calendar-edit: Laatste update: 06-04-2026 door R.Hoods
-</span>
 
 ## Missiemaker repositorie
 Op Arma3sync is er voor missiemakers een aparte repositorie gemaakt (LT Missiemakers Repo). Hierin zitten handige tools voor missiemaken.

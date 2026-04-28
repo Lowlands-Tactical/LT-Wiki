@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: Homepagina
+author: "Pek en R. Hoods"
+date_created: "26-08-2025"
+date_updated: "06-04-2026"
+updated_by: "R.Hoods"
 ---
 #  Welkom op de kennisbank!
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** || :material-calendar-edit: Laatste update: **06-04-2026** door **R.Hoods**
-</span>
 
 In deze kennisbank vind je de informatie die nodig is om goed voorbereid deel te nemen aan de Arma 3 sessies. Deze wiki is bedoeld voor alle leden van onze community. Het is ontworpen om je te voorzien van alle benodigde informatie, van de eerste stappen tot geavanceerde rollen. De complexiteit is opbouwend. Hogere hoofdstukken verger meer ervaring en nemen toe in complexiteit.
 

@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 1.1. Introductie
+author: "Pek en R. Hoods"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 1.1. Introductie
-<span style="font-size:0.7em;">
-   :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 Welkom bij Lowlands Tactical! Hier vind je een beknopte overzicht van alle zaken die we met Lowlands Tactical doen. Onze core business is Arma 3, maar daarnaast spelen we ook andere games.
 

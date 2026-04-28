@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 5.1. EOD/Engineer
+author: "R. Hoods"
+date_created: "26-08-2025"
+date_updated: "01-04-2026"
+updated_by: "R.Hoods"
 ---
 # 5.1. EOD/Engineer
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **1-4-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de rol van de EOD/engineer. We verwachten van alle spelers die de engineer rol willen slotten, dat zij bekend zijn met de kennis en handelingen uit deze gids. Zo kunnen ze adequaat de handelingen zowel het repair gedeelte als het demolition gedeelte uitvoeren. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.

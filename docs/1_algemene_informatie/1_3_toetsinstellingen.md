@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 1.3. Toetsinstellingen
+author: "Pek en R. Hoods"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 1.3. Toetsinstellingen
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Pek en R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 Het is belangrijk dat je Arma 3 met de juiste keybinds speelt. Aspiranten kunnen de keybinds al vóór de intro in orde maken via deze lijst. Bestaande leden kunnen via deze pagina hun keybinds controleren.
 Wij raden aan om onderstaande keybinds (standaardtoetsen) te gebruiken. Zo kun je gemakkelijk geholpen worden wanneer er een storing optreedt.

@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 7.1. Zelf missie maken?
+author: "R.Hoods"
+date_created: "26-08-2025"
+date_updated: "06-04-2026"
+updated_by: "R.Hoods"
 ---
 # 7.1. Zelf missie maken?
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **06-04-2026** door **R.Hoods**
-</span>
 
 ## Introductie missie maken
 Lijkt het jou leuk om missies te maken? Laat het dan aan de Staf weten. We gaan dan met je zitten om de basis van het missiemaken samen door te nemen.

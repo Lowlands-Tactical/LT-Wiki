@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 4.2. Fastrope
+author: "R. Hoods"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 4.2. Fastrope
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R. Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 ??? info
     In deze gids leer je over de rol van passagier in helikopters. Na het doornemen van deze gids en het volgen van de bijbehorende training heb je de volgende doelstellingen behaald en kun je veilig een kist in. Daarnaast ontvang je een trainingsvinkje in de ledenlijst.

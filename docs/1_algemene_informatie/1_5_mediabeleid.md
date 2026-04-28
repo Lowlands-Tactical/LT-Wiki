@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 1.5. Mediabeleid
+author: "Pek"
+date_created: "26-08-2025"
+date_updated: "05-04-2026"
+updated_by: "R.Hoods"
 ---
 # 1.5. Mediabeleid
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Pek** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **05-04-2026** door **R.Hoods**
-</span>
 
 We willen laten zien wat we als eenheid kunnen: tactisch samenspel, mooie momenten, en af en toe iets geks of spectaculairs. Via platforms als YouTube, Bluesky, TikTok en Instagram delen we beelden die de sfeer en professionaliteit van onze eenheid uitstralen. We vinden het geweldig als je zelf ook media maakt of clips deelt. Hoe meer betrokkenheid, hoe beter. Maar om te zorgen dat wat we posten ook écht past bij onze stijl, hebben we wat richtlijnen opgesteld.
 

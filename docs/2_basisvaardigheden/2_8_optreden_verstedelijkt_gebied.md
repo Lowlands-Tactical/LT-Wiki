@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 2.8. Optreden in verstedelijkt gebied
+author: "Bearfingers"
+date_created: "26-08-2025"
+date_updated: "07-04-2026"
+updated_by: "R.Hoods"
 ---
 # 2.8. Optreden in verstedelijkt gebied
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **Bearfingers** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: **07-04-2026** door **R.Hoods**
-</span>
 
 Optreden in verstedelijkt gebied (ook wel MOUT (Military Operations in Urban Terrain) of CQB (Close Quarters Battle) genoemd) is een van de meest uitdagende onderdelen van Arma 3.
 De korte zichtlijnen, vele hoeken en verticale dreiging maken de SA (Situational Awareness) complex. 

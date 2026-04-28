@@ -1,10 +1,10 @@
 ---
 layout: doc
 title: 5.3. Sniper
+author: "R.Hoods"
+date_created: "06-04-2026"
 ---
 # 5.3. Sniper
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **06-04-2026** | :material-calendar-edit: Laatste update: **N/A** door **N/A**
-</span>
 
-!!! info "Dit artikel is nog leeg! :("
+!!! warning "In ontwikkeling"
+    Dit artikel is nog niet beschikbaar. Neem contact op met de staf als je interesse hebt in deze rol.

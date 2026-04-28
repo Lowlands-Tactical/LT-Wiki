@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: 7.3. Scenario Eisen
+author: "R.Hoods"
+date_created: "26-08-2025"
+date_updated: "06-04-2026"
+updated_by: "R.Hoods"
 ---
 # 7.3. Scenario Eisen
-<span style="font-size:0.7em;">
-    :fontawesome-solid-user: Auteur: **R.Hoods** | :material-calendar-plus: Aangemaakt: **26-08-2025** | :material-calendar-edit: Laatste update: 06-04-2026 door R.Hoods
-</span>
 
 ## Eisen voor een missie
 LowTac stelt redelijk hoge eisen aan onze missies/scenario's. Het speelplezier van alle leden hangt hier natuurlijk van af.
