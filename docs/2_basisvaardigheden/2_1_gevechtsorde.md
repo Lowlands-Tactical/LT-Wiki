@@ -8,23 +8,7 @@ updated_by: "R.Hoods"
 ---
 # 2.1. Gevechtsorde
 
-```mermaid
-%%{init: {"flowchart": {"curve": "step"}}}%%
-flowchart TD
-    PC(["🎖️ Pelotonscommandant · Romeo"])
-
-    PC --> A["⚔️ Alpha\nGroepscommandant"]
-    PC --> B["⚔️ Bravo\nGroepscommandant"]
-    PC --> E["🔧 Echo\nOndersteuning"]
-
-    A --> A1["🟡 GC\n🔴 Autorifleman\n🔴 Grenadier\n🔴 Medic"]
-    A --> A2["🟢 Vuurteamleider\n🟢 Autorifleman\n🔵 Anti-Tank\n🔵 Medic"]
-
-    B --> B1["🟡 GC\n🔴 Autorifleman\n🔴 Grenadier\n🔴 Medic"]
-    B --> B2["🟢 Vuurteamleider\n🟢 Autorifleman\n🔵 Anti-Tank\n🔵 Medic"]
-
-    E --> E1["2IC · J-TAC · EOD\nMMG · MAT · AA"]
-```
+![Gevechtsorde](img/2_1_gevechtsorde/gevechtsorde.jpg)
 
 ## Gevechtsorde a.k.a. ORBAT
 Bovenstaande afbeelding geeft de gevechtsorde, bij ons bekend als ORBAT, van LowTac weer. De ORBAT zijn de sloten die tijdens missies gekozen kunnen worden. De ORBAT is gebaseerd op de opbouw van een Nederlandse infanteriegroep, maar heeft wel een 'LowTac sausje' gekregen. Een missiemaker kan de ORBAT 'uitkleden' als dit beter past bij het scenario.

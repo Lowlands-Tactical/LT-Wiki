@@ -4,7 +4,7 @@ Gespecialiseerde rollen binnen het vuurteam — elk met eigen uitrusting, verant
 
 <div class="grid cards" markdown>
 
--   :material-rifle: **Autorifleman**
+-   :material-magazine-rifle: **Autorifleman**
 
     ---
 

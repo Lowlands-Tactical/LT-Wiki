@@ -12,7 +12,7 @@ Alles over voertuiggebruik binnen Lowlands Tactical — van transport tot gespec
 
     [:octicons-arrow-right-24: Lees meer](4_1_voertuigen.md)
 
--   :material-rope: **Fastrope**
+-   :material-jump-rope: **Fastrope**
 
     ---
 
