@@ -3,7 +3,7 @@ layout: doc
 title: 7.1. Zelf missie maken?
 author: "R.Hoods"
 date_created: "26-08-2025"
-date_updated: "06-04-2026"
+date_updated: "18-05-2026"
 updated_by: "R.Hoods"
 ---
 # 7.1. Zelf missie maken?
@@ -24,3 +24,15 @@ Voeg elke nieuwe missie een nieuw element toe dat je eerder nog niet hebt gebrui
 
 ## Recycle
 Dingen die je in vorige missies hebt gemaakt kun je goed hergebruiken. Recycle daarom script, opbouw, loadouts, etc. uit oude missies. Je hoeft het wiel niet opnieuw uit te vinden!
+
+## Extra map of mod aanvragen
+Als je een extra map of mod wil aanvragen om toe te voegen aan de template, dan kan je een verzoek indienen bij een staflid.
+Het staflid zal de aanvraag dan bij de staf-vergadering bespreken. Beschrijf bij de aanvraag de volgende dingen:
+
+- De naam van de map of mod
+- Link naar de workshop
+- Onderbouwing waarom je de map/mod wil toevoegen
+- Beschrijving van de functionaliteiten van de mod
+- Beschrijving van de meerwaarde van de map
+
+Staf houdt bij de aanvraag rekening met de grootte van de modset, de impact/conflicten met de andere mods en de meerwaarde die een map/mod heeft op missies op korte en lange termijn.
