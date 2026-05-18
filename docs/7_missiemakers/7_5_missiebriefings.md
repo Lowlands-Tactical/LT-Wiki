@@ -19,6 +19,15 @@ Daarnaast wordt de briefing aangevuld door:
 - ^^**Map foto**^^: Foto van het speelbare gebied, de insertion en eventueel andere beschikbare kaartinformatie.
 - ^^**Aanvullende informatie**^^: Denk aan aanvullingen over bijzonderheden bij het slotten, vereiste proeve van bekwaamheid voor bijvoorbeeld helikopterpiloten of een vereiste ervaren groepscommandant.
 
+## Richtlijnen voor creative vrijheid
+De basis van elke missiebriefing is de uitgeschreven tekst, zoals hieronder weergegeven in het template voor Discord. 
+In sommige gevallen is het wenselijk om een briefing meer 'aan te kleden', om de verhaallijn of het gevoel van een missie nog meer tot leven te laten komen. 
+Dit is toegestaan, mits de missiebriefing met tekst uit het template start.
+Daarna kan aangevuld worden met eigen creaties zoals foto's, filmpjes, intel, tekst of gegenereerde items naar wens van de missiemaker.
+Mocht het in het belang van de missie zijn om compleet af te wijken van het template, dan mag dit enkel gepost worden na goedkeuring van het staflid dat de missie heeft getest.
+
+Het is altijd mogelijk om in het maak-proces al contact op te nemen met een staflid, om te overleggen of een idee toegestaan is.
+
 ## Template voor Discord
 
     **(Eventueel) CAMPAIGN NAAM**
