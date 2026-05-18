@@ -3,7 +3,7 @@ layout: doc
 title: 7.5. Missiebriefings
 author: "R.Hoods"
 date_created: "06-04-2026"
-date_updated: "06-04-2026"
+date_updated: "18-05-2026"
 updated_by: "R.Hoods"
 ---
 # 7.5. Missiebriefings
@@ -19,7 +19,7 @@ Daarnaast wordt de briefing aangevuld door:
 - ^^**Map foto**^^: Foto van het speelbare gebied, de insertion en eventueel andere beschikbare kaartinformatie.
 - ^^**Aanvullende informatie**^^: Denk aan aanvullingen over bijzonderheden bij het slotten, vereiste proeve van bekwaamheid voor bijvoorbeeld helikopterpiloten of een vereiste ervaren groepscommandant.
 
-## Richtlijnen voor creative vrijheid
+## Richtlijnen voor creatieve vrijheid
 De basis van elke missiebriefing is de uitgeschreven tekst, zoals hieronder weergegeven in het template voor Discord. 
 In sommige gevallen is het wenselijk om een briefing meer 'aan te kleden', om de verhaallijn of het gevoel van een missie nog meer tot leven te laten komen. 
 Dit is toegestaan, mits de missiebriefing met tekst uit het template start.
