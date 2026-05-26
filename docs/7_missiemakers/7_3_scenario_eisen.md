@@ -57,7 +57,7 @@ De ORBAT oftewel gevechtorde bepaalt welke sloten er gekozen kunnen worden door 
 - Insertion logo: Plaats dit logo op de plaats waar we met de groep starten.
 - Respawn position module: Plaats deze module bij de base/insertion. Vul zelf aan met extra respawn punten of een mobiele respawn op een voertuig.
 - 'UITLEG TEKST': Dit zijn hidden markers ('System' > 'Empty') die alleen de zeus kan zien. Leg met deze markers uit waar bijzonderheden in jouw missie zitten, zoals triggers en de manier waarop deze af gaan.
-- Player Combat Support modules: Deze modules kun je gebruiken of verwijderen. Het zijn Alive modules die AI gestuurde voertuigen genereren. Standaar staan er:
+- Player Combat Support modules: Deze modules kun je gebruiken of verwijderen. Het zijn Alive modules die AI gestuurde voertuigen genereren. Standaard staan er:
     - Twee transport helikopters
     - Eén CAS helikopter
     - Eén artilleriestuk (3 voertuigen)
