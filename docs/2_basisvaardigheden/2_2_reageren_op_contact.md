@@ -120,18 +120,23 @@ Bij het aannemen van een formatie dient er voldoende tussenafstand ('Spacing') g
 | Bebost gebied        | 10 meter   | Zichtafstand     |
 | Verstedelijkt gebied | 10 meter   | Locatiebepalend  |
 
-Een ^^**Enkele Colonne**^^ wordt standaard gebruikt als formatie om in te verplaatsen. In deze formatie worden meerdere zijdes in de gaten gehouden. Elk teamleid heeft een eigen waarnemingsveld; het ezelsbruggetje ^^**LOER**^^.
+Een ^^**Enkele Colonne**^^ wordt standaard gebruikt als formatie om in te verplaatsen, zoals aangegeven op de ORBAT foto. In deze formatie worden meerdere zijdes in de gaten gehouden. Elk teamleid heeft een eigen waarnemingsveld; het ezelsbruggetje ^^**LOER**^^.
 LOER = <mark>L</mark>inks <mark>O</mark>neven, <mark>E</mark>ven, <mark>R</mark>echts, Oftewel: De voorste man dekt de voorkant, de tweede man dekt rechts, de derde man dekt links. Dit wisselt elkaar af. De laatste man dekt de achterzijde.
+De autorifleman loopt uitgesprongen, zodat deze direct zwaar vuur kan geven bij contact en niet 'over de groep heen' hoeft te schieten. 
 
 ![Afbeelding](img/2_2_reageren_op_contact/enkelecolonne.jpg)
 
-Een ^^**Vuurlinie / Linie**^^ wordt gebruikt om het gevecht vanaf één zijde met zoveel mogelijk gewegren tegelijkertijd aan te grijpen. Er is veel vuurkracht. Buddyparen kunnen elkaar gemakkelijk in de gaten houden.
+Een ^^**Vuurlinie / Linie**^^ wordt gebruikt om het gevecht vanaf één zijde met zoveel mogelijk gewegren tegelijkertijd aan te grijpen. Er is veel vuurkracht. Buddyparen kunnen elkaar gemakkelijk in de gaten houden en lopen naast elkaar. A1 links, A2 rechts.
 
 ![Afbeelding](img/2_2_reageren_op_contact/vuurlinie.jpg)
 
-Een ^^**Dubbele Colonne**^^ wordt gebruikt om te verplaatsen via wegen of in verstedelijkt gebied. Het voordeel van deze formatie is dat de groep beide zijden van een weg kan dekken of beide zijdes van gebouwen worden gedekt.
+Een ^^**Dubbele Colonne**^^ wordt gebruikt om te verplaatsen via wegen of in verstedelijkt gebied. Het voordeel van deze formatie is dat de groep beide zijden van een weg kan dekken of beide zijdes van gebouwen worden gedekt. Voertuigen kunnen eventueel in het midden meebewegen. A1 links van de weg, A2 rechts van de weg.
 
 ![Afbeelding](img/2_2_reageren_op_contact/dubbelecolonne.jpg)
+
+Een ^^**speerpunt**^^ wordt gebruikt om maximale vuurkracht naar voren te concentreren. Tegelijk kunnen ook de flanken gedekt worden. A1 heeft de linker flank, A2 heeft de rechter flank.
+
+![Afbeelding](img/2_2_reageren_op_contact/speerpunt.jpg)
 
 Een ^^**360**^^ is een rondom beveiliging die wordt ingezet bij langdurig halthouden, het uitsteigen evan voertuigen, het verbreken van contact of re-armen. De groepscommandant stuurt van aan wie welke windrichting dekt, zodat alle kanten beveiligd zijn.
 
