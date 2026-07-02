@@ -212,4 +212,8 @@ AA voertuigen: Door de serieuze vuurkracht en mogelijkheid om ook grondtroepen a
 Tanks: Zwaar bepantserde voertuigen met serieuze vuurkracht. Zware dreiging. AT inzetten! 
 ///
 
+![Artillerie](img/3_3_anti_tank/Artillerie.jpg){ width="600" }
+/// caption
+Tanks: Zwaar bepantserde voertuigen met vuurkracht voor lange afstanden. Artillerie is er in verschillende soorten; Multiple-Launch-Rocket-Systems, kanonnen of ballistische raketten. Zware AT inzet is nodig! Sommige artillerie stukken zijn van dichtbij een lichte dreiging, omdat jij binnen de 'dead-zone' loopt waar niet geschoten kan worden van dichtbij.
+///
 
