@@ -32,3 +32,5 @@ __Team Alpha__
 Als autorifleman, oftewel minimi schutter, heb je het grootste wapen van de groep; een licht machinegeweer met grote ammo belts van 100 à 200 rounds. Je kan hiermee de meeste vuurkracht van het team geven.
 De autoriflemans belangrijkste taak is het geven van dekkingsvuur. Door het grote aantal patronen ben je in staat om langere periodes meer vuur uit te brengen dan andere vuurteamleden. 
 Door regelmatig korte bursts te schieten blijf je de vijand onderdrukken, waardoor jouw teamgenoten in dekking kunnen komen of kunnen flanken. 
+
+Bij verplaatsing in een enkele colonne loop je uitgesprongen, zodat je bij dreiging snel vuur uit kan brengen. Omdat je bent uitgesprongen voorkom je dat je over jouw team heen moet schieten.
