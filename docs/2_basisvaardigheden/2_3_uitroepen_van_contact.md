@@ -56,5 +56,6 @@ Voertuigen kunnen een flinke dreiging vormen. Daarom is het belangrijk om na ide
 -   Een ^^**APC (Armored Personel Carrier)**^^ kan een zware dreiging zijn, afhankelijk van het wapensysteem. Dit zijn zwaardere bepantserde voertuigen met grote kanonnen zoals een BTR of IFV. Zowel voor een vuurteam, als een eigen voertuig is dit een zware dreiging. AT inzet is nodig!
 -   ^^**AA (anti-air)**^^ voertuigen zijn een zware dreiging. De guns zijn bedoeld voor luchtdoelen, maar kunnen ook op vuurteams of eigen voertuigen vuren en stevige schade aanrichten. Ze worden niet voor niets "Anti Anything" genoemd. AT inzet is nodig!
 -   ^^**Tanks**^^ zijn vaak de meest bepanserde vijand. Met een groot kanon (en vaak aanvullende wapens zoals een machinegeweer) zijn ze een extreem hoge dreiging voor eigen voertuigen, maar ook een vuurteam is sterk bedreigd. Zware AT inzet is nodig!
+-   ^^**Artillerie**^^ zijn vaak gepanserd. Artillerie is er in verschillende soorten; Multiple-Launch-Rocket-Systems, kanonnen of ballistische raketten. Zware AT inzet is nodig! Sommige artillerie stukken zijn van dichtbij een lichte dreiging, omdat jij binnen de 'dead-zone' loopt waar niet geschoten kan worden van dichtbij.
 
 Een uitgebreide weergave van voertuigen met bijbehorende __afbeeldingen__ is te vinden onder '4.1. Voertuigen'.
