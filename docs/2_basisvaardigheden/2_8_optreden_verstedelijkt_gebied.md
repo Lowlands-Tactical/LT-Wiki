@@ -1,9 +1,9 @@
 ---
 layout: doc
 title: 2.8. Optreden in verstedelijkt gebied
-author: "Bearfingers"
+author: "Bearfingers & Raider"
 date_created: "26-08-2025"
-date_updated: "07-04-2026"
+date_updated: "03-07-2026"
 updated_by: "R.Hoods"
 ---
 # 2.8. Optreden in verstedelijkt gebied

@@ -3,7 +3,7 @@ layout: doc
 title: 2.1. Gevechtsorde
 author: "R.Hoods"
 date_created: "03-04-2026"
-date_updated: "05-04-2026"
+date_updated: "03-07-2026"
 updated_by: "R.Hoods"
 ---
 # 2.1. Gevechtsorde

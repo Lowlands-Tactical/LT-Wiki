@@ -3,7 +3,7 @@ layout: doc
 title: 3.3. Anti-Tank
 author: "R. Hoods"
 date_created: "26-08-2025"
-date_updated: "05-04-2026"
+date_updated: "03-07-2026"
 updated_by: "R.Hoods"
 ---
 # 3.3. Anti-Tank
