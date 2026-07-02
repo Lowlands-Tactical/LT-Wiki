@@ -128,7 +128,7 @@ De autorifleman loopt uitgesprongen, zodat deze direct zwaar vuur kan geven bij 
 
 Een ^^**Vuurlinie / Linie**^^ wordt gebruikt om het gevecht vanaf één zijde met zoveel mogelijk gewegren tegelijkertijd aan te grijpen. Er is veel vuurkracht. Buddyparen kunnen elkaar gemakkelijk in de gaten houden en lopen naast elkaar. A1 links, A2 rechts.
 
-![Afbeelding](img/2_2_reageren_op_contact/vuurlinie.jpg)
+![Afbeelding](img/2_2_reageren_op_contact/linie.jpg)
 
 Een ^^**Dubbele Colonne**^^ wordt gebruikt om te verplaatsen via wegen of in verstedelijkt gebied. Het voordeel van deze formatie is dat de groep beide zijden van een weg kan dekken of beide zijdes van gebouwen worden gedekt. Voertuigen kunnen eventueel in het midden meebewegen. A1 links van de weg, A2 rechts van de weg.
 
