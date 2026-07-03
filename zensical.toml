@@ -67,6 +67,7 @@ nav = [
   ]},
   {"Begeleiders" = [
     "8_begeleiders/index.md",
+    {"Training intro" = "8_begeleiders/8_1_training_intro.md"},
   ]},
 ]
 
