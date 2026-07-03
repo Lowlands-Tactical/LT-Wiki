@@ -9,14 +9,14 @@ updated_by: "R.Hoods"
 # 8.1. Intro Begeleiders
 
 ??? info
-    Deze gids is bedoeld om begeleiders handvatten geven bij het eenduidig aanbieden van de basis introductie voor aspirant leden.
+    Deze gids is bedoeld om begeleiders handvatten te geven bij het eenduidig aanbieden van de basis introductie voor aspirant leden.
 
 !!! warning "Gebruik de intro baan op Kamp Holland"
     Op Kamp Holland is een baan ingericht met 'stations' die corresponderen met deze handleiding. De baan en dit document zorgen voor een eenduidig verhaal. Per station staat een bord met bespreekpunten.
 
 ## Rol van de begeleider 
-Als begeleider is het jouw taak om een aspirant voor te bereiden op de eerste sessie met een intro, te begeleiden tijdens de eerste vier sessies en tijdens deze periode de basivaardigheden aan te leren.
-Een introductie duurt ongeveer 1,5 tot 3 uur, afhankelijk van de ervaring van de aspirant. De introductie bereid de aspirant voor op het meespelen van de eerste sessie. Als de aspirant helemaal nieuw in bij Arma 3, focus dan meer op de algemene zaken.
+Als begeleider is het jouw taak om een aspirant voor te bereiden op de eerste sessie met een intro, te begeleiden tijdens de eerste vier sessies en tijdens deze periode de basisvaardigheden aan te leren.
+Een introductie duurt ongeveer 1,5 tot 3 uur, afhankelijk van de ervaring van de aspirant. De introductie bereidt de aspirant voor op het meespelen van de eerste sessie. Als de aspirant helemaal nieuw is bij Arma 3, focus dan meer op de algemene zaken.
 Tijdens de eerste vier sessies van de aspirant wordt diegene gekoppeld aan jou als buddypaar. Je houdt de aspirant in de gaten, geeft tips waar nodig en ziet toe op het gedrag. Na vier sessies heb je een belangrijke stem of de aspirant binnen Lowtac past.
 Daarnaast plan je één of meerdere trainingen over de basisvaardigheden. Daarmee vergroot je de skills van de aspirant, zodat na vier weken de basis in orde is.
 
@@ -42,7 +42,7 @@ Vanaf een aanmelding van een gast, zorgt de staf voor de volgende acties:
         - Gemiddeld aantal spelers per week.
         - LTPD/LTOP/LTFUN/LTPC
         - Wij steken er veel tijd en energie in en verwachten jouw aanwezigheid minimaal 2x per maand, liever meer.
-3. Als het van beide kanten goed voelt en de background check is akkoord, dan wordt de gast omgezet naar aspirant (rollen toevoegen Discord, Teamspeak en database + aankondinging op Discord)
+3. Als het van beide kanten goed voelt en de background check is akkoord, dan wordt de gast omgezet naar aspirant (rollen toevoegen Discord, Teamspeak en database + aankondiging op Discord)
 4. Staf geeft achtergrondinformatie aan de begeleiders en koppelt de aspirant aan een begeleider voor de intro, basisvaardigheden training en 4 begeleide sessies.
 5. Staf verwijst naar de wiki voor het installeren van de modset en het instellen van de key-binds. Help waar nodig. Zo is de aspirant klaar voor de intro.
 
@@ -70,7 +70,7 @@ Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
         - xx 20:00 uur
         - xx 20:00 uur
 
-    Ik hoor graag je van je!
+    Ik hoor graag van je!
 
 ## Handleiding intro
 Doorloop de intro baan op Kamp Holland. Leg per station de volgende punten uit en doe de bijbehorende acties.
@@ -98,7 +98,7 @@ Doorloop de intro baan op Kamp Holland. Leg per station de volgende punten uit e
 1. Wij gebruiken enkel geforceerd first person. Dit geldt ook voor voertuigen.
 2. Onderin zie je jouw Fireteam HUD:
     - Buddyparen gebruiken dezelfde kleuren. Je kan jouw eigen kleur aanpassen via Self Interact.
-    - Je ziet compasgraden.
+    - Je ziet kompasgraden.
     - Je ziet jouw teamleden als ze in zicht zijn. Ze verdwijnen ook weer na een paar seconden (loop rond de aspirant om dit te laten zien).
     - Je kan zien wie wel/niet in een voertuig zit.
 3. Informatie rechts boven:
@@ -136,7 +136,7 @@ Doorloop met de cursist het beweegparcours.
 7. Doe een aantal testberichten op beide radio's. 
 8. Laat de aspirant kort en bondig communiceren.
 
-### Station 7 - Standaar Gear
+### Station 7 - Standaard Gear
 1. Laat de aspirant op I drukken en beschrijf hoe de inventory werkt.
 2. Leg het verschil uit tussen normale en better inventory.
 
@@ -172,7 +172,7 @@ Doorloop met de cursist het beweegparcours.
 ### Station 12 - ACE Throw
 1. Controleer of de enkele G toets niks meer doet. Voorkom dat per ongeluk granaten gegooid kunnen worden.
 2. Controleer of ACE Throwable Drop Mode is uitgeschakeld. Controls > Configure Addons > ACE Weapons > Throwable Drop Mode (Toggle).
-3. Laat de cursit een granaat pakken. Leg uit hoe de stippellijnen werken.
+3. Laat de cursist een granaat pakken. Leg uit hoe de stippellijnen werken.
 4. Laat een granaat gooien.
 5. Wissel tussen verschillende smokes/granaten.
 6. Laat een granaat 'cooken'.
@@ -182,7 +182,7 @@ Doorloop met de cursist het beweegparcours.
 10. Wissel naar het volgende station.
 
 ### Station 13 - AT-procedure
-1. Leg als de tijd het toelaat verschillende categoriën voertuigen uit: technicals, bepawende technicals, APC's, Tanks, AA en Artillerie.
+1. Leg als de tijd het toelaat verschillende categoriën voertuigen uit: technicals, bewapende technicals, APC's, Tanks, AA en Artillerie.
 2. Leg de armor waardes van voertuigen uit; voorkant sterk, zijkant/achterkant zwakker.
 3. Leg uit de schuingedraaid ook 'afketsen' kan betekenen.
 4. Leg uit wat de AT-procedure is:
