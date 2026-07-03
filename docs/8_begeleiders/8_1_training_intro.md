@@ -66,6 +66,7 @@ Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
         - xx 20:00 uur
 
     Ik hoor graag je van je!
+
 2. Meldt na het maken van een afspraak dit in het Discord kanaal: 'Begeleiders'. Hierdoor weet staf wanneer de server gebruikt wordt en kunnen anderen, waar nodig, aansluiten.
 3. Het downloaden van Mods is voor sommige recuits een lastige taak. Vraag daarom voor de introductie sessie bij de recruit of het downloaden van de mods lukt. Let op: Begeleiders kunnen gebruik maken van het kanaal ‘Begeleiding’ onder Teamspeak Backup in Discord om scherm te delen.
 4. Controleer of de modset goed is geïnstalleerd.
@@ -110,6 +111,7 @@ Doorloop de intro baan op Kamp Holland. Leg per station de volgende punten uit e
 
 ### Station 4 - Bewegen
 Doorloop met de cursist het beweegparcours.
+
 1. Liggen/tijgeren
 2. Hekken
 3. Heuvels
