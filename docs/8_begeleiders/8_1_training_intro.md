@@ -11,4 +11,4 @@ updated_by: "R.Hoods"
 ??? info
     Deze gids is bedoeld om begeleiders handvatten geven bij het eenduidig aanbieden van de basis introductie voor aspirant leden.
 
-## UNDER CONSTRUCTION
+## UNDER CONSTRUCTION 
