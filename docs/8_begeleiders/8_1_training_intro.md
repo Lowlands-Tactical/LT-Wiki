@@ -12,7 +12,7 @@ updated_by: "R.Hoods"
     Deze gids is bedoeld om begeleiders handvatten geven bij het eenduidig aanbieden van de basis introductie voor aspirant leden.
 
 !!! warning "Gebruik de intro baan op Kamp Holland"
-    Op Kamp Holland is een baan ingericht met 'stations' die correspondeert met deze handleiding. De baan en dit document zorgen voor een eenduidig verhaal. Per station staat een bord met bespreekpunten.
+    Op Kamp Holland is een baan ingericht met 'stations' die corresponderen met deze handleiding. De baan en dit document zorgen voor een eenduidig verhaal. Per station staat een bord met bespreekpunten.
 
 ## Rol van de begeleider
 Als begeleider is het jouw taak om een aspirant voor te bereiden op de eerste sessie met een intro, te begeleiden tijdens de eerste vier sessies en tijdens deze periode de basivaardigheden aan te leren.
@@ -24,6 +24,7 @@ Na vier keer meespelen kijken we samen met de aspirant of het van twee kanten go
 
 ## Voorbereiding door staf
 Vanaf een aanmelding van een gast, zorgt de staf voor de volgende acties:
+
 1. Staf ontvangt een nieuwe aanmelding van een gast en plant een kennismakingsgesprek.
 2. Staf voert een kennismakingsgesprek met de gast. Daarin worden de volgende zaken besproken:
     - Wat motiveert jou om aan te melden bij Lowtac?
@@ -47,6 +48,7 @@ Vanaf een aanmelding van een gast, zorgt de staf voor de volgende acties:
 
 ## Voorbereiding door begeleider
 Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
+
 1. Maak met de aspirant een afspraak voor de intro. Deel informatie zodat de intro sessie soepel kan verlopen. Gebruik bijvoorbeeld een soortgelijk bericht:
 
 ??? info
@@ -55,13 +57,13 @@ Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
     Welkom bij Lowlands Tactical (Lowtac). Vanuit Lowtac zal de begeleiding door mij worden opgepakt.
 
     Voordat er meegedaan kan worden met de eerste sessie, zullen de volgende zaken geregeld moeten zijn.
-    1. De vereiste Arma 3 modset geïnstalleerd. Volg hiervoor de stappen op de wiki.
-    2. Teamspeak 3 geïnstalleerd. Op de wiki staat de link naar de juiste versie.
-    3. De introductie sessie moet uitgevoerd zijn. Tijdens de intro lopen we in 1,5 tot 3 uur door alle stappen heen die nodig zijn om op vrijdag goed mee te kunnen doen. We controleren ook of alle technische dingen kloppen.
+        1. De vereiste Arma 3 modset geïnstalleerd. Volg hiervoor de stappen op de wiki.
+        2. Teamspeak 3 geïnstalleerd. Op de wiki staat de link naar de juiste versie.
+        3. De introductie sessie moet uitgevoerd zijn. Tijdens de intro lopen we in 1,5 tot 3 uur door alle stappen heen die nodig zijn om op vrijdag goed mee te kunnen doen. We controleren ook of alle technische dingen kloppen.
 
     Ik nodig je daarom graag uit voor een introductie sessie. Ik kan op:
-    - xx 20:00 uur
-    - xx 20:00 uur
+        - xx 20:00 uur
+        - xx 20:00 uur
 
     Ik hoor graag je van je!
 2. Meldt na het maken van een afspraak dit in het Discord kanaal: 'Begeleiders'. Hierdoor weet staf wanneer de server gebruikt wordt en kunnen anderen, waar nodig, aansluiten.
