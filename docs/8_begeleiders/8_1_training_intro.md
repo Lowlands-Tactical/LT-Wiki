@@ -11,4 +11,5 @@ updated_by: "R.Hoods"
 ??? info
     Deze gids is bedoeld om begeleiders handvatten geven bij het eenduidig aanbieden van de basis introductie voor aspirant leden.
 
-## UNDER CONSTRUCTION 
+!!! warning "Gebruik de intro baan op Kamp Holland"
+    Op Kamp Holland is een baan ingericht met 'stations' die correspondeert met deze handleiding. De baan en dit document zorgen voor een eenduidig verhaal. Per station staat een bord met bespreekpunten.
