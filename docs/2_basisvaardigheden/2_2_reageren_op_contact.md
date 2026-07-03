@@ -126,7 +126,7 @@ De autorifleman loopt uitgesprongen, zodat deze direct zwaar vuur kan geven bij 
 
 ![Afbeelding](img/2_2_reageren_op_contact/enkelecolonne.jpg)
 
-Een ^^**Vuurlinie / Linie**^^ wordt gebruikt om het gevecht vanaf één zijde met zoveel mogelijk gewegren tegelijkertijd aan te grijpen. Er is veel vuurkracht. Buddyparen kunnen elkaar gemakkelijk in de gaten houden en lopen naast elkaar. A1 links, A2 rechts.
+Een ^^**Vuurlinie / Linie**^^ wordt gebruikt om het gevecht vanaf één zijde met zoveel mogelijk geweren tegelijkertijd aan te grijpen. Er is veel vuurkracht. Buddyparen kunnen elkaar gemakkelijk in de gaten houden en lopen naast elkaar. A1 links, A2 rechts.
 
 ![Afbeelding](img/2_2_reageren_op_contact/vuurlinie.jpg)
 
@@ -138,7 +138,7 @@ Een ^^**speerpunt**^^ wordt gebruikt om maximale vuurkracht naar voren te concen
 
 ![Afbeelding](img/2_2_reageren_op_contact/speerpunt.jpg)
 
-Een ^^**360**^^ is een rondom beveiliging die wordt ingezet bij langdurig halthouden, het uitsteigen evan voertuigen, het verbreken van contact of re-armen. De groepscommandant stuurt van aan wie welke windrichting dekt, zodat alle kanten beveiligd zijn.
+Een ^^**360**^^ is een rondom beveiliging die wordt ingezet bij langdurig halthouden, het uitstijgen van voertuigen, het verbreken van contact of re-armen. De groepscommandant stuurt van aan wie welke windrichting dekt, zodat alle kanten beveiligd zijn.
 
 ![Afbeelding](img/2_2_reageren_op_contact/360.jpg)
 
