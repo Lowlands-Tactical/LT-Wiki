@@ -49,7 +49,12 @@ Vanaf een aanmelding van een gast, zorgt de staf voor de volgende acties:
 ## Voorbereiding door begeleider
 Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
 
-1. Maak met de aspirant een afspraak voor de intro. Deel informatie zodat de intro sessie soepel kan verlopen. Gebruik bijvoorbeeld een soortgelijk bericht:
+1. Maak met de aspirant een afspraak voor de intro. Deel informatie zodat de intro sessie soepel kan verlopen. Gebruik bijvoorbeeld een soortgelijk bericht als onder de infoknop.
+2. Meldt na het maken van een afspraak dit in het Discord kanaal: 'Begeleiders'. Hierdoor weet staf wanneer de server gebruikt wordt en kunnen anderen, waar nodig, aansluiten.
+3. Het downloaden van Mods is voor sommige recuits een lastige taak. Vraag daarom voor de introductie sessie bij de recruit of het downloaden van de mods lukt. Let op: Begeleiders kunnen gebruik maken van het kanaal ‘Begeleiding’ onder Teamspeak Backup in Discord om scherm te delen.
+4. Controleer of de modset goed is geïnstalleerd.
+5. Controleer of teamspeak goed is geïnstalleerd. Laat de ACRE2 plugin een keer aan en uitzetten.
+6. Nodig de aspirant uit op de server. Verwijs waar nodig naar de inloggegevens van de server uit de helpdesk FAQ op Discord.
 
 ??? info
     Hoi,
@@ -66,12 +71,6 @@ Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
         - xx 20:00 uur
 
     Ik hoor graag je van je!
-
-2. Meldt na het maken van een afspraak dit in het Discord kanaal: 'Begeleiders'. Hierdoor weet staf wanneer de server gebruikt wordt en kunnen anderen, waar nodig, aansluiten.
-3. Het downloaden van Mods is voor sommige recuits een lastige taak. Vraag daarom voor de introductie sessie bij de recruit of het downloaden van de mods lukt. Let op: Begeleiders kunnen gebruik maken van het kanaal ‘Begeleiding’ onder Teamspeak Backup in Discord om scherm te delen.
-4. Controleer of de modset goed is geïnstalleerd.
-5. Controleer of teamspeak goed is geïnstalleerd. Laat de ACRE2 plugin een keer aan en uitzetten.
-6. Nodig de aspirant uit op de server. Verwijs waar nodig naar de inloggegevens van de server uit de helpdesk FAQ op Discord.
 
 ## Handleiding intro
 Doorloop de intro baan op Kamp Holland. Leg per station de volgende punten uit en doe de bijbehorende acties.
