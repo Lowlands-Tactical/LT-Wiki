@@ -14,7 +14,7 @@ updated_by: "R.Hoods"
 !!! warning "Gebruik de intro baan op Kamp Holland"
     Op Kamp Holland is een baan ingericht met 'stations' die corresponderen met deze handleiding. De baan en dit document zorgen voor een eenduidig verhaal. Per station staat een bord met bespreekpunten.
 
-## Rol van de begeleider
+## Rol van de begeleider 
 Als begeleider is het jouw taak om een aspirant voor te bereiden op de eerste sessie met een intro, te begeleiden tijdens de eerste vier sessies en tijdens deze periode de basivaardigheden aan te leren.
 Een introductie duurt ongeveer 1,5 tot 3 uur, afhankelijk van de ervaring van de aspirant. De introductie bereid de aspirant voor op het meespelen van de eerste sessie. Als de aspirant helemaal nieuw in bij Arma 3, focus dan meer op de algemene zaken.
 Tijdens de eerste vier sessies van de aspirant wordt diegene gekoppeld aan jou als buddypaar. Je houdt de aspirant in de gaten, geeft tips waar nodig en ziet toe op het gedrag. Na vier sessies heb je een belangrijke stem of de aspirant binnen Lowtac past.
