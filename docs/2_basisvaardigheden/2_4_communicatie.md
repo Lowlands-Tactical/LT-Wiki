@@ -154,14 +154,19 @@ De PC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updat
 !!! quote "Bijvoorbeeld"
 
     Alpha 1 voor Alpha 2, AMCAS, OVER 
+
     Alpha 2, WACHT UIT 
+
     Alpha 2 vraagt op direct voice: 'Alpha 2, als ik je naam noem roep je jouw AMCAS uit' 
         - Speler 1: geel
         - Speler 2: geel, AT rood
         - Speler 3: groen, medical groen
         - Speler 4: rood, demo groen, licht gewond
+
     Alpha 2 voor Alpha 1, OVER
+    
     Alpha 1 voor Alpha 2, GEEF BERICHT
+
     Alpha 2 voor Alpha 1, AMCAS geel, AT rood, 1 licht gewond, UIT
 
 ## 2nd in een team 
