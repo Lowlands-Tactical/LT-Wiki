@@ -152,6 +152,7 @@ De PC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updat
     
 
 !!! quote "Bijvoorbeeld"
+
     Alpha 1 voor Alpha 2, AMCAS, OVER
     Alpha 2, WACHT UIT
     Alpha 2 vraagt op direct voice: 'Alpha 2, als ik je naam noem roep je jouw AMCAS uit'
