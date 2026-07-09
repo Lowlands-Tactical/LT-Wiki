@@ -126,7 +126,7 @@ Benoem de richting van de vijand, de afstand tot de vijand en wat de vijand is. 
 !!! quote "Schoten noord, dreiging onbekend!"
 
 ## SITREP en AMCAS 
-De PC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updates vragen aan de GC van een team. Het is aan de GC of een ander met long-range om hier kort en bondig op te reageren. Hieronder het verschil tussen SITREP en AMCAS en hoe je reageert. 
+De PC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updates vragen aan de GC van een team. Het is aan de GC of een ander met long-range om hier kort en bondig op te reageren. De GC zal op direct voice zoveel mogelijk informatie opvragen bij de vuurteamleden.  Het is aan de vuurteamleden om de gevraagde informatie te delen met de GC/VTL. Als het team gesplitst is, dan zal de VTL de informatie van Alpha 2 aanleveren aan de GC.
 
 !!! info "SITREP: Situation Report – Een beknopte samenvatting van de huidige stand van zaken."
     - Wat is er gebeurd? 
@@ -135,27 +135,33 @@ De PC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updat
     - Welke uitdagingen zijn er en welke beslissingen zijn nodig?
 
 !!! quote "Bijvoorbeeld"
-    Romeo voor Alpha, SITREP, OVER  
+    Alpha 1 voor Alpha 2, SITREP, OVER  
 
-    Hier Alpha; In contact, gebouw ingenomen noordoost zijde locatie zie kaart, .50 dreiging westen locatie onbekend, pinned down. OVER 
+    Hier Alpha 2; In contact, andere zijde gebouw, .50 dreiging west locatie onbekend, pinned down. OVER 
 
-    Hier Romeo, good copy, ik stuur IFV erop af, UIT
+    Hier Alpha 1, good copy, ondersteuning onderweg, UIT
 
 !!! info "AMCAS: Ammunition en Casualties – Een korte update over aantallen munitie en gewonden."
-    - Benoem het aantal gewonden 
     - Benoem de ammo count van het team 
-    * Ammo groen: 100 – 75 % munitie over 
-    * Ammo geel: 75 – 50 % munitie over 
-    * Ammo rood: 50 – 25 % munitie over 
-    * Ammo zwart: 25 – 0 % munitie over 
+        * Ammo groen: 100 – 75 % munitie over 
+        * Ammo geel: 75 – 50 % munitie over 
+        * Ammo rood: 50 – 25 % munitie over 
+        * Ammo zwart: 25 – 0 % munitie over 
     - Benoem speciale munitie apart waar nodig. Denk aan AT buizen, demo blocks of bloedzakken.
+    - Benoem het aantal gewonden 
+    
 
 !!! quote "Bijvoorbeeld"
-    Romeo voor Alpha, AMCAS, OVER 
-
-    Hier Alpha; 2 gewonden, medic is neer, ammo is geel, AT is zwart. OVER 
-
-    Hier Romeo, dankjewel, resupply beschikbaar op RP-kilo, UIT.
+    Alpha 1 voor Alpha 2, AMCAS, OVER
+    Alpha 2, WACHT UIT
+    Alpha 2 vraagt op direct voice: 'Alpha 2, als ik je naam noem roep je jouw AMCAS uit'
+        Speler 1: geel
+        Speler 2: geel, AT rood
+        Speler 3: groen, medical groen
+        Speler 4: rood, demo groen, licht gewond
+    Alpha 2 voor Alpha 1, OVER
+    Alpha 1 voor Alpha 2, GEEF BERICHT
+    Alpha 2 voor Alpha 1, AMCAS geel, AT rood, 1 licht gewond, UIT
 
 ## 2nd in een team 
 Per team wordt een 2nd aangesteld door de GC, de vuurteamleider (VTL). De vuurteamleider kan een deel van de groep sturing geven. De vuurteamleider wordt gezien als opstap naar de groepscommandant. Diegene krijgt (wanneer mogelijk) een long-range radio en is verantwoordelijk voor het team en de communicatie op long-range wanneer de GC neer gaat. Wanneer dit gebeurt roep je dit gelijk over radio, zodat andere teams en de PC weet wat er speelt. 
