@@ -3,8 +3,8 @@ layout: doc
 title: 8.1. Intro
 author: "R.Hoods"
 date_created: "03-07-2026"
-date_updated: "03-07-2026"
-updated_by: "R.Hoods"
+date_updated: "09-07-2026"
+updated_by: "DM en R.Hoods"
 ---
 # 8.1. Intro Begeleiders
 
