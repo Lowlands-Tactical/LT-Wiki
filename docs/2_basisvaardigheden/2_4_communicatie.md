@@ -158,10 +158,11 @@ De PC wil een goede helikopterview en SA houden. Diegene zal met regelmaat updat
     Alpha 2, WACHT UIT 
 
     Alpha 2 vraagt op direct voice: 'Alpha 2, als ik je naam noem roep je jouw AMCAS uit' 
-        - Speler 1: geel
-        - Speler 2: geel, AT rood
-        - Speler 3: groen, medical groen
-        - Speler 4: rood, demo groen, licht gewond
+    
+    - Speler 1: geel
+    - Speler 2: geel, AT rood
+    - Speler 3: groen, medical groen
+    - Speler 4: rood, demo groen, licht gewond
 
     Alpha 2 voor Alpha 1, OVER
     
