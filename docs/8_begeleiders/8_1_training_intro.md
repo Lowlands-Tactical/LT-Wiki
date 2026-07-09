@@ -142,12 +142,11 @@ Doorloop met de cursist het beweegparcours.
 4. Laat de mogelijkheden van de short- en longrange radio zien; volume, kanalen en blocks.
 5. Leg uit dat de verschillende PTT knoppen aangepast kunnen worden.
 6. Laat de longrange op linkeroor en shortrange op rechteroor zetten. 
-7. Doe een aantal testberichten op beide radio's. 
+7. Doe een aantal testberichten op de short-range. 
 8. Laat de aspirant kort en bondig communiceren.
 
 ### Station 7 - Standaard Gear
 1. Laat de aspirant op I drukken en beschrijf hoe de inventory werkt.
-2. Leg het verschil uit tussen normale en better inventory.
 
 ### Station 8 - Kaart gebruiken
 1. Laat de kaart openen.
@@ -161,11 +160,12 @@ Doorloop met de cursist het beweegparcours.
 4. Laat de cursist een route intekenen naar station 10 (Medic post).
 5. Beschrijf met welke knoppen je moet rijden.
 6. Laat de speed limiter en cruise control gebruiken met insert en delete.
+7. Leg uit wat tussenafstanden zijn en hoe je versprongen rijdt.
 
 ### Station 10 - ACE Medical
 1. Laat wat patiënten inspawnen via de laptop.
 2. Laat met H en met ACE interact het Medical Menu openen.
-3. Doorloop alle stappen uit de training 2.6. Basis EHBO.
+3. Doorloop alle stappen uit de training [2.6. Basis EHBO](https://lowlands-tactical.github.io/LT-Wiki/2_basisvaardigheden/2_6_basis_ehbo/).
 4. Rijd door naar het volgende station.
 
 ### Station 11 - Wapenbasis
