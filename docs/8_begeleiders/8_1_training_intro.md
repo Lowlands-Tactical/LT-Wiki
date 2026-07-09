@@ -115,7 +115,7 @@ Doorloop de intro baan op Kamp Holland. Leg per station de volgende punten uit e
     - Munitiesoort en aantal magazijnen
     - Vuurmodussen
     - Range
-4. Neem de ALIVE view settings door. Let op view distance in voertuigen (heli's).
+4. Leg de ALIVE view settings uit. Vertel dat dit belangrijk wordt als je met grote afstanden gaat werken (zoals in een heli).
 
 ### Station 4 - Bewegen
 Doorloop met de cursist het beweegparcours.
@@ -129,7 +129,7 @@ Doorloop met de cursist het beweegparcours.
 7. Verplaatsingssnelheden (wapen neer en combat pace)
 8. Leunen en schiethoogtes
 
-### Station 5 - ACE interact, Self Interact en Scroll Menu
+### Station 5 - Scroll Menu, ACE interact en Self Interact en Scroll Menu
 1. Leg uit wat het verschil is tussen ACE interact en het scroll menu.
 2. Laat zien welke mogelijkheden er zitten in het Self Interact menu.
 3. Laat op jou interacten.
@@ -191,18 +191,15 @@ Doorloop met de cursist het beweegparcours.
 10. Wissel naar het volgende station.
 
 ### Station 13 - AT-procedure
-1. Leg als de tijd het toelaat verschillende categoriën voertuigen uit: technicals, bewapende technicals, APC's, Tanks, AA en Artillerie.
-2. Leg de armor waardes van voertuigen uit; voorkant sterk, zijkant/achterkant zwakker.
-3. Leg uit de schuingedraaid ook 'afketsen' kan betekenen.
-4. Leg uit wat de AT-procedure is:
+1. Leg als de tijd het toelaat de basis van de verschillende voertuigcategoriën uit: technicals, bewapende technicals, APC's, Tanks, AA en Artillerie.
+2. Leg uit wat de AT-procedure is:
     - De GC/PC roept ‘AT gereedmaken!’.
     - De AT’er pakt zijn AT-buis (niet BINO!) en roept ‘AT gereed’ als dit is gedaan.
-    - De AT’er switcht naar FLTR, zoomt waar nodig en switcht waar nodig de fire mode.
-    - De AT’er richt en locked op het doel.
+    - De AT’er richt op het doel.
     - De AT’er roept ‘Clear backblast’, om er zeker van te zijn te kunnen schieten.
     - De GC/PC roept ‘Backblast clear’, wanneer er veilig geschoten kan worden.
     - De AT’er vuurt op doel.
-5. Laat de cursist ervaren wat het is om backblast te ontvangen.
+3. Laat de cursist ervaren wat het is om backblast te ontvangen.
 
 ### Station 14 - Vragen?
 1. Leg uit dat de intro erop zit.
