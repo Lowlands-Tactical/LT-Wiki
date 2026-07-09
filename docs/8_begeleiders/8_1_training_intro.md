@@ -84,6 +84,8 @@ Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
 ## Handleiding intro
 Doorloop de intro baan op Kamp Holland. Leg per station de volgende punten uit en doe de bijbehorende acties.
 
+Controleer of de aspirant de toetsinstellingen goed heeft overgenomen van [1.3. Toetsinstellingen](https://lowlands-tactical.github.io/LT-Wiki/1_algemene_informatie/1_3_toetsinstellingen/)
+
 ### Station 1 - Uitleg regels
 1. Minimaal 2 van de 4 vrijdagen per maand aanwezig. Wij steken er ook veel tijd in.
 2. Luisteren naar de orders van de PC, GC en VTL en doe je best deze uit te voeren.
