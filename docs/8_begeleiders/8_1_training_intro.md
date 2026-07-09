@@ -63,21 +63,21 @@ Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
 
     Voordat er meegedaan kan worden met de eerste sessie, zullen de volgende zaken geregeld moeten zijn.
 
-        1. De vereiste Arma 3 modset geïnstalleerd. Volg hiervoor de stappen op de wiki.
-        2. Teamspeak 3 geïnstalleerd. Op de wiki staat de link naar de juiste versie.
-        3. De introductie sessie moet uitgevoerd zijn. Tijdens de intro lopen we in 1,5 tot 3 uur door alle stappen heen die nodig zijn om op vrijdag goed mee te kunnen doen. We controleren ook of alle technische dingen kloppen.
+    1. De vereiste Arma 3 modset geïnstalleerd. Volg hiervoor de stappen op de wiki.
+    2. Teamspeak 3 geïnstalleerd. Op de wiki staat de link naar de juiste versie.
+    3. De introductie sessie moet uitgevoerd zijn. Tijdens de intro lopen we in 1,5 tot 3 uur door alle stappen heen die nodig zijn om op vrijdag goed mee te kunnen doen. We controleren ook of alle technische dingen kloppen.
 
     Ik nodig je daarom graag uit voor een introductie sessie. Ik kan op:
 
-        - xx 20:00 uur
-        - xx 20:00 uur
+    - xx 20:00 uur
+    - xx 20:00 uur
 
     Mocht je heel nieuw zijn met Arma, dan raad ik je aan de volgende Arma 3 tutorials te doorlopen:
 
-        1. Tutorials > BOOTCAMP
-        2. Tutorials > VR TRAINING > Weapon Handling 1
-        3. Tutorials > VR TRAINING > Weapon Handling 2
-        4. Totorials > VR TRAINING > Launchers
+    1. Tutorials > BOOTCAMP
+    2. Tutorials > VR TRAINING > Weapon Handling 1
+    3. Tutorials > VR TRAINING > Weapon Handling 2
+    4. Totorials > VR TRAINING > Launchers
 
     Ik hoor graag van je!
 
