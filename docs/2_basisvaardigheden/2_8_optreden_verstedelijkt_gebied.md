@@ -23,7 +23,7 @@ In de stad gelden andere regels voor verplaatsing dan in het open veld.
 - ^^**Snelheid en Verrassing**^^: Handel snel om het initiatief te behouden en vermijd voorspelbare routes en patronen.
 - ^^**Gebruik van dekking en verplaatsing**^^: Beweeg van dekking naar dekking en vermijd open terreinen. Gebruik rook of vuurdekking zodra de dreiging hoog is.
 - ^^**Communicatie**^^: Gebruik heldere en eenvoudige communicatie, gebruik bij voorkeur voice chat en waar nodig je radio. Prio meldingen zoals voertuigen, Fixed of Rotary wing en gewonden moeten altijd over de radio gemeld worden, zodat iedereen binnen het team dit weet.
-- ^^**Samenwerking**^^: Voorwaarts met je buddy is leuk maar denk als commandant ook aan het inzetten van eventuele EOD, medische ondersteuning, buursteun of logistiek.
+- ^^**Samenwerking**^^: Voorwaarts met je buddy is leuk maar denk als commandant ook aan het inzetten van eventuele EOD, medische ondersteuning, vuursteun of logistiek.
 - ^^**Beheersen van sleutelterrein**^^: Controleer kruispunten, bruggen, hoge gebouwen en toegangswegen. Dominantie over deze locaties vergroot de bewegingsvrijheid.
 - ^^**Zuiveren en doorzoeken**^^: Gebouwen systematisch benaderen, binnengaan en doorzoeken. Voorkom dat ruimtes opnieuw onbeveiligd raken en de vijand je kan verrassen zodra je het gebouw wilt verlaten.
 - ^^**Bescherming van burgers**^^: Houd rekening met aanwezigheid van burgers, beperk nevenschade en volg de geldende geweldsinstructies.
@@ -36,7 +36,7 @@ Bij lagere dreiging kan ervoor gekozen worden om over de wegen te verplaatsen. D
 - Maak bij voorkeur gebruik van de dubbele colonne waar de spelers i.p.v. naar buiten te kijken kruislinks over elkaar heen kijken. Dit omdat je vanaf de overkant van de straat makkelijker de hogere verdiepingen in de gaten kunt houden. De voorste 2 personen houden waarneming in front en dekken eventuele zijstraten af.
 - Zodra de dreiging omhoog gaat kan er voor gekozen worden om tussen de huizen door te verplaatsen om de zichtbaarheid te beperken. Eventuele eigen voertuigen zullen dan zonder dekking van uitgestegen eenheden moeten verplaatsen aangezien deze vaak niet door smalle straatjes kunnen en bij het langzaam verplaatsen al hun tactische voordeel verliezen (snelheid, wendbaarheid en wapensystemen).
 
-## Bochten/zijstraten pieken 
+## Bochten/zijstraten peaken 
 Ren nooit blindelings een hoek om of voorbij. Gebruik de techniek die ook wel "Slicing the Pie" of "Popping" wordt genoemd:
 
 ^^**Slicing the Pie**^^: 
