@@ -31,20 +31,21 @@ Vanaf een aanmelding van een gast, zorgt de staf voor de volgende acties:
     - Vertel wat over jezelf?
     - Hoe oud ben je?
     - Heb je een goed werkende headset en geen achtergrondgeluiden?
-    - Beschik je over een legale versie van Arma 3 en heb je de DLC's?
+    - Beschik je over een legale versie van Arma 3 en heb je de DLC's: APEX, Contact, Western Sahara en Global Mobilization?
     - Heb je ervaring met Arma 3 en/of andere clans/communities?
     - Wat zijn jouw verwachtingen? Wat bieden wij en wat zijn de verwachtingen van Lowtac:
         - Allemaal 18+.
-        - Wekelijkse Arma 3 sessie op vrijdag van 20.00 - 23.00 uur. 19.30 uur inloop.
+        - Wekelijkse Arma 3 sessie op vrijdag van 20.00 - 23.00 uur. 19.30 uur inloop + doordeweekse sessie waar mogelijk.
         - Huisgemaakte missies.
         - Geen MILSIM, wel serious fun. Duidelijke organisatiestructuur, ORBAT, NAF, trainingsvinkjes.
         - Slot enkel waar je de skills voor hebt.
         - Gemiddeld aantal spelers per week.
         - LTPD/LTOP/LTFUN/LTPC
         - Wij steken er veel tijd en energie in en verwachten jouw aanwezigheid minimaal 2x per maand, liever meer.
-3. Als het van beide kanten goed voelt en de background check is akkoord, dan wordt de gast omgezet naar aspirant (rollen toevoegen Discord, Teamspeak en database + aankondiging op Discord)
-4. Staf geeft achtergrondinformatie aan de begeleiders en koppelt de aspirant aan een begeleider voor de intro, basisvaardigheden training en 4 begeleide sessies.
-5. Staf verwijst naar de wiki voor het installeren van de modset en het instellen van de key-binds. Help waar nodig. Zo is de aspirant klaar voor de intro.
+3. Toets of er een volwassen houding is en of de headset goed werkt.
+4. Als het van beide kanten goed voelt en de background check is akkoord, dan wordt de gast omgezet naar aspirant (rollen toevoegen Discord, Teamspeak en database + aankondiging op Discord)
+5. Staf geeft achtergrondinformatie aan de begeleiders en koppelt de aspirant aan een begeleider voor de intro, basisvaardigheden training en 4 begeleide sessies.
+6. Staf verwijst naar de wiki voor het installeren van de modset en het instellen van de key-binds. Help waar nodig. Zo is de aspirant klaar voor de intro.
 
 ## Voorbereiding door begeleider
 Als de staf de eerste stappen heeft gedaan, dan neemt de begeleider het over:
