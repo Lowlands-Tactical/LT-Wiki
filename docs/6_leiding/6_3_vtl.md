@@ -3,7 +3,7 @@ layout: doc
 title: 6.3. Vuurteamleider
 author: "R.Hoods"
 date_created: "12-10-2025"
-date_updated: "05-04-2026"
+date_updated: "03-10-2026"
 updated_by: "R.Hoods"
 ---
 # 6.3. Vuurteamleider
@@ -73,16 +73,17 @@ Als Vuurteamleider ben je deels verantwoordelijk voor het speelplezier van een v
 ## Positie binnen een vuurteam
 Als Vuurteamleider heb je de volgende positie binnen een vuurteam. In het onderstaande voorbeeld is 'Alpha' gebruikt:
 
-**Team Alpha**
-A1: Groepscommandant (Lead)
-A1: Autorifleman
-A1: Grenadier
-A1: Medic
+__Team Alpha__
 
-**A2: Vuurteamleider (2IC)**
-A2: Autorifleman
-A2: Anti-tank
-A2: Medic
+- [ ] A1: Groepscommandant (Lead)
+- [ ] A1: Autorifleman
+- [ ] A1: Grenadier
+- [ ] A1: Medic
+- 
+- [x] A2: Vuurteamleider (2IC)
+- [ ] A2: Autorifleman
+- [ ] A2: Anti-tank
+- [ ] A2: Medic
 
 ## De rol van de Vuurteamleider (VTL)
 De Vuurteamleider is de 2IC van een vuurteam, na de Groepscommandant. Samen geef je leiding aan een vuurteam zoals Alpha of Bravo. De Groepscommandant vertaalt de (aanvals)plannen van de Peletonscommandant naar directe acties in de praktijk en is de communicatielijn naar de PC en andere eenheden. De Vuurteamleider heeft hierin een ondersteunende rol. Als de Groepscommandant neer gaat, neem je de leiding over het vuurteam over. Ook stel je de PC in kennis. Ook kun je de leiding krijgen over een sub-team als het vuurteam uit elkaar moet opereren.
