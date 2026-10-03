@@ -39,4 +39,11 @@ Leiderschapsrollen binnen Lowlands Tactical — van vuurteamleider tot pelotonsc
 
     [:octicons-arrow-right-24: Lees meer](6_4_ms.md)
 
+-   :material-map-marker: **Alive Combat Support**
+
+    ---
+
+    Ondersteuningstablet via AI — handleiding voor leidinggevende rollen.
+
+    [:octicons-arrow-right-24: Lees meer](6_5_acs.md)
 </div>
