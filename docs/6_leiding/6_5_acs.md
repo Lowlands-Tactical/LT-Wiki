@@ -22,11 +22,11 @@ Allereerst open je de tablet via ACE self-interact. Kies voor Alive en daarna Co
 
 ![Map Marker Setter toevoegen](img/6_5_acs/aliveselect.png)
 
-Je krijgt nu het volgende menu te zien. Hier kune je een keuze maken tussen de beschikbare support units en de tablet weer sluiten via 'Close'. 
+Je krijgt nu het volgende menu te zien. Hier kun je een keuze maken tussen de beschikbare support units en de tablet weer sluiten via 'Close'. 
 
 ![Map Marker Setter toevoegen](img/6_5_acs/alivemenu.png)
 
-### Transport Helikopters
+## Transport Helikopters
 
 1. Kies de unit die je wil inzetten.
 2. Selecteer een locatie op de kaart in het rechter venster.
@@ -43,7 +43,7 @@ Je krijgt nu het volgende menu te zien. Hier kune je een keuze maken tussen de b
 
 ![Map Marker Setter toevoegen](img/6_5_acs/alivetransport.png)
 
-### Close Air Support (CAS) Helikopter
+## Close Air Support (CAS) Helikopter
 
 1. Kies de unit die je wil inzetten.
 2. Selecteer een locatie op de kaart in het rechter venster.
@@ -56,7 +56,7 @@ Je krijgt nu het volgende menu te zien. Hier kune je een keuze maken tussen de b
 
 ![Map Marker Setter toevoegen](img/6_5_acs/alivecas.png)
 
-### Artillerie
+## Artillerie
 
 1. Kies de unit die je wil inzetten.
 2. Selecteer een locatie op de kaart in het rechter venster. *Let op!* Binnen de groene cirkel kun je NIET vuren, omdat dit te dichtbij het vuurplatform is.
