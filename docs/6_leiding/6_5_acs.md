@@ -48,9 +48,9 @@ Je krijgt nu het volgende menu te zien. Hier kun je een keuze maken tussen de be
 1. Kies de unit die je wil inzetten.
 2. Selecteer een locatie op de kaart in het rechter venster.
 3. Selecteer de taak:
-    - SAD
-    - Loiter
-    - Attack Run
+    - SAD - (Unit vliegt naar locatie en zal alle gemarkeerde doelen gaan aangrijpen)
+    - Loiter - (Unit vliegt naar locatie en zal daar rondvliegen zonder doelen aan te grijpen)
+    - Attack Run - (Unit vliegt naar locatie en zal bekende doelen aangrijpen met het geselecteerde wapensysteem)
 4. Vul de opdracht-specifieke gegevens in.
 5. Druk op "Confirm".
 
