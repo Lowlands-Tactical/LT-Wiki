@@ -87,6 +87,7 @@ Uiteraard kun je ook de coördinaten van een doel uitroepen of het doel markeren
 
 ### Vuurmissies of ondersteuning aanvragen
 Als je een vuurmissie of ondersteuning aanvraagt, doe je dit met korte en duidelijke communicatie volgens een aantal punten:
+
 1.  Gebruik callsigns
 
 2.  Beschrijf de opdracht, het doel en/of de locatie(s)
