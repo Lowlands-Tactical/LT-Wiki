@@ -31,8 +31,8 @@ De aspirantenfase is een begeleid traject om jou zo goed mogelijk op weg te help
     * Als aspirant wordt je gekoppeld aan een begeleider die minimaal 4 weken aan je gekoppeld is.
     * De begeleider helpt bij het installeren van de modset en de key-bindings.
     * De begeleider geeft je een intro, waarin je de basis leert om mee te kunnen spelen. Dit is vereist vóór de eerste keer meespelen.
-    * De begeleider geeft je een training over de basisvaardigheden.
     * De begeleider wordt jouw buddy tijdens de sessies, zodat je vragen kunt stellen en geholpen kan worden waar nodig.
+    * De begeleider geeft je tijdens de aspirantenfase training(en) over de basisvaardigheden. Zo heb je goede basisskills zodra je Arma 3 lid wordt.
     * Na min. 4 sessies meespelen kijken we of het wederzijds klikt en of je volledig Arma 3 lid wil worden.
     * Hierna kun je trainingen volgen om specifieke rollen te mogen slotten.
 
