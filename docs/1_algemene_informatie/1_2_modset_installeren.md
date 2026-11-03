@@ -24,7 +24,7 @@ Voor je begint:
 
 - Plan tijd in, de modset is ± 58 GB.
 - Zorg dat je deze software hebt geïnstalleerd:
-  - [TeamSpeak (64-bit)](https://www.teamspeak.com/en/downloads/#ts3client)
+  - [TeamSpeak (64-bit)](https://www.teamspeak.com/en/downloads/?product=ts3#ts3client)
   - [Java (laatste versie)](https://java.com/getjava)
   - [Arma3Sync 1.7.107](https://arma3sync.lowtac.nl/Wiki/arma3sync-installer-1-7-107.exe)
 
