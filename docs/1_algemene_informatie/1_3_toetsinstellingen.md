@@ -3,7 +3,7 @@ layout: doc
 title: 1.3. Toetsinstellingen
 author: "Pek en R. Hoods"
 date_created: "26-08-2025"
-date_updated: "05-04-2026"
+date_updated: "11-11-2026"
 updated_by: "R.Hoods"
 ---
 # 1.3. Toetsinstellingen
@@ -16,6 +16,27 @@ Een aantal keybinds moet gecontroleerd worden, een aantal gebind en een aantal v
 
 Het heeft de voorkeur dat je op Teamspeak "Voice Activity Detection" gebruikt. Dit voorkomt extra ingewikkelde keybinds. Wanneer je teveel storend geluid op de achtergrond hebt, zul je Push-To-Talk moeten gebruiken (om niet onnodig vijanden te pullen).
 In Teamspeak zijn deze instellingen te vinden onder Tools > Options > Capture > Activation. Als je Push-To-Talk gebruikt, bind deze dan op Caps Lock.
+
+### Infantery Movement
+
+| Functie           | Standaardtoets           | Instellocatie                                                                      |
+|-------------------|--------------------------|------------------------------------------------------------------------------------|
+| Basis bewegingen  | W + A + S + D            | ESC > Configure > Controls > Infantery Movement > F/B/L/R                          |
+| Sprint            | Left Shift               | ESC > Configure > Controls > Infantery Movement > Sprint                           |
+| Combat Pace       | 2x C                     | ESC > Configure > Controls > Infantery Movement > Combat Pace Toggle               |
+| Walk              | Left Ctrl + C            | ESC > Configure > Controls > Infantery Movement > Walk/Run (Toggle)                |
+| Crouch            | X                        | ESC > Configure > Controls > Infantery Movement > Crouch/Stand Up                  |
+| Prone             | Z                        | ESC > Configure > Controls > Infantery Movement > Prone/Stand Up                   |
+| Step over         | V                        | ESC > Configure > Controls > Infantery Movement > Step over                        |
+| Lean (Left/Right) | Q / E                    | ESC > Configure > Controls > Infantery Movement > Lean Left / Right                |
+| Adjust Stance     | Left Ctrl + W/S/A/D      | ESC > Configure > Controls > Infantery Movement > Adjust Stance Up/Down/Left/Right |
+
+### Enhanced Movement
+
+| Functie                | Standaardtoets    | Instellocatie                                                                               |
+|------------------------|-------------------|---------------------------------------------------------------------------------------------|
+| Klimmen / springen     | Ctrl + V          | ESC > Configure > Controls > Custom Controls > Use Action 1 (kan ook een ander nummer zijn) |
+
 
 ### ACE Interacties
 
@@ -46,25 +67,28 @@ In Teamspeak zijn deze instellingen te vinden onder Tools > Options > Capture > 
 | Binoculars    | B                        | ESC > Configure > Controls > Common > Binoculars                    |
 | Panels        | [ en ]                   | ESC > Configure > Controls > Common > Left/Right Panel Next         |
 
-### Infantery Movement
+### Map Tekenen
 
-| Functie           | Standaardtoets           | Instellocatie                                                                      |
-|-------------------|--------------------------|------------------------------------------------------------------------------------|
-| Basis bewegingen  | W + A + S + D            | ESC > Configure > Controls > Infantery Movement > F/B/L/R                          |
-| Sprint            | Left Shift               | ESC > Configure > Controls > Infantery Movement > Sprint                           |
-| Combat Pace       | 2x C                     | ESC > Configure > Controls > Infantery Movement > Combat Pace Toggle               |
-| Walk              | Left Ctrl + C            | ESC > Configure > Controls > Infantery Movement > Walk/Run (Toggle)                |
-| Crouch            | X                        | ESC > Configure > Controls > Infantery Movement > Crouch/Stand Up                  |
-| Prone             | Z                        | ESC > Configure > Controls > Infantery Movement > Prone/Stand Up                   |
-| Step over         | V                        | ESC > Configure > Controls > Infantery Movement > Step over                        |
-| Lean (Left/Right) | Q / E                    | ESC > Configure > Controls > Infantery Movement > Lean Left / Right                |
-| Adjust Stance     | Left Ctrl + W/S/A/D      | ESC > Configure > Controls > Infantery Movement > Adjust Stance Up/Down/Left/Right |
+| Functie              | Standaardtoets                           | Instellocatie                             |
+|----------------------|------------------------------------------|-------------------------------------------|
+| Map openen           | M                                        | ESC > Configure > Controls > Common > Map |
+| Point                | Left Mouse Btn.                          | n.v.t.                                    |
+| Draw - Line          | Left Ctrl + Left Mouse Btn.              | n.v.t.                                    |
+| Draw - Straight Line | Left Ctrl + Left Shift + Left Mouse Btn. | n.v.t.                                    |
+| Place Map Markers    | 2x Left Mouse Btn.                       | n.v.t.                                    |
 
-### Enhanced Movement
+### Pointen (wijzen)
 
-| Functie                | Standaardtoets    | Instellocatie                                                                               |
-|------------------------|-------------------|---------------------------------------------------------------------------------------------|
-| Klimmen / springen     | Ctrl + V          | ESC > Configure > Controls > Custom Controls > Use Action 1 (kan ook een ander nummer zijn) |
+| Functie                | Standaardtoets | Instellocatie                                                                           |
+|------------------------|----------------|-----------------------------------------------------------------------------------------|
+| Richtpunt aanwijzen    | Shift + `      | ESC > Configure > Controls > Configure Addons > ACE Common > Action "point a finger at" |
+
+### ACE Medical
+
+| Functie              | Standaardtoets           | Instellocatie                                                                  |
+|----------------------|--------------------------|--------------------------------------------------------------------------------| 
+| Last Help            | Verwijderen! Leeg laten  | ESC > Configure > Controls > Common > Last Help                                |
+| Medisch menu openen  | H / Self-Interact        | ESC > Configure > Controls > Configure Addons > ACE COMMON > Open Medical Menu |
 
 ### Weapons
 
@@ -85,27 +109,23 @@ In Teamspeak zijn deze instellingen te vinden onder Tools > Options > Capture > 
 | Verander item (rook, granaat)  | Ctrl + G                | ESC > Configure > Controls > Weapons > Cycle Throw Items                                   |
 | ACE Gooien (nauwkeurig)        | Shift + G               | ESC > Configure > Controls > Configure Addons > ACE Weapons > Prepare/Change Throwable     |
 
-### Pointen (wijzen)
+### Melee
 
-| Functie                | Standaardtoets | Instellocatie                                                                           |
-|------------------------|----------------|-----------------------------------------------------------------------------------------|
-| Richtpunt aanwijzen    | Shift + `      | ESC > Configure > Controls > Configure Addons > ACE Common > Action "point a finger at" |
+| Functie                        | Standaardtoets            | Instellocatie                                                                                         |
+|--------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------|
+| Melee slag                     | Ctrl + F / eigen voorkeur | ESC > Configure > Controls > Configure Addons > WebKnight's Melee > Leg kick/Buttstock/Bayonet charge |
+| Stealth kill                   | Ctrl + 7 / eigen voorkeur | ESC > Configure > Controls > Configure Addons > WebKnight's Melee > Stealth kill                      |
+| Dodge                          | Eigen voorkeur            | ESC > Configure > Controls > Configure Addons > WebKnight's Melee > Dodge                             |
 
-### ACE Medical
+### S7 Android GPS functies
 
-| Functie              | Standaardtoets           | Instellocatie                                                                  |
-|----------------------|--------------------------|--------------------------------------------------------------------------------| 
-| Last Help            | Verwijderen! Leeg laten  | ESC > Configure > Controls > Common > Last Help                                |
-| Medisch menu openen  | H / Self-Interact        | ESC > Configure > Controls > Configure Addons > ACE COMMON > Open Medical Menu |
-
-### Map Tekenen
-
-| Functie              | Standaardtoets                           | Instellocatie                             |
-|----------------------|------------------------------------------|-------------------------------------------|
-| Map openen           | M                                        | ESC > Configure > Controls > Common > Map |
-| Point                | Left Mouse Btn.                          | n.v.t.                                    |
-| Draw - Line          | Left Ctrl + Left Mouse Btn.              | n.v.t.                                    |
-| Draw - Straight Line | Left Ctrl + Left Shift + Left Mouse Btn. | n.v.t.                                    |
-| Place Map Markers    | 2x Left Mouse Btn.                       | n.v.t.                                    |
+| Functie                        | Standaardtoets          | Instellocatie                                                                              |
+|--------------------------------|-------------------------|--------------------------------------------------------------------------------------------|
+| S7 Android openen hoek onderin | Ctrl + H                | ESC > Configure > Controls > Configure Addons > cTab > Toggle Main Interface               |
+| S7 Android openen groot        | Alt + H                 | ESC > Configure > Controls > Configure Addons > cTab > Toggle Secondary Interface          |
+| PC tablet openen               | Ctrl + Alt + H          | ESC > Configure > Controls > Configure Addons > cTab > Toggle Main Tertiary                |
+| Zoom in                        | Shift + Ctrl + Page Up  | ESC > Configure > Controls > Configure Addons > cTab > Zoom In                             |
+| Zoom out                       | Shift + Ctrl + Page Down| ESC > Configure > Controls > Configure Addons > cTab > Zoom Out                            |
+| Switch S7 Android links/rechts | Shift + Ctrl + Home     | ESC > Configure > Controls > Configure Addons > cTab > Toggle Interface Position           |
 
 Het verdere gebruik van ACE Medical (Basis EHBO), het gebruik van AT (Anti Tank) en het geavanceerd tekenen op de kaart (leiding) vind je onder de andere hoofdstukken.
