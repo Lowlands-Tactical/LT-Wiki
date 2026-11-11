@@ -20,7 +20,7 @@ Welkom bij de installatiehandleiding voor de Lowlands Tactical modset. Volg de o
 
 ## Voorbereiding
 
-Voor je begint:
+Voor je begint: 
 
 - Plan tijd in, de modset is ± 58 GB.
 - Zorg dat je deze software hebt geïnstalleerd:
