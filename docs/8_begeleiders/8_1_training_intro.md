@@ -3,7 +3,7 @@ layout: doc
 title: 8.1. Intro
 author: "R.Hoods"
 date_created: "03-07-2026"
-date_updated: "09-07-2026"
+date_updated: "10-11-2026"
 updated_by: "DM en R.Hoods"
 ---
 # 8.1. Intro Begeleiders
@@ -31,7 +31,7 @@ Vanaf een aanmelding van een gast, zorgt de staf voor de volgende acties:
     - Vertel wat over jezelf?
     - Hoe oud ben je?
     - Heb je een goed werkende headset en geen achtergrondgeluiden?
-    - Beschik je over een legale versie van Arma 3 en heb je de DLC's: APEX, Contact, Western Sahara en Global Mobilization?
+    - Beschik je over een legale versie van Arma 3 en heb je de DLC's: APEX, Contact, Western Sahara, Global Mobilization en Expeditionary Forces en S.O.G. Prairie Fire (optioneel)?
     - Heb je ervaring met Arma 3 en/of andere clans/communities?
     - Wat zijn jouw verwachtingen? Wat bieden wij en wat zijn de verwachtingen van Lowtac:
         - Allemaal 18+.

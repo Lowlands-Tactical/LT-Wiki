@@ -18,7 +18,7 @@ Wanneer jij je aanmeldt bij Lowtac zal een staflid contact met je opnemen voor e
     * Check leeftijd 18+, ervaring met Arma 3 en speelstijl.
     * Wederzijdse verwachtingen afstemmen.
     * Controle op een goed werkende headset zonder achtergrondgeluid.
-    * Controle op het bezit van: Legale standaard Arma 3 met de DLC; APEX, Contact, Western Sahara, Global Mobilization en S.O.G. Prairie Fire (optioneel).
+    * Controle op het bezit van: Legale standaard Arma 3 met de DLC; APEX, Contact, Western Sahara, Global Mobilization, Expeditionary Forces en S.O.G. Prairie Fire (optioneel).
     * Uitleg over Lowtac. 
     * Afstemmen of je kan commiteren op minimaal 50% aanwezigheid, maar het liefst natuurlijk meer!
     * Bij een positief gevoel van beide kanten wordt je Aspirant-lid en doorloop je de "aspirantenfase"
