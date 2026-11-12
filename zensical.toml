@@ -55,7 +55,7 @@ nav = [
     {"Pelotonscommandant" = "6_leiding/6_1_pc.md"},
     {"Groepscommandant" = "6_leiding/6_2_gc.md"},
     {"Vuurteamleider" = "6_leiding/6_3_vtl.md"},
-    {"Map Marker Setter" = "6_leiding/6_4_ms.md"},
+    {"Markersplus" = "6_leiding/6_4_ms.md"},
     {"Alive Combat Support" = "6_leiding/6_5_acs.md"},
   ]},
   {"Missiemakers" = [
