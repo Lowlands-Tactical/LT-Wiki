@@ -3,7 +3,7 @@ layout: doc
 title: 8.1. Intro
 author: "R.Hoods"
 date_created: "03-07-2026"
-date_updated: "10-11-2026"
+date_updated: "11-11-2026"
 updated_by: "DM en R.Hoods"
 ---
 # 8.1. Intro Begeleiders
@@ -88,10 +88,10 @@ Doorloop de intro baan op Kamp Holland. Leg per station de volgende punten uit e
 Controleer of de aspirant de toetsinstellingen goed heeft overgenomen van [1.3. Toetsinstellingen](https://lowlands-tactical.github.io/LT-Wiki/1_algemene_informatie/1_3_toetsinstellingen/)
 
 ### Station 1 - Uitleg regels
-1. Minimaal 2 van de 4 vrijdagen per maand aanwezig. Wij steken er ook veel tijd in.
+1. Minimaal 2 van de 4 vrijdagen per maand aanwezig. Wij steken er ook veel tijd in met missiemaken, testen en ontwikkelen.
 2. Luisteren naar de orders van de PC, GC en VTL en doe je best deze uit te voeren.
 3. Serieuze/volwassen speelstijl hanteren (een grapje kan tussendoor).
-4. Looten van lichamen is niet toegestaan, wapens pakken van vijanden niet toegestaan zonder orders. 
+4. Looten van lichamen en kisten is niet toegestaan, wapens pakken van vijanden niet toegestaan zonder orders. 
 5. Blijf bij je buddy.
 
 ### Station 2 - Uitleg algemeen
@@ -130,13 +130,14 @@ Doorloop met de cursist het beweegparcours.
 5. Klimmen (Enhanced movement)
 6. Snelheden van lopen/wandelen
 7. Verplaatsingssnelheden (wapen neer en combat pace)
-8. Leunen en schiethoogtes
+8. Leunen en schiethoogtes (ctrl + w/s)
 
 ### Station 5 - Scroll Menu, ACE interact en Self Interact en Scroll Menu
 1. Leg uit wat het verschil is tussen ACE interact en het scroll menu.
 2. Laat zien welke mogelijkheden er zitten in het Self Interact menu.
 3. Laat op jou interacten.
 4. Laat de aspirant van teamkleur veranderen, jou als buddy assignen, magazijnen doorgeven en op je schouder kloppen.
+5. Laat de aspirant door het huis lopen, in het voertuig gaan, de gates openen, etc.
 
 ### Station 6 - Radio's
 1. Leg uit hoe direct voice werkt en hoe de vijand hierop reageert.
@@ -150,11 +151,13 @@ Doorloop met de cursist het beweegparcours.
 
 ### Station 7 - Standaard Gear
 1. Laat de aspirant op I drukken en beschrijf hoe de inventory werkt.
+2. Laat wat spullen uit de kisten pakken, op de grond leggen, weer oppakken, etc.
 
 ### Station 8 - Kaart gebruiken
 1. Laat de kaart openen.
 2. Beschrijf alle keybinds: point, lijnen, rechte lijnen en map markers plaatsen.
 3. Leg uit hoe wij de map markers gebruiken: Pointen kan alleen dicht bij elkaar, OPFOR kleur = vijand, punt op gebouw = clear, punt met tekst = dreiging, kleurcodering voor teams, Blueforce tracker, radio frequenties, verplaatsingsroutes, etc.
+4. Leg uit hoe Markerplus globaal werkt.
 
 ### Station 9 - Voertuigen
 1. Laat de cursist het voertuig aan de buitenkant bekijken met ACE interact. Beschrijf de mogelijkheden.
@@ -166,12 +169,19 @@ Doorloop met de cursist het beweegparcours.
 7. Leg uit wat tussenafstanden zijn en hoe je versprongen rijdt.
 
 ### Station 10 - ACE Medical
+Waar nodig kun je de aspirant medic maken via de laptop op locatie.
 1. Laat wat patiënten inspawnen via de laptop.
 2. Laat met H en met ACE interact het Medical Menu openen.
 3. Doorloop alle stappen uit de training [2.6. Basis EHBO](https://lowlands-tactical.github.io/LT-Wiki/2_basisvaardigheden/2_6_basis_ehbo/).
 4. Rijd door naar het volgende station.
 
-### Station 11 - Wapenbasis
+### Station 11 - Formaties
+1. Loop alle formaties langs en maak dit visueel met de borden van bovenaf.
+2. Bespreek de formaties met de zichtzijdes van Alpha 1 en Alpha 2.
+3. Benoem de uitgesprongen Autorifleman bij enkele colonne.
+4. Beschrijf per formatie waarvoor deze dient.
+
+### Station 12 - Wapenbasis
 1. Werk op de schietbaan van links naar rechts.
 2. Laat het wapen rusten. Leg het belang hiervan uit (misclick, alt-tab fire).
 3. Switch tussen de voormodussen en de underslung.
@@ -181,7 +191,7 @@ Doorloop met de cursist het beweegparcours.
 7. Wissel naar de volgende baan.
 8. Laat de cursist met HE op doelen schieten. Laat ook in ramen van gebouwen schieten.
 
-### Station 12 - ACE Throw
+### Station 13 - ACE Throw
 1. Controleer of de enkele G toets niks meer doet. Voorkom dat per ongeluk granaten gegooid kunnen worden.
 2. Controleer of ACE Throwable Drop Mode is uitgeschakeld. Controls > Configure Addons > ACE Weapons > Throwable Drop Mode (Toggle).
 3. Laat de cursist een granaat pakken. Leg uit hoe de stippellijnen werken.
@@ -193,7 +203,7 @@ Doorloop met de cursist het beweegparcours.
 9. Laat de fragmentatie van een granaat zien.
 10. Wissel naar het volgende station.
 
-### Station 13 - AT-procedure
+### Station 14 - AT-procedure
 1. Leg als de tijd het toelaat de basis van de verschillende voertuigcategoriën uit: technicals, bewapende technicals, APC's, Tanks, AA en Artillerie.
 2. Leg uit wat de AT-procedure is:
     - De GC/PC roept ‘AT gereedmaken!’.
@@ -204,7 +214,11 @@ Doorloop met de cursist het beweegparcours.
     - De AT’er vuurt op doel.
 3. Laat de cursist ervaren wat het is om backblast te ontvangen.
 
-### Station 14 - Vragen?
+### Station 15 - Voertuigwapens
+1. Leg uit wat de verschillende voertuigwapens zijn: .50, HMG, GMG, AT en Tankwapen.
+2. Laat de cursist alle verschillende wapens kort uitproberen op voertuigen.
+
+### Station 16 - Vragen?
 1. Leg uit dat de intro erop zit.
 2. Beantwoord vragen waar nodig.
 3. Stem af wat nodig is om de eerstvolgende vrijdag mee te doen.
@@ -214,3 +228,8 @@ Doorloop met de cursist het beweegparcours.
 De begeleider laat na de introductie in het kanaal 'Begeleiders' op Discord weten hoe de introductie is gegaan en wanneer het aspirant-lid voor het eerst mee zal spelen.  
 De begeleider begeleidt het aspirant-lid gedurende een maand (minimaal 4 sessies), waarna begeleider en staf met elkaar afstemmen of het aspirant-lid klaar is om volledig lid te worden.
 Tijdens de aspirantenfase bied je één of meerdere trainingen over de basisvaardigheden aan.  
+
+## Basisvaardigheden training
+Behandel de basisvaardigheden training(en) in de 4 weken dat de aspirant nog in de aspirantenfase zit. Zo is hij goed voorbereid als A3-lid.
+De trainingen staan uitgeschreven onder hoofdstuk 2 en zijn daarom niet los benoemd bij begeleiders.
+Werk alle stations van de rode baan af en vertel de informatie van hoofdstuk 2.
